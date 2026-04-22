@@ -1,137 +1,56 @@
-# AIWA Policy Repository
+AI West Africa Governance & Policy
+----------------------------------
 
-The complete policy framework for AI West Africa (AIWA) — a Gambian-based publishing, cultural classification, and rights administration system designed to manage modern creative works alongside protected cultural heritage.
+This repository contains the complete policy framework for **AI West Africa (AIWA)** --- a Gambian-based publishing, cultural classification, and rights administration system designed to manage modern creative works alongside protected cultural heritage.
 
----
+The system establishes:
 
-## About AIWA
+-   clear distinctions between **modern works and expressions of folklore**
+-   a structured approach to **cultural classification and risk handling**
+-   a legally aligned framework based on **Gambian law and institutional authority**
+-   a controlled operational model for **intake, review, approval, restriction, and escalation**
+-   a governance structure that balances **local stewardship (AIWA)** with **global rights execution (PRIME, non-exclusive offshore partner)**
 
-AIWA is:
+This repository is not a collection of general policies.\
+It is a **deterministic, auditable system** designed to:
 
-- A Gambian-based publishing and media company.
-- A copyright administrator.
-- A cultural classification system.
-- A stewardship and payout system.
-- The controlled intake and governance layer for all works.
+-   protect creators
+-   protect cultural heritage
+-   enable global monetization
+-   prevent misuse, misclassification, and unauthorized exploitation
 
-AIWA operates with PRIME — a non-exclusive offshore rights and exploitation partner partially owned by the same founders. PRIME is not the local steward.
+The policy architecture is built around three core documents:
 
----
+1.  **Cultural Resource & Classification (Definitions Layer)**\
+    Defines what constitutes a work, folklore, and cultural material, and establishes boundaries between modern creation and inherited cultural expression.
+2.  **Governing Legal Alignment & Structural Reality**\
+    Defines the legal hierarchy, ministry alignment, and the relationship between AIWA and its offshore partner (PRIME), including ownership structure and jurisdictional boundaries.
+3.  **Process & Procedures for All Works**\
+    Defines the full operational lifecycle for all submissions, including intake, classification, rights verification, cultural review, government authorization handling, decision-making, and monitoring.
 
-## Core Principles
+Supporting standards ensure consistency across all documents, including terminology, classification matrices, and governance roles.
 
-- Gambian law governs first.
-- Cultural protection is real and enforceable.
-- Modern creators retain ownership of their works.
-- Cultural influence does not equal folklore.
-- Folklore is defined by collective origin and lack of identifiable author.
-- Government authorization is permission, not ownership.
-- AIWA is the mandatory local steward.
-- PRIME is non-exclusive and offshore.
-- No single actor has majority control.
-- When in doubt — restrict.
+This system is designed to operate in environments where:
 
----
+-   legal definitions are partially defined
+-   cultural authority is real but not always codified
+-   multiple government bodies may have overlapping jurisdiction
+-   global distribution infrastructure exists outside the local market
 
-## Repository Structure
+The result is a framework that is:
 
-```
-/aiwa-policy/
-    /docs/
-        /01-cultural-classification/
-            cultural-resource-classification-definitions.md   (AIWA-DOC-01)
-        /02-legal-alignment/
-            governing-legal-alignment-structural-reality.md   (AIWA-DOC-02)
-        /03-process-procedures/
-            process-and-procedures-for-all-works.md           (AIWA-DOC-03)
-    /standards/
-        terminology.md           (AIWA-STD-01)
-        definitions.md           (AIWA-STD-02)
-        classification-matrix.md (AIWA-STD-03)
-    /templates/
-        policy-template.md
-        procedure-template.md
-    /governance/
-        roles-and-responsibilities.md   (AIWA-GOV-01)
-        decision-framework.md           (AIWA-GOV-02)
-    README.md
-```
+-   **legally grounded**
+-   **culturally aware**
+-   **operationally strict**
+-   **scalable and auditable**
+-   **resistant to ambiguity and abuse**
+
+AI West Africa acts as the **mandatory local steward**, while global rights execution may be performed through **non-exclusive offshore partnerships**, ensuring both local legitimacy and international reach.
 
 ---
 
-## Core Documents
-
-### AIWA-DOC-01 — Cultural Resource & Classification — Definitions Layer
-
-**Location:** `docs/01-cultural-classification/cultural-resource-classification-definitions.md`
-
-Defines what a work is, defines folklore, defines the distinction between cultural works and modern creations, and establishes classification boundaries. Contains no process, workflow, or procedures.
-
-### AIWA-DOC-02 — Governing Legal Alignment & Structural Reality
-
-**Location:** `docs/02-legal-alignment/governing-legal-alignment-structural-reality.md`
-
-Defines the legal hierarchy, the AIWA and PRIME structural relationship, the offshore and local arrangement, and ministry overlap. Contains no process or workflow.
-
-### AIWA-DOC-03 — Process & Procedures for All Works
-
-**Location:** `docs/03-process-procedures/process-and-procedures-for-all-works.md`
-
-Defines the end-to-end process for all works entering and managed within the AIWA system. Stage-based. Covers submission, classification, legal review, stewardship, offshore referral, and ongoing records.
+AI West Africa is a Busumbla Born, Gambian Grown Company.
 
 ---
 
-## Standards
-
-| File | Document ID | Description |
-|------|-------------|-------------|
-| `standards/terminology.md` | AIWA-STD-01 | All key terms used across AIWA documents |
-| `standards/definitions.md` | AIWA-STD-02 | Central reference for work, folklore, cultural work, dataset, AI use |
-| `standards/classification-matrix.md` | AIWA-STD-03 | Work type → classification → allowed actions mapping |
-
----
-
-## Governance
-
-| File | Document ID | Description |
-|------|-------------|-------------|
-| `governance/roles-and-responsibilities.md` | AIWA-GOV-01 | All roles and their authority boundaries |
-| `governance/decision-framework.md` | AIWA-GOV-02 | Decision logic, allowed states, control rules, escalation path |
-
----
-
-## Templates
-
-| File | Description |
-|------|-------------|
-| `templates/policy-template.md` | Template for new AIWA policy documents |
-| `templates/procedure-template.md` | Template for new AIWA procedure documents |
-
----
-
-## Allowed Decision States
-
-All decisions in the AIWA system must use one of the following states only:
-
-| State | Meaning |
-|-------|---------|
-| Approved | Cleared for the stated scope of use |
-| Approved with Limits | Cleared with defined restrictions |
-| Held | Paused pending further information or review |
-| Restricted | Blocked from the stated use |
-| Rejected | Does not meet entry requirements |
-| Escalated | Referred to the Governance Board |
-
-No additional decision states are permitted.
-
----
-
-## Classification Logic (Locked)
-
-- Modern work ≠ folklore.
-- Cultural influence ≠ folklore.
-- Folklore = collective origin + no identifiable author.
-- Modern retelling = modern work.
-
-This logic must not be altered.
-
+Copyright (c) 2026 AI West Africa. All rights reserved.
