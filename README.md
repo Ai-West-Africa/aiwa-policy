@@ -1,51 +1,92 @@
-AI West Africa Governance & Policy
-----------------------------------
+# AI West Africa Governance & Policy
 
-This repository contains the complete policy framework for **AI West Africa (AIWA)** --- a Gambian-based publishing, cultural classification, and rights administration system designed to manage modern creative works alongside protected cultural heritage.
+This repository contains the policy framework for **AI West Africa (AIWA)** — a Gambian-based publishing, cultural classification, and rights administration system designed to manage modern creative works alongside protected cultural heritage.
 
-The system establishes:
+---
 
--   clear distinctions between **modern works and expressions of folklore**
--   a structured approach to **cultural classification and risk handling**
--   a legally aligned framework based on **Gambian law and institutional authority**
--   a controlled operational model for **intake, review, approval, restriction, and escalation**
--   a governance structure that balances **local stewardship (AIWA)** with **global rights execution (PRIME, non-exclusive offshore partner)**
+## Status
 
-This repository is not a collection of general policies.\
-It is a **deterministic, auditable system** designed to:
+> **Framework initialized. Document content is pending.**
+> All document shells have been created with the correct structure, section headings, and authoring rules.
+> Content for each document will be supplied and populated in subsequent PRs.
 
--   protect creators
--   protect cultural heritage
--   enable global monetization
--   prevent misuse, misclassification, and unauthorized exploitation
+---
 
-The policy architecture is built around three core documents:
+## Repository Structure
 
-1.  **Cultural Resource & Classification (Definitions Layer)**\
-    Defines what constitutes a work, folklore, and cultural material, and establishes boundaries between modern creation and inherited cultural expression.
-2.  **Governing Legal Alignment & Structural Reality**\
-    Defines the legal hierarchy, ministry alignment, and the relationship between AIWA and its offshore partner (PRIME), including ownership structure and jurisdictional boundaries.
-3.  **Process & Procedures for All Works**\
-    Defines the full operational lifecycle for all submissions, including intake, classification, rights verification, cultural review, government authorization handling, decision-making, and monitoring.
+```
+/aiwa-policy/
+    /docs/
+        /01-cultural-classification/
+            cultural-resource-classification-definitions.md   (AIWA-DOC-01) — PLACEHOLDER
+        /02-legal-alignment/
+            governing-legal-alignment-structural-reality.md   (AIWA-DOC-02) — PLACEHOLDER
+        /03-process-procedures/
+            process-and-procedures-for-all-works.md           (AIWA-DOC-03) — PLACEHOLDER
+    /standards/
+        terminology.md           (AIWA-STD-01) — PLACEHOLDER
+        definitions.md           (AIWA-STD-02) — PLACEHOLDER
+        classification-matrix.md (AIWA-STD-03) — PLACEHOLDER
+    /templates/
+        policy-template.md       ← authoring template for policy/definitions documents
+        procedure-template.md    ← authoring template for stage-based procedure documents
+    /governance/
+        roles-and-responsibilities.md   (AIWA-GOV-01) — PLACEHOLDER
+        decision-framework.md           (AIWA-GOV-02) — PLACEHOLDER
+    README.md
+```
 
-Supporting standards ensure consistency across all documents, including terminology, classification matrices, and governance roles.
+---
 
-This system is designed to operate in environments where:
+## Document Index
 
--   legal definitions are partially defined
--   cultural authority is real but not always codified
--   multiple government bodies may have overlapping jurisdiction
--   global distribution infrastructure exists outside the local market
+| Document ID | File | Status |
+|-------------|------|--------|
+| AIWA-DOC-01 | `docs/01-cultural-classification/cultural-resource-classification-definitions.md` | Placeholder |
+| AIWA-DOC-02 | `docs/02-legal-alignment/governing-legal-alignment-structural-reality.md` | Placeholder |
+| AIWA-DOC-03 | `docs/03-process-procedures/process-and-procedures-for-all-works.md` | Placeholder |
+| AIWA-STD-01 | `standards/terminology.md` | Placeholder |
+| AIWA-STD-02 | `standards/definitions.md` | Placeholder |
+| AIWA-STD-03 | `standards/classification-matrix.md` | Placeholder |
+| AIWA-GOV-01 | `governance/roles-and-responsibilities.md` | Placeholder |
+| AIWA-GOV-02 | `governance/decision-framework.md` | Placeholder |
 
-The result is a framework that is:
+---
 
--   **legally grounded**
--   **culturally aware**
--   **operationally strict**
--   **scalable and auditable**
--   **resistant to ambiguity and abuse**
+## Authoring Templates
 
-AI West Africa acts as the **mandatory local steward**, while global rights execution may be performed through **non-exclusive offshore partnerships**, ensuring both local legitimacy and international reach.
+Use the templates in `/templates/` when populating document content:
+
+| Template | Use For |
+|----------|---------|
+| `templates/policy-template.md` | AIWA-DOC-01, AIWA-DOC-02, standards documents |
+| `templates/procedure-template.md` | AIWA-DOC-03, any stage-based procedure document |
+
+Each template includes formatting rules, language controls, locked classification logic, and locked decision states. Follow the authoring instructions in each template before populating any document.
+
+---
+
+## Locked Rules (Apply to All Documents)
+
+### Classification Logic
+- Modern work ≠ folklore.
+- Cultural influence ≠ folklore.
+- Folklore = collective origin + no identifiable author.
+- Modern retelling = modern work.
+
+### Decision States
+Only these six states are permitted across the entire system:
+
+| State | Meaning |
+|-------|---------|
+| Approved | Cleared for the stated scope of use |
+| Approved with Limits | Cleared with defined restrictions |
+| Held | Paused pending further information or review |
+| Restricted | Blocked from the stated use |
+| Rejected | Does not meet entry requirements |
+| Escalated | Referred to the Governance Board |
+
+No additional states may be introduced.
 
 ---
 
