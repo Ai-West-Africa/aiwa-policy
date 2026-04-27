@@ -66,6 +66,26 @@
 
 ---
 
+## 3A. Terminology Alignment — AIWA and SPARXSTAR
+
+3A.1 Purpose. AIWA and SPARXSTAR use partially overlapping terminology to describe related but distinct operations. This section establishes the canonical mapping between AIWA governance terminology and SPARXSTAR platform terminology to prevent interpretive inconsistency.
+
+3A.2 Canonical Term Mapping.
+
+| AIWA Term | SPARXSTAR Equivalent | Scope Note |
+|---|---|---|
+| Lexical extraction | Word extraction / linguistic processing | AIWA term governs classification and cultural decisions; SPARXSTAR term governs technical implementation |
+| System-level dataset | Structured dataset | Functionally equivalent; SPARXSTAR definition governs technical and legal rights in the compiled structure |
+| Linguistic parsing | Linguistic analysis | Synonymous for processing purposes |
+| Semantic analysis | Semantic mapping | Overlapping; SPARXSTAR term encompasses the organized output structure; AIWA term describes the analytical operation |
+| Condition of submission | Consent at intake | Functionally equivalent; AIWA term applies to Gambian law context; SPARXSTAR term applies to platform consent framework |
+| Cultural classification | Content classification (TK layer) | AIWA classification is the authoritative source; SPARXSTAR enforces it at the technical layer via DVE governance |
+| Folklore designation | TK Red / Sacred Content classification | AIWA determination is primary; SPARXSTAR enforces via DVE; both systems treat this category as non-overridable at the processing layer |
+
+3A.3 Governing Rule. Where AIWA terminology and SPARXSTAR terminology appear to conflict in the interpretation of a specific matter: (a) cultural classification, folklore status, and community permissions are governed by AIWA terminology and AIWA decisions; (b) technical processing operations, data transformation, and system-level data rights are governed by SPARXSTAR terminology and SPARXSTAR framework; and (c) both must be interpreted in a manner that preserves the function of each system.
+
+---
+
 ## 4. Order of Authority
 
 4.1. The following order of authority applies across all AIWA operations:
@@ -99,7 +119,7 @@ There are no barriers preventing work from being performed inside The Gambia. AI
 
 5.3. This structure is therefore not a limitation of capability. It is a response to global infrastructure reality.
 
-5.4. Cross-border rights administration through PRIME is used to improve international access, collections, and monetization, while preserving local stewardship in AIWA.
+5.4. Cross-border rights administration through PRIME is used to improve international access, collections, and monetization, while preserving local stewardship in AIWA. All offshore rights administration through PRIME is subject to applicable Gambian law where Gambian law applies, and to the formal jurisdictional authority of applicable Gambian institutions where their authority extends to the relevant matter.
 
 5.5. There is no comparable in-country distribution backbone for global exploitation. Rights are therefore administered offshore for global purposes. All management, classification, and payout routing remain in AIWA.
 
