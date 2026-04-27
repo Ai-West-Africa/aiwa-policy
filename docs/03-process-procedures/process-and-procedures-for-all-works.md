@@ -770,7 +770,7 @@ A written audit report delivered to the Governance Board, identifying performanc
 | Layer | Owner | Treatment |
 |---|---|---|
 | Original Work | Contributor | Subject to publishing, distribution, and restriction rules |
-| Extracted Language Data | AIWA (system-level data) | Not treated as the original work; not a substitute for the original work |
+| Extracted Language Data | AIWA (rights in structured representation and arrangement) | Not the original work; not a substitute for the original work; AIWA holds rights in the compiled structure, not in individual linguistic elements |
 
 9.5. Submission to AIWA constitutes the contributor's agreement to system processing. If a contributor does not agree to system processing, the contributor must not submit to AIWA.
 
@@ -881,6 +881,8 @@ A written audit report delivered to the Governance Board, identifying performanc
 - assume contributor guilt before determination; or
 - assume authority beyond what the law grants.
 
+10.8.3 Notice to Contributor. Where a government authority contacts AIWA regarding a contributor's work, AIWA will notify the relevant contributor of the inquiry as promptly as practicable, unless: (a) the applicable government authority has directed AIWA not to disclose the inquiry; (b) applicable law prohibits such disclosure; or (c) AIWA's legal counsel advises that disclosure would create legal risk for AIWA or would interfere with a lawful investigation. Where notice cannot be given immediately, AIWA will provide notice at the earliest point that disclosure is permissible.
+
 ### 10.9. Record Preservation
 
 10.9.1. AIWA must retain throughout the breach handling process:
@@ -891,15 +893,19 @@ A written audit report delivered to the Governance Board, identifying performanc
 - communication logs; and
 - decision records.
 
-### 10.10. Non-Negotiable Rule
+### 10.10. AIWA's Position on Contributor Breach
 
-10.10.1. AIWA is not responsible for a contributor's breach.
+10.10.1 AIWA does not assume primary responsibility for a contributor's breach of submission rules, misrepresentation of rights, or false declaration of ownership or origin. Primary responsibility for the accuracy of submissions rests with the contributor.
 
-10.10.2. AIWA is responsible for:
+10.10.2 AIWA is responsible for:
 
-- documented response;
-- controlled handling; and
-- lawful compliance.
+(a) documented response to identified breaches;
+
+(b) controlled handling in accordance with the procedures defined in this document; and
+
+(c) lawful compliance with applicable Gambian law and any applicable governmental direction.
+
+10.10.3 Nothing in this Section limits AIWA's liability to the extent that such liability cannot be excluded under applicable Gambian law or other applicable law. AIWA's liability for its own operational failures, documentation failures, or procedural violations is governed by AIWA's applicable liability framework.
 
 ---
 
