@@ -58,7 +58,7 @@ All terms are listed in alphabetical order.
 | **Educational Material** | A work created primarily for use in formal or informal education. |
 | **Escalated** | A decision state. The work is referred to the Governance Board or an external authority for determination. |
 | **Elevated Classification** | The classification level applied when trigger conditions indicate cultural, communal, or restriction risk. Elevated works are flagged for deeper review but are not automatically reclassified as folklore. |
-| **Exploitation** | Any commercial or public use of a work, including publication, distribution, monetization, licensing, and AI training. |
+| **Exploitation** | Any commercial or public use of a work, including publication, distribution, monetization, licensing, and educational system processing. |
 | **Expressions of Folklore** | See Folklore. |
 | **Extreme Case Classification** | The classification level applied when state, cultural, or legal sensitivity triggers the highest level of restriction. Applies to sacred material, government-recognized heritage, ceremonially restricted content, and cross-border cultural claims. |
 | **Fixed** | Recorded, written, captured, or otherwise made persistent in a tangible form. A work must be fixed to qualify as a work under the AIWA system. |

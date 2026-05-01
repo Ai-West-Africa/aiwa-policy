@@ -138,17 +138,17 @@
 
 ---
 
-### 3.10. AI Training Candidate
+### 3.10. Educational Processing Candidate
 
-*AI Training Candidate is a use declaration applied alongside a primary work type. It is not a standalone classification. The classification of the primary work type controls AI eligibility.*
+*Educational Processing Candidate (also referred to as AI Training Candidate) is a use declaration applied alongside a primary work type. It is not a standalone classification. The classification of the primary work type controls eligibility for educational system use.*
 
-| Primary Classification | AI Training Use |
+| Primary Classification | Educational System Use |
 |---|---|
 | Class 1 — Original Individual Work | Permitted where rights are clear |
 | Class 2 — Culturally Derived Work | Permitted with tagging and defined limits |
 | Class 3 — Community-Linked Work | Only with special approval |
 | Class 4 — Restricted Work | Blocked unless lawfully and specifically authorized |
-| Class 4A — Government-Authorized Restricted | Only if the verified authorization explicitly permits AI training use |
+| Class 4A — Government-Authorized Restricted | Only if the verified authorization explicitly permits educational system processing use |
 
 ---
 
