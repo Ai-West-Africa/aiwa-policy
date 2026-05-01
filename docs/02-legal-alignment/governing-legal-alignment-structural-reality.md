@@ -21,6 +21,8 @@
 
 1.5. This document does not contain process or operational workflow. Those are contained in AIWA-DOC-03.
 
+1.6. **Organizational Positioning.** AIWA is an educational publishing and literacy-development organization that facilitates the creation, classification, and preservation of modern participant-created works originating from Gambian and West African contributors. AIWA operates as the mandatory local steward of cultural and creative works entering the AIWA system, supporting Gambian creators and communities through structured rights administration, educational resource development, and culturally respectful archiving.
+
 ---
 
 ## 2. Core Structural Statement
@@ -62,7 +64,7 @@
 
 3.4. Expressions of folklore under Gambian law are held in trust for the people of The Gambia. Neither AIWA nor PRIME may convert protected cultural material into private property or bypass legal and cultural protections that apply to such material.
 
-3.5. The UNESCO 2003 Convention for the Safeguarding of Intangible Cultural Heritage, UNESCO frameworks for AI ethics and cultural governance, and international child-rights frameworks are used as interpretive support for safeguarding, review procedures, and cultural governance. These international frameworks support Gambian law. They do not replace it.
+3.5. The UNESCO 2003 Convention for the Safeguarding of Intangible Cultural Heritage, UNESCO frameworks for AI ethics and cultural governance, and international child-rights frameworks are used as interpretive support for safeguarding, review procedures, and cultural governance. Gambian educational and institutional frameworks, including the MoBSE Education Sector Policy, the Gambia ICT4D Policy, and applicable national child protection and youth policies, provide additional contextual guidance for AIWA's educational operations. These international and national frameworks support Gambian law. They do not replace it.
 
 ---
 
@@ -262,6 +264,8 @@ These reserved governance rights apply regardless of equity percentage.
 9.4. Where a dispute exists over whether something qualifies as an ethnographical article, cultural artefact, or protected expression, the decision of the relevant Gambian authority is final within its jurisdiction.
 
 9.5. UNESCO frameworks for intangible cultural heritage safeguarding affirm that States identify and define intangible cultural heritage, ideally with participation of the communities concerned. AIWA supports this approach. AIWA is a steward and classifier. AIWA is not the sovereign authority over protected heritage questions.
+
+9.6. Nothing in this framework grants AIWA ownership over communal cultural heritage, sacred traditions, or community-owned cultural expressions. Potentially sensitive materials may be restricted, excluded, or subject to additional review where appropriate.
 
 ---
 

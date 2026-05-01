@@ -1,6 +1,6 @@
 # AI West Africa Governance & Policy
 
-This repository contains the policy framework for **AI West Africa (AIWA)** — a Gambian-based publishing, cultural classification, and rights administration system designed to manage modern creative works alongside protected cultural heritage.
+This repository contains the policy framework for **AI West Africa (AIWA)** — an educational publishing and literacy-development organization operating as a Gambian-based cultural classification, rights administration, and educational archiving system. AIWA facilitates the creation, classification, and preservation of modern participant-created works by Gambian and West African contributors, while protecting protected cultural heritage and ensuring economic return to creators and communities.
 
 ---
 
@@ -56,7 +56,7 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
 ## Document Summaries
 
 ### AIWA-DOC-01 — Cultural Resource & Classification — Definitions Layer
-Defines what a work is, what folklore is, the five-class classification model, classification levels (Baseline, Elevated, Extreme Case), AI use and monetization boundaries, ownership boundaries, lexical extraction as a system invariant, and the five confirmational statements required from all contributors.
+Defines what a work is, what folklore is, the five-class classification model, classification levels (Baseline, Elevated, Extreme Case), AI use and monetization boundaries, ownership boundaries, lexical extraction as a system condition for educational archiving, and the five confirmational statements required from all contributors.
 
 ### AIWA-DOC-02 — Governing Legal Alignment & Structural Reality
 Defines the legal hierarchy with Gambian law as the primary authority, AIWA's role as mandatory local steward, PRIME's role as non-exclusive offshore partner, the offshore ownership structure (Max 35% / Muhammed 35% / AIWA 30%), ministry jurisdiction and overlap, government authorization handling, and the core non-negotiable structural statements.

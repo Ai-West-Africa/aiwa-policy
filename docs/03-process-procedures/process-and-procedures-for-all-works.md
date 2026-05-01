@@ -71,7 +71,7 @@
 - encyclopedias;
 - datasets;
 - language resources;
-- AI training candidates;
+- works submitted for educational language processing or archival use;
 - culturally linked works;
 - folklore-linked works; and
 - government-authorized restricted works.
@@ -184,7 +184,7 @@ All submitted works are processed for lexical extraction.
 
 ### 7.2.2. Why
 
-The system operates on words and implied meaning as its core data layer. Lexical extraction provides the system with the internal data required for indexing, understanding, and system-level learning. This extraction is independent of classification and independent of AI use permissions.
+The system operates on words and implied meaning as its core data layer. Lexical extraction provides the system with the internal data required for educational indexing, language resource development, and institutional language support. This extraction is independent of classification and independent of educational system use permissions.
 
 ### 7.2.3. Who
 
@@ -748,15 +748,17 @@ A written audit report delivered to the Governance Board, identifying performanc
 
 ## 9. System Processing Rights
 
-9.1. **All submitted material is processed into words, phrases, and implied meaning.** This is not optional. This is not user-controlled. This is not tied to AI permission settings.
+9.1. **All submitted material is processed into words, phrases, and implied meaning.** This is not optional. This is not user-controlled. This is not tied to educational system use permission settings.
 
-9.2. AIWA has the right to:
+9.2. By submitting a work to AIWA, the contributor grants AIWA a non-exclusive, royalty-free right to:
 
 - parse submitted works;
 - extract linguistic elements;
 - derive meaning structures;
 - index and store extracted data; and
-- use extracted data within internal AIWA systems.
+- use extracted data within internal AIWA educational and archival systems.
+
+The contributor retains ownership of the original submitted work. This right does not constitute a transfer of ownership.
 
 9.3. This right applies to:
 

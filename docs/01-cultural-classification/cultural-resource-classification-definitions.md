@@ -61,9 +61,9 @@
 
 3.9. **Dataset or Compilation** — Any structured collection of data, facts, records, or other materials which, by reason of the selection or arrangement of its contents, constitutes an intellectual creation. A dataset is owned only in its structure, selection, and arrangement. The underlying data points are not owned solely by reason of their inclusion.
 
-3.10. **Language Resource** — Any structured collection of words, phrases, grammatical structures, or linguistic data created for the purpose of language documentation, preservation, or AI processing. Language itself is not owned. A language resource is owned only in its structure, selection, and arrangement.
+3.10. **Language Resource** — Any structured collection of words, phrases, grammatical structures, or linguistic data created for the purpose of language documentation, preservation, or educational language development. Language itself is not owned. A language resource is owned only in its structure, selection, and arrangement.
 
-3.11. **AI Training Candidate** — Any work submitted with a declared or requested intent for use in AI training, processing, or machine learning systems. AI Training Candidate is a use declaration, not a standalone work type. It must be combined with one of the work types above. AI use eligibility is controlled by classification, not by this designation alone.
+3.11. **Educational Processing Candidate** — Any work submitted with a declared or requested intent for use in educational language systems, educational archives, or institutional processing and analysis systems. Educational Processing Candidate is a use declaration, not a standalone work type. It must be combined with one of the work types above. Eligibility for educational system use is controlled by classification, not by this designation alone. Where this designation is referred to as "AI Training Candidate" in other documents or systems, the same definition applies.
 
 3.12. **Media Mapping Reference Table**
 
@@ -79,7 +79,7 @@
 | Dictionary / Encyclopedia | Reference Work |
 | Dataset | Dataset or Compilation |
 | Language Corpus | Language Resource |
-| AI Training Data | Not a standalone type — governed by reproduction and database rules |
+| Educational System Processing Materials | Not a standalone type — governed by reproduction and database rules |
 
 ---
 
@@ -334,6 +334,8 @@ These two conditions are not mutually exclusive. Both may apply simultaneously. 
 
 8.7. AIWA's ownership stake in the offshore partner structure (PRIME) does not affect AIWA's classification decisions. AIWA must classify works independently of any commercial interest.
 
+8.8. Nothing in this document or in AIWA's classification, processing, or publication activities grants AIWA ownership over communal cultural heritage, sacred traditions, or community-owned cultural expressions. These remain held in trust for the people of The Gambia and the relevant communities.
+
 ---
 
 ## 9. Lexical Extraction — System Condition
@@ -350,7 +352,7 @@ These two conditions are not mutually exclusive. Both may apply simultaneously. 
 
 Lexical extraction does not involve preservation or reproduction of a submitted work in its original expressive form.
 
-9.3 Transformative Output. Outputs of lexical extraction are transformed representations of language data. They are abstracted from the original expressive structure of the submitted work and are used to support indexing, linguistic analysis, dataset construction, and AI system operations. AIWA does not use lexical extraction to reconstruct or replicate submitted works in a form substantially similar to the original, except where necessary to provide a contributor-requested service such as returning the contributor's own content.
+9.3 Transformative Output. Outputs of lexical extraction are transformed representations of language data. They are abstracted from the original expressive structure of the submitted work and are used to support indexing, linguistic analysis, educational archive construction, and educational language system operations. AIWA does not use lexical extraction to reconstruct or replicate submitted works in a form substantially similar to the original, except where necessary to provide a contributor-requested service such as returning the contributor's own content.
 
 9.4 AIWA Rights in Extracted Data. AIWA holds rights in the structured organization, arrangement, and system-level representation of lexical extraction outputs as compiled within AIWA's linguistic datasets. AIWA does not claim ownership of:
 
