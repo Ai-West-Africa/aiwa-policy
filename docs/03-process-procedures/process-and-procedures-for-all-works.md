@@ -882,7 +882,7 @@ The contributor retains ownership of the original submitted work. This license d
 - assume contributor guilt before determination; or
 - assume authority beyond what the law grants.
 
-10.8.3 Notice to Contributor. Where a government authority contacts AIWA regarding a contributor's work, AIWA will notify the relevant contributor of the inquiry as promptly as practicable, unless: (a) the applicable government authority has directed AIWA not to disclose the inquiry; (b) applicable law prohibits such disclosure; or (c) AIWA's legal counsel advises that disclosure would create legal risk for AIWA or would interfere with a lawful investigation. Where notice cannot be given immediately, AIWA will provide notice at the earliest point that disclosure is permissible.
+10.8.3. Notice to Contributor. Where a government authority contacts AIWA regarding a contributor's work, AIWA will notify the relevant contributor of the inquiry as promptly as practicable, unless: (a) the applicable government authority has directed AIWA not to disclose the inquiry; (b) applicable law prohibits such disclosure; or (c) AIWA's legal counsel advises that disclosure would create legal risk for AIWA or would interfere with a lawful investigation. Where notice cannot be given immediately, AIWA will provide notice at the earliest point that disclosure is permissible.
 
 ### 10.9. Record Preservation
 
