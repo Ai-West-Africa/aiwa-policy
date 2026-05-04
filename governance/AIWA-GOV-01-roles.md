@@ -1,12 +1,12 @@
 ---
-documentId: AIWA-GOV-01
+documentId: AIWA-GOV-01-PLACEHOLDER
 version: 0.1.0
 status: placeholder
 scope: Role definitions and authority boundaries for all AIWA operational roles
 crossReference: AIWA-DOC-03 (Process & Procedures)
 ---
 
-# AIWA-GOV-01 — Roles and Authority Boundaries
+# AIWA-GOV-01-PLACEHOLDER — Roles and Authority Boundaries
 
 > **Placeholder.** This document is required before AIWA-DOC-03 becomes
 > fully operational. AIWA-DOC-03 references this document for role
