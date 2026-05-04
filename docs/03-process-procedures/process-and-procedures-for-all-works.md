@@ -184,7 +184,7 @@ All submitted works are processed for lexical extraction.
 
 ### 7.2.2. Why
 
-The system operates on words and contextual meaning structures as its core data layer. Lexical extraction provides the system with the internal data required for educational indexing, language resource development, and institutional language support. This extraction is independent of classification and independent of educational system use permissions.
+The system operates on words and contextual meaning structures as its core data layer. Lexical extraction provides the system with the internal data required for educational indexing, language resource development, and institutional language support. This extraction is independent of classification and independent of AI use permissions.
 
 ### 7.2.3. Who
 
