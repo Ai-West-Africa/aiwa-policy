@@ -1,6 +1,6 @@
 # AI West Africa Governance & Policy
 
-This repository contains the policy framework for **AI West Africa (AIWA)** — a creator-first African collective rights administration and licensing organization that administers, protects, licenses, and monetizes creative and educational works globally while creators retain ownership of their intellectual property. AIWA functions as a multi-format collective rights administration and licensing infrastructure — managing rights, licensing works globally, collecting revenues, and distributing royalties on behalf of creators across music, video, books, educational content, and cultural works. AIWA is Gambian-centered, operates under Gambian law, and is focused on cultural integrity, ethical licensing, and ensuring that rights and revenues remain connected to creators and communities.
+This repository contains the policy framework for **AI West Africa (AIWA)** — a creator-first African collective rights administration and licensing organization that administers, protects, licenses, and monetizes creative and educational works globally while creators retain ownership. As a Gambian-centered multi-format licensing infrastructure, AIWA collects revenues and distributes royalties on behalf of creators across music, video, books, educational content, and cultural works — with a focus on cultural integrity and ensuring rights and revenues remain connected to creators and communities.
 
 ---
 

@@ -21,7 +21,7 @@
 
 1.5. This document does not contain process or operational workflow. Those are contained in AIWA-DOC-03.
 
-1.6. **Organizational Positioning.** AIWA is a creator-first African collective rights administration and licensing organization that administers, protects, licenses, and monetizes creative and educational works globally while creators retain ownership of their intellectual property. AIWA functions as a multi-format collective rights administration and licensing infrastructure for African creative, educational, and cultural media — managing rights, licensing works globally, collecting revenues, and distributing royalties on behalf of creators. AIWA operates as the designated local steward of works entering the AIWA system, supporting Gambian and West African creators and communities through structured rights administration, responsible global licensing, royalty distribution, educational resource development, and culturally respectful archiving.
+1.6. **Organizational Positioning.** AIWA is a creator-first African collective rights administration and licensing organization that administers, protects, licenses, and monetizes creative and educational works globally while creators retain ownership of their intellectual property. As a multi-format licensing infrastructure for African creative, educational, and cultural media, AIWA collects revenues and distributes royalties on behalf of creators. AIWA operates as the designated local steward of works entering the AIWA system, supporting Gambian and West African creators and communities through structured rights administration, responsible global licensing, royalty distribution, educational resource development, and culturally respectful archiving.
 
 ---
 
