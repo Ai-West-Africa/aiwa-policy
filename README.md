@@ -2,13 +2,17 @@
 
 This repository contains the policy framework for **AI West Africa (AIWA)** — a creator-first African collective rights administration and licensing organization that administers, protects, licenses, and monetizes creative and educational works globally while creators retain ownership. As a Gambian-centered multi-format licensing infrastructure, AIWA collects revenues and distributes royalties on behalf of creators across music, video, books, educational content, and cultural works — with a focus on cultural integrity and ensuring rights and revenues remain connected to creators and communities.
 
+AIWA functions as a multi-format African ASCAP/BMI-style organization, administering rights across music, audiovisual works, books, educational content, podcasts, radio, spoken word, AI-processable materials, metadata, developmental works, and cultural-language content.
+
+**Core Principle.** AIWA administers rights on behalf of rights holders and does not acquire ownership of copyrights, communal heritage, languages, or cultural identity except where expressly agreed in writing.
+
 ---
 
 ## Status
 
 > **Version 1.0 — Active**
-> All core policy documents, standards, and governance documents have been compiled and populated.
-> Content is derived from the AIWA Policy Outline and must be reviewed and formally adopted by the Governance Board before operational use.
+> All core policy documents, standards, governance documents, and the full policy architecture have been compiled and populated.
+> Content must be reviewed and formally adopted by the Governance Board before operational use.
 
 ---
 
@@ -23,6 +27,26 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
             governing-legal-alignment-structural-reality.md   (AIWA-DOC-02) — ACTIVE
         /03-process-procedures/
             process-and-procedures-for-all-works.md           (AIWA-DOC-03) — ACTIVE
+    /policies/
+        /tier1/                  ← Foundational Governance Policies
+            AIWA-POL-01-rights-administration-licensing.md
+            AIWA-POL-02-royalty-governance-financial-administration.md
+            AIWA-POL-03-cultural-heritage-traditional-expressions.md
+            AIWA-POL-04-ai-governance-dataset-stewardship.md
+            AIWA-POL-05-rights-verification-provenance.md
+        /tier2/                  ← Operational & Platform Policies
+            AIWA-POL-06-content-standards-acceptable-use.md
+            AIWA-POL-07-copyright-enforcement-takedown.md
+            AIWA-POL-08-educational-informational-content.md
+            AIWA-POL-09-data-protection-privacy.md
+            AIWA-POL-10-compliance-international-licensing.md
+            AIWA-POL-11-platform-enforcement-appeals.md
+        /tier3/                  ← Specialized Policies
+            AIWA-POL-12-ai-dataset-licensing.md
+            AIWA-POL-13-archive-preservation.md
+            AIWA-POL-14-translation-localization.md
+            AIWA-POL-15-developmental-materials-concepts.md
+            AIWA-POL-16-sensitive-cultural-materials.md
     /standards/
         terminology.md           (AIWA-STD-01) — ACTIVE
         definitions.md           (AIWA-STD-02) — ACTIVE
@@ -40,6 +64,8 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
 
 ## Document Index
 
+### Foundational Documents
+
 | Document ID | File | Status |
 |-------------|------|--------|
 | AIWA-DOC-01 | `docs/01-cultural-classification/cultural-resource-classification-definitions.md` | Active v1.0 |
@@ -50,6 +76,37 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
 | AIWA-STD-03 | `standards/classification-matrix.md` | Active v1.0 |
 | AIWA-GOV-01 | `governance/roles-and-responsibilities.md` | Active v1.0 |
 | AIWA-GOV-02 | `governance/decision-framework.md` | Active v1.0 |
+
+### Tier 1 — Foundational Governance Policies
+
+| Document ID | File | Status |
+|-------------|------|--------|
+| AIWA-POL-01 | `policies/tier1/AIWA-POL-01-rights-administration-licensing.md` | Active v1.0 |
+| AIWA-POL-02 | `policies/tier1/AIWA-POL-02-royalty-governance-financial-administration.md` | Active v1.0 |
+| AIWA-POL-03 | `policies/tier1/AIWA-POL-03-cultural-heritage-traditional-expressions.md` | Active v1.0 |
+| AIWA-POL-04 | `policies/tier1/AIWA-POL-04-ai-governance-dataset-stewardship.md` | Active v1.0 |
+| AIWA-POL-05 | `policies/tier1/AIWA-POL-05-rights-verification-provenance.md` | Active v1.0 |
+
+### Tier 2 — Operational & Platform Policies
+
+| Document ID | File | Status |
+|-------------|------|--------|
+| AIWA-POL-06 | `policies/tier2/AIWA-POL-06-content-standards-acceptable-use.md` | Active v1.0 |
+| AIWA-POL-07 | `policies/tier2/AIWA-POL-07-copyright-enforcement-takedown.md` | Active v1.0 |
+| AIWA-POL-08 | `policies/tier2/AIWA-POL-08-educational-informational-content.md` | Active v1.0 |
+| AIWA-POL-09 | `policies/tier2/AIWA-POL-09-data-protection-privacy.md` | Active v1.0 |
+| AIWA-POL-10 | `policies/tier2/AIWA-POL-10-compliance-international-licensing.md` | Active v1.0 |
+| AIWA-POL-11 | `policies/tier2/AIWA-POL-11-platform-enforcement-appeals.md` | Active v1.0 |
+
+### Tier 3 — Specialized Policies
+
+| Document ID | File | Status |
+|-------------|------|--------|
+| AIWA-POL-12 | `policies/tier3/AIWA-POL-12-ai-dataset-licensing.md` | Active v1.0 |
+| AIWA-POL-13 | `policies/tier3/AIWA-POL-13-archive-preservation.md` | Active v1.0 |
+| AIWA-POL-14 | `policies/tier3/AIWA-POL-14-translation-localization.md` | Active v1.0 |
+| AIWA-POL-15 | `policies/tier3/AIWA-POL-15-developmental-materials-concepts.md` | Active v1.0 |
+| AIWA-POL-16 | `policies/tier3/AIWA-POL-16-sensitive-cultural-materials.md` | Active v1.0 |
 
 ---
 
@@ -78,6 +135,64 @@ Defines all roles in the AIWA governance structure from the Governance Board thr
 
 ### AIWA-GOV-02 — Decision Framework
 Defines decision principles, the six allowed decision states, decision authority by case type, decision logic tables for each review stage, control rules, the escalation path, record requirements, and reclassification rules.
+
+---
+
+## Policy Architecture Summaries
+
+### Tier 1 — Foundational Governance Policies
+
+#### AIWA-POL-01 — Rights Administration & Licensing Policy
+The most important policy. Defines AIWA's role as a non-exclusive rights administrator and licensing coordination organization. Establishes the non-ownership declaration, rights categories across all formats, non-exclusive administration standards, sublicensing authority, royalty collection framework, enforcement authority, reservation of ownership, no-obligation-to-exploit clause, and technical use rights.
+
+#### AIWA-POL-02 — Royalty Governance & Financial Administration Policy
+The trust instrument for financial administration. Defines revenue sources, collection methodology, escrow rules, fraud reserves, currency conversion, dormant and unclaimed royalty procedures, estate and beneficiary handling, audit and transparency standards, chargebacks, and dispute resolution.
+
+#### AIWA-POL-03 — Cultural Heritage & Traditional Expressions Policy
+The political and governance protection policy. Defines AIWA's non-ownership of cultural heritage, the distinction between creator-owned works and TCEs, sensitive cultural materials review, AI restrictions on heritage materials, provenance and attribution standards, community benefit principles, language preservation commitments, and restricted uses.
+
+#### AIWA-POL-04 — AI Governance & Dataset Stewardship Policy
+Governs ingestion, datasets, provenance, consent, and downstream AI licensing. Defines AI governance principles, dataset intake standards, provenance tracking, consent verification, AI processing permissions, restricted AI uses, AI output rules, synthetic voice and likeness restrictions, cultural dataset safeguards, dataset retention and deletion, model auditability, and anti-reconstruction standards.
+
+#### AIWA-POL-05 — Rights Verification & Provenance Policy
+The chain-of-title infrastructure. Defines ownership verification standards, contributor identification, split ownership handling, developmental materials verification, metadata integrity, AI-assisted works, community-origin materials, documentary evidence standards, version control, rights revocation, and fraud handling.
+
+### Tier 2 — Operational & Platform Policies
+
+#### AIWA-POL-06 — Content Standards & Acceptable Use Policy
+Defines metadata integrity standards, AI-generated content standards, fraudulent streaming prohibition, false attribution rules, deepfake restrictions, harmful and illegal content prohibition, educational accuracy standards, and restricted political manipulation rules.
+
+#### AIWA-POL-07 — Copyright Enforcement & Takedown Policy
+Defines enforcement authority, notice procedures, counter-notice procedures, repeat infringer policy, fraudulent claims handling, AI-generated infringement response, emergency takedowns, platform cooperation requirements, and reinstatement procedures.
+
+#### AIWA-POL-08 — Educational & Informational Content Policy
+Defines accuracy disclaimer requirements, professional advice restrictions, academic attribution standards, AI-generated educational material standards, child-focused content rules, public health and legal information restrictions, and educational standards compliance.
+
+#### AIWA-POL-09 — Data Protection & Privacy Policy
+Defines data governance principles, creator and rights holder data protection, voice and biometric data standards, AI dataset data protection, cross-border data transfer rules, third-party licensing disclosure, retention and deletion standards, security measures, and rights of data subjects.
+
+#### AIWA-POL-10 — Compliance & International Licensing Policy
+Defines sanctions compliance, AML/KYC standards, export controls, anti-corruption obligations, foreign licensing rules, platform compliance, restricted jurisdictions management, and reporting and monitoring requirements.
+
+#### AIWA-POL-11 — Platform Enforcement & Appeals Policy
+Defines account suspension procedures, escalation procedures, human review standards, the appeals process, reinstatement procedures, evidence standards, and enforcement timelines.
+
+### Tier 3 — Specialized Policies
+
+#### AIWA-POL-12 — AI Dataset Licensing Policy
+Governs external licensing of AIWA-administered works as AI datasets. Defines the licensing framework and categories, approved AI partner standards, prohibited uses, compensation structures, audit rights, license termination, and dataset recall.
+
+#### AIWA-POL-13 — Archive & Preservation Policy
+Defines digitization standards, restoration procedures, language preservation standards, metadata preservation, educational archive management, access controls, and preservation ethics.
+
+#### AIWA-POL-14 — Translation & Localization Policy
+Defines translation rights and authorization requirements, attribution standards for translations, AI translation governance, cultural context safeguards, quality standards, version control for translations, and localization standards.
+
+#### AIWA-POL-15 — Developmental Materials & Concepts Policy
+Defines the covered material types (drafts, concepts, treatments, outlines, pilots, pitch materials), rights in developmental materials, ownership during development, submission standards, confidentiality, transition to completed works, and abandoned materials procedures.
+
+#### AIWA-POL-16 — Sensitive Cultural Materials Policy
+A specialized subset of AIWA-POL-03. Defines sensitive cultural material designation standards, sacred works handling, ceremonial recordings restrictions, indigenous archives management, oral genealogies protection, restricted traditional materials handling, review procedures, access restrictions, and destruction and recall procedures.
 
 ---
 
