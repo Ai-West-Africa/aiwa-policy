@@ -1,6 +1,6 @@
 # AI West Africa Governance & Policy
 
-This repository contains the policy framework for **AI West Africa (AIWA)** — an educational publishing and literacy-development organization operating as a Gambian-based cultural classification, rights administration, and educational archiving system. AIWA facilitates the creation, classification, and preservation of modern participant-created works by Gambian and West African contributors, while protecting protected cultural heritage and ensuring economic return to creators and communities.
+This repository contains the policy framework for **AI West Africa (AIWA)** — a creator-first African collective rights administration and licensing organization that administers, protects, licenses, and monetizes creative and educational works globally while creators retain ownership of their intellectual property. AIWA functions as a multi-format collective rights administration and licensing infrastructure — managing rights, licensing works globally, collecting revenues, and distributing royalties on behalf of creators across music, video, books, educational content, and cultural works. AIWA is Gambian-centered, operates under Gambian law, and is focused on cultural integrity, ethical licensing, and ensuring that rights and revenues remain connected to creators and communities.
 
 ---
 
@@ -59,7 +59,7 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
 Defines what a work is, what folklore is, the five-class classification model, classification levels (Baseline, Elevated, Extreme Case), AI use and monetization boundaries, ownership boundaries, lexical extraction as a system condition for educational archiving, and the five confirmational statements required from all contributors.
 
 ### AIWA-DOC-02 — Governing Legal Alignment & Structural Reality
-Defines the legal hierarchy with Gambian law as the primary authority, AIWA's role as designated local steward and educational publishing organization, PRIME's role as non-exclusive offshore partner, the offshore ownership structure (Max 35% / Muhammed 35% / AIWA 30%), ministry jurisdiction and overlap, government authorization handling, and the core structural statements.
+Defines the legal hierarchy with Gambian law as the primary authority, AIWA's role as a collective rights administration and licensing organization and designated local steward, PRIME's role as non-exclusive offshore partner, the offshore ownership structure (Max 35% / Muhammed 35% / AIWA 30%), ministry jurisdiction and overlap, government authorization handling, and the core structural statements.
 
 ### AIWA-DOC-03 — Process & Procedures for All Works
 Defines the 13-stage controlled process for all works from intake through audit, including lexical extraction, classification, rights review, cultural review, government authorization review, decision gate, implementation, monitoring, appeals, and audit. Also defines system processing rights and contributor breach handling.
