@@ -59,7 +59,7 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
 Defines what a work is, what folklore is, the five-class classification model, classification levels (Baseline, Elevated, Extreme Case), AI use and monetization boundaries, ownership boundaries, lexical extraction as a system condition for educational archiving, and the five confirmational statements required from all contributors.
 
 ### AIWA-DOC-02 — Governing Legal Alignment & Structural Reality
-Defines the legal hierarchy with Gambian law as the primary authority, AIWA's role as mandatory local steward and educational publishing organization, PRIME's role as non-exclusive offshore partner, the offshore ownership structure (Max 35% / Muhammed 35% / AIWA 30%), ministry jurisdiction and overlap, government authorization handling, and the core structural statements.
+Defines the legal hierarchy with Gambian law as the primary authority, AIWA's role as designated local steward and educational publishing organization, PRIME's role as non-exclusive offshore partner, the offshore ownership structure (Max 35% / Muhammed 35% / AIWA 30%), ministry jurisdiction and overlap, government authorization handling, and the core structural statements.
 
 ### AIWA-DOC-03 — Process & Procedures for All Works
 Defines the 13-stage controlled process for all works from intake through audit, including lexical extraction, classification, rights review, cultural review, government authorization review, decision gate, implementation, monitoring, appeals, and audit. Also defines system processing rights and contributor breach handling.

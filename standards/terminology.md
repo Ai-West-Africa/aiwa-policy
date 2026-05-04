@@ -25,8 +25,8 @@ All terms are listed in alphabetical order.
 | Term | Definition |
 |---|---|
 | **AI Training Candidate** | Any work submitted with a declared or requested intent for use in educational language processing, institutional archival use, or educational system operations. AI Training Candidate (also referred to as Educational Processing Candidate) is a use declaration applied alongside a primary work type. It is not a standalone work type. Eligibility for educational system use is controlled by classification. |
-| **AI Use** | The use of a submitted work, or data derived from it, as input to any educational AI system, language processing system, or automated analysis system. AI use is not automatically permitted. Classification and rights clearance control AI eligibility. |
-| **AIWA** | AI West Africa. The mandatory local steward, administrator, copyright administrator, payout manager, community allocator, and cultural risk gatekeeper. AIWA is a Gambian-based publishing and media company. |
+| **AI Use** | The use of a submitted work, or data derived from it, as input to generative AI model training, content generation systems, or large-scale automated language model development. AI use is distinct from educational indexing, lexical analysis, and educational archival processing, which are governed by the lexical extraction framework. AI use is not automatically permitted. Classification and rights clearance control AI eligibility. |
+| **AIWA** | AI West Africa. The designated local steward, administrator, copyright administrator, payout manager, community allocator, and cultural risk gatekeeper. AIWA is a Gambian-based educational publishing and literacy-development organization. |
 | **Approved** | A decision state. The work is cleared for the stated scope of use. |
 | **Approved with Limits** | A decision state. The work is cleared with defined restrictions. All limits must be documented. |
 | **Archive Release** | The release of a work into an archival system for storage, preservation, or controlled access. Archive release is subject to the same classification and approval requirements as other forms of release. |
@@ -74,7 +74,7 @@ All terms are listed in alphabetical order.
 | **Intake Record** | The formal record created at intake containing contributor identity, work details, declarations, and submission metadata. |
 | **Language Resource** | A structured collection of words, phrases, or linguistic data for language documentation, preservation, or educational language development. Owned only in structure, selection, and arrangement. |
 | **Legal / Compliance Unit** | The AIWA team responsible for verifying government authorizations and managing legal and compliance matters. |
-| **Lexical Extraction** | The mandatory system process by which a submitted work is analyzed and broken into its component words, phrases, and implied meanings. Lexical extraction is not AI use. It is a core system function supporting educational indexing and language resource development. |
+| **Lexical Extraction** | The process by which a submitted work is analyzed and broken into its component words, phrases, and contextual meaning structures. Lexical extraction is not AI use. It is a core system function supporting educational indexing and language resource development. Agreement to lexical extraction is granted by the contributor's act of submission. |
 | **Literary Work** | Any written or text-based creation. |
 | **Misdeclaration** | A false or materially inaccurate contributor declaration. Misdeclaration triggers immediate hold, suspension, and revenue freeze. |
 | **Ministry of Tourism and Culture** | The primary Gambian government ministry with authority over cultural heritage, folklore, and traditional arts. |
@@ -96,9 +96,9 @@ All terms are listed in alphabetical order.
 | **Revenue Freeze** | The suspension of all revenue payments related to a work, applied immediately upon confirmed misdeclaration or breach. |
 | **Rights Administrator** | The AIWA staff member responsible for verifying submission authority and rights status. |
 | **Sound Recording** | Any fixation of sounds, whether or not of a performance of a musical work. |
-| **Stewardship** | AIWA's role as the mandatory local custodian of works in the system, responsible for classification, protection, payout, and community allocation. |
+| **Stewardship** | AIWA's role as the designated local custodian of works in the system, responsible for classification, protection, payout, and community allocation. |
 | **Submission** | The act of placing a work into the AIWA system through an authorized intake channel. |
-| **System Processing** | The parsing, extraction, indexing, and storage of data from a submitted work, performed by AIWA at the system level in support of educational indexing and language resource development. System processing is mandatory and is not user-controlled. |
+| **System Processing** | The parsing, extraction, indexing, and storage of data from a submitted work, performed by AIWA at the system level in support of educational indexing and language resource development. Agreement to system processing is granted by the contributor's act of submission. |
 | **Work** | Any intellectual creation that is fixed, identifiable, and submitted to AIWA through an authorized intake channel. See AIWA-DOC-01 Section 2. |
 | **Work Type** | The formal categorization of a work by its nature and form. See AIWA-DOC-01 Section 3. |
 

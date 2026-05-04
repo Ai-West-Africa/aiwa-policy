@@ -184,7 +184,7 @@ All submitted works are processed for lexical extraction.
 
 ### 7.2.2. Why
 
-The system operates on words and implied meaning as its core data layer. Lexical extraction provides the system with the internal data required for educational indexing, language resource development, and institutional language support. This extraction is independent of classification and independent of educational system use permissions.
+The system operates on words and contextual meaning structures as its core data layer. Lexical extraction provides the system with the internal data required for educational indexing, language resource development, and institutional language support. This extraction is independent of classification and independent of educational system use permissions.
 
 ### 7.2.3. Who
 
@@ -201,7 +201,7 @@ Within the AIWA processing system.
 ### 7.2.6. How
 
 1. The system parses the submitted work.
-2. The system extracts words, phrases, and implied meaning.
+2. The system extracts words, phrases, and contextual meaning structures.
 3. The system stores the extracted data in structured form.
 4. The system links the extracted data to the original work record.
 
@@ -748,17 +748,16 @@ A written audit report delivered to the Governance Board, identifying performanc
 
 ## 9. System Processing Rights
 
-9.1. **All submitted material is processed into words, phrases, and implied meaning.** This is not optional. This is not user-controlled. This is not tied to educational system use permission settings.
+9.1. **All submitted material is processed into words, phrases, and contextual meaning structures.** Agreement to this processing is established by the contributor's acceptance of submission conditions at intake. Processing is not tied to educational system use permission settings.
 
-9.2. By submitting a work to AIWA, the contributor grants AIWA a non-exclusive, royalty-free right to:
+9.2. By submitting a work to AIWA and accepting the submission conditions at intake, the contributor grants AIWA a non-exclusive, royalty-free, revocable where applicable license to:
 
-- parse submitted works;
-- extract linguistic elements;
-- derive meaning structures;
-- index and store extracted data; and
-- use extracted data within internal AIWA educational and archival systems.
+- parse, classify, index, store, and administer submitted works for the purposes defined within the AIWA system;
+- extract linguistic elements and derive contextual meaning structures;
+- retain extracted data within internal AIWA educational and archival systems; and
+- use classified and indexed works within the scope approved through the AIWA decision process.
 
-The contributor retains ownership of the original submitted work. This right does not constitute a transfer of ownership.
+The contributor retains ownership of the original submitted work. This license does not constitute a transfer of ownership.
 
 9.3. This right applies to:
 

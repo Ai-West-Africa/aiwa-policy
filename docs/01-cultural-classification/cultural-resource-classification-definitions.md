@@ -320,6 +320,8 @@ These two conditions are not mutually exclusive. Both may apply simultaneously. 
 
 ## 8. Ownership Boundaries
 
+**Language Non-Ownership Foundation.** AIWA does not claim ownership over any natural language, individual words, grammatical structures, public linguistic facts, or communal linguistic heritage. Rights asserted by AIWA apply only to original works, structured compilations, and system-level organizational arrangements created within the AIWA framework.
+
 8.1. A work submitted to AIWA remains the property of its creator or rights holder as declared at intake.
 
 8.2. Classification does not transfer, modify, or restrict the underlying ownership of a work.

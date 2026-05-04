@@ -21,7 +21,7 @@
 
 1.5. This document does not contain process or operational workflow. Those are contained in AIWA-DOC-03.
 
-1.6. **Organizational Positioning.** AIWA is an educational publishing and literacy-development organization that facilitates the creation, classification, and preservation of modern participant-created works originating from Gambian and West African contributors. AIWA operates as the mandatory local steward of cultural and creative works entering the AIWA system, supporting Gambian creators and communities through structured rights administration, educational resource development, and culturally respectful archiving.
+1.6. **Organizational Positioning.** AIWA is an educational publishing and literacy-development organization that facilitates the creation, classification, and preservation of modern participant-created works originating from Gambian and West African contributors. AIWA operates as the designated local steward of cultural and creative works entering the AIWA system, supporting Gambian creators and communities through structured rights administration, educational resource development, and culturally respectful archiving.
 
 ---
 
@@ -29,7 +29,7 @@
 
 2.1. **AI West Africa (AIWA)** operates as:
 
-- the mandatory local steward of all works that enter the AIWA system;
+- the designated local steward for all works that enter the AIWA system;
 - the administrator of intake, classification, and cultural handling;
 - the payout manager and community allocator; and
 - the cultural risk gatekeeper for The Gambia.
@@ -198,7 +198,7 @@ There are no barriers preventing work from being performed inside The Gambia. AI
 
 6A.6. Ownership participation in the offshore structure does not replace:
 
-- AIWA's role as mandatory local steward;
+- AIWA's role as designated local steward;
 - AIWA's control over intake, classification, and payout routing; or
 - Gambian law as the governing legal framework for cultural and local operations.
 
@@ -372,9 +372,9 @@ These reserved governance rights apply regardless of equity percentage.
 
 ---
 
-## 15. Core Non-Negotiable Statements
+## 15. Core Structural Statements
 
-15.1. AIWA is the mandatory local steward.
+15.1. AIWA is the designated local steward within the AIWA system.
 
 15.2. PRIME is a non-exclusive offshore partner.
 
