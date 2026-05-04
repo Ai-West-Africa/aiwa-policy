@@ -896,9 +896,9 @@ The contributor retains ownership of the original submitted work. This license d
 
 ### 10.10. AIWA's Position on Contributor Breach
 
-10.10.1 AIWA does not assume primary responsibility for a contributor's breach of submission rules, misrepresentation of rights, or false declaration of ownership or origin. Primary responsibility for the accuracy of submissions rests with the contributor.
+10.10.1. AIWA does not assume primary responsibility for a contributor's breach of submission rules, misrepresentation of rights, or false declaration of ownership or origin. Primary responsibility for the accuracy of submissions rests with the contributor.
 
-10.10.2 AIWA is responsible for:
+10.10.2. AIWA is responsible for:
 
 (a) documented response to identified breaches;
 
@@ -906,7 +906,7 @@ The contributor retains ownership of the original submitted work. This license d
 
 (c) lawful compliance with applicable Gambian law and any applicable governmental direction.
 
-10.10.3 Nothing in this Section limits AIWA's liability to the extent that such liability cannot be excluded under applicable Gambian law or other applicable law. AIWA's liability for its own operational failures, documentation failures, or procedural violations is governed by AIWA's applicable liability framework.
+10.10.3. Nothing in this Section limits AIWA's liability to the extent that such liability cannot be excluded under applicable Gambian law or other applicable law. AIWA's liability for its own operational failures, documentation failures, or procedural violations is governed by AIWA's applicable liability framework.
 
 ---
 
