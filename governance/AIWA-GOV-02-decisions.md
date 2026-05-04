@@ -1,12 +1,12 @@
 ---
-documentId: AIWA-GOV-02
+documentId: AIWA-GOV-02-PLACEHOLDER
 version: 0.1.0
 status: placeholder
 scope: Decision framework, amendment procedure, and governance board structure
 crossReference: AIWA-DOC-01 (Classification), AIWA-DOC-03 (Process)
 ---
 
-# AIWA-GOV-02 — Decision Framework and Amendment Procedure
+# AIWA-GOV-02-PLACEHOLDER — Decision Framework and Amendment Procedure
 
 > **Placeholder.** This document is required before high-risk case
 > decisions and document amendments referenced in AIWA-DOC-01 and
