@@ -42,7 +42,7 @@
 
 2.4. Submission of a work to AIWA does not constitute a claim of ownership. Ownership is determined through the rights review process.
 
-2.5. Educational system processing materials (sometimes referred to as AI training data) are not a standalone work type. They represent a use declaration applied to an existing work type.
+2.5. Educational System Processing Materials (sometimes referred to as AI training data) are not a standalone work type. They represent a use declaration applied to an existing work type.
 
 ---
 
