@@ -44,7 +44,7 @@
 - an AI data aggregator; or
 - a purchaser of cultural identity.
 
-2.5. AIWA functions as an African ASCAP/BMI-style organization, expanded across music, audiovisual works, books, educational content, podcasts, radio, spoken word, AI-processable materials, metadata, developmental works, and cultural-language content.
+2.5. AIWA operates as a multi-format rights administration, licensing coordination, and cultural stewardship organization covering music, audiovisual works, books, educational content, podcasts, radio, spoken word, AI-processable materials, metadata, developmental works, and cultural-language content.
 
 ---
 

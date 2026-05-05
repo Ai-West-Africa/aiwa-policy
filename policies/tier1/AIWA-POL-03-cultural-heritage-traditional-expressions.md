@@ -241,6 +241,44 @@
 
 ---
 
+## 13. Community Representation Standards
+
+13.1. Where this policy refers to "community representatives," the following standards apply to determine who qualifies, how authority is verified, and how competing claims are resolved.
+
+13.2. A qualifying community representative is:
+
+- an individual or body formally designated by the relevant community through its established governance process;
+- an institution recognized under Gambian law or applicable international frameworks as holding authority over the community's cultural heritage; or
+- a person holding documented delegated authority from either of the above.
+
+13.3. AIWA must not unilaterally appoint a community representative. Community representative status must be established through one or more of the following:
+
+- formal documentation from a recognized community governance body;
+- recognition by the National Centre for Arts and Culture (NCAC) or a designated Gambian authority;
+- a legal instrument confirming representative authority; or
+- a formal declaration by the community in a form acceptable to AIWA and reviewed by the Cultural Review Unit.
+
+13.4. Authority verification requires:
+
+- review of the documentation establishing representative authority;
+- confirmation that the authority is current and has not been revoked;
+- record of any conditions or limitations on the representative's authority; and
+- documentation retained in the relevant cultural material's provenance record.
+
+13.5. Where two or more parties claim community representative authority over the same cultural material:
+
+- both claims must be immediately flagged as disputed in the AIWA system;
+- no licensing, processing, or distribution decisions involving the disputed material may proceed until the dispute is resolved;
+- the matter must be escalated to the Cultural Review Unit and, if unresolved, to the Governance Board;
+- AIWA must not adjudicate the dispute but may facilitate its referral to an appropriate Gambian authority or recognized cultural governance body; and
+- the material must remain under restricted access pending resolution.
+
+13.6. AIWA must maintain a Community Representative Register recording all verified community representatives, the scope of their authority, and the materials to which their authority applies.
+
+13.7. Community representative authority does not create rights in the material for the representative. Authority to participate in governance decisions is not equivalent to ownership.
+
+---
+
 **End of AIWA-POL-03**
 
 ---

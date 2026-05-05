@@ -120,7 +120,7 @@
 - contains child sexual abuse material (CSAM) or sexualized content involving minors;
 - promotes, incites, or glorifies violence against identifiable individuals or groups;
 - constitutes hate speech targeting individuals or communities based on race, ethnicity, religion, gender, or other protected characteristics;
-- constitutes criminal defamation or false statements of fact designed to damage reputation;
+- constitutes unlawful defamation or false statements of fact designed to damage reputation under applicable law;
 - violates applicable national security laws; or
 - is otherwise illegal under Gambian law or the law of the applicable jurisdiction.
 

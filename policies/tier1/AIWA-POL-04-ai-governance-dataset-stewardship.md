@@ -100,10 +100,20 @@
 
 - remove the work from all AI-eligible dataset pools;
 - notify active AI processing partners of the withdrawal;
-- require deletion of the work from active AI processing pipelines; and
+- prohibit the work from inclusion in any future AI training runs or dataset releases from the date of withdrawal;
+- require deletion of the work from datasets and active AI processing pipelines where technically feasible; and
 - document the withdrawal and the actions taken.
 
-5.5. AIWA must maintain a consent register for all AI-processable works.
+5.5. Where deletion from a trained AI model or integrated model weights is not technically feasible, AIWA must:
+
+- document the technical limitation in writing;
+- require the AI processing partner to confirm in writing that the work will not be used in future processing, training, or dataset inclusion;
+- apply commercially reasonable efforts to limit ongoing exposure to the work; and
+- record all steps taken in the consent withdrawal register.
+
+5.6. AIWA must not warrant to rights holders that selective model retraining or weight-level removal is achievable. AIWA's deletion obligation applies to datasets and active processing pipelines. Model-level removal is subject to commercially reasonable technical limitations, and AIWA must document those limitations when invoked.
+
+5.7. AIWA must maintain a consent register for all AI-processable works.
 
 ---
 

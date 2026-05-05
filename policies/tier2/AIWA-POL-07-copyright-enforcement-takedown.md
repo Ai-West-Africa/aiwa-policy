@@ -153,7 +153,7 @@
 
 8.2. Emergency takedowns must be initiated within twenty-four hours of identification.
 
-8.3. AIWA must maintain emergency contact channels with major platform partners to enable rapid takedown response.
+8.3. AIWA must seek to establish and maintain emergency contact channels with platform partners as its enforcement infrastructure develops, to enable rapid takedown response.
 
 8.4. Emergency takedown decisions are authorized by the Rights Administration unit or the Governance Board.
 
@@ -163,7 +163,7 @@
 
 ## 9. Platform Cooperation
 
-9.1. AIWA must maintain active relationships with major platform partners to support copyright enforcement.
+9.1. AIWA must establish and seek to maintain cooperative relationships with platform partners to support copyright enforcement as its operational infrastructure develops.
 
 9.2. Platform cooperation agreements must include:
 

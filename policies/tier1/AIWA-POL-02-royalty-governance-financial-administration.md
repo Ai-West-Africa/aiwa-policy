@@ -255,17 +255,52 @@
 
 ---
 
-## 14. Core Statements
+## 14. Operational Banking and Payment Infrastructure
 
-14.1. Royalties collected by AIWA belong to rights holders.
+14.1. AIWA acknowledges that its royalty collection and distribution activities are subject to the practical constraints of its banking and payment infrastructure at any given time.
 
-14.2. AIWA holds royalties in trust until distribution.
+14.2. The following operational constraints may affect the timing, currency, or mechanism of royalty distribution, and rights holders must be informed of applicable constraints in their creator agreements:
 
-14.3. Escrowed funds are not AIWA operating funds.
+- availability of banking services in The Gambia and applicable jurisdictions;
+- dependence on intermediary banking institutions for cross-border remittances;
+- payment processor terms and limitations imposed by third-party payment platforms;
+- currency conversion delays resulting from exchange controls or restricted currency availability;
+- cross-border remittance restrictions under Gambian or international regulation; and
+- payment gateway limitations for royalties originating from U.S. or international DSPs.
 
-14.4. AIWA's financial administration is subject to audit.
+14.3. AIWA must disclose applicable banking and payment infrastructure constraints to rights holders before execution of a creator agreement.
 
-14.5. No rights holder forfeits royalties without written notice and due process.
+14.4. Where a constraint prevents timely distribution, AIWA must:
+
+- hold the affected royalties in escrow under the rules of Section 4;
+- notify the rights holder in writing of the constraint and the expected resolution timeline;
+- make commercially reasonable efforts to identify an alternative distribution mechanism; and
+- document the constraint, the notification, and the steps taken.
+
+14.5. AIWA must comply with all applicable sanctions and AML/KYC obligations in connection with royalty collection and distribution, including:
+
+- screening payments against applicable sanctions lists, including OFAC and UN sanctions lists;
+- applying AML and KYC verification standards before distribution to rights holders;
+- reporting suspicious transactions as required by applicable law; and
+- maintaining transaction records sufficient to meet applicable compliance obligations.
+
+14.6. Banking and payment constraints do not extinguish AIWA's obligation to distribute royalties to rights holders. They affect timing and mechanism, not entitlement.
+
+14.7. Rights holders may not claim damages based solely on distribution delays caused by documented banking or payment infrastructure constraints, provided AIWA has complied with the notification and escrow obligations in this section.
+
+---
+
+## 15. Core Statements
+
+15.1. Royalties collected by AIWA belong to rights holders.
+
+15.2. AIWA holds royalties in trust until distribution.
+
+15.3. Escrowed funds are not AIWA operating funds.
+
+15.4. AIWA's financial administration is subject to audit.
+
+15.5. No rights holder forfeits royalties without written notice and due process.
 
 ---
 
