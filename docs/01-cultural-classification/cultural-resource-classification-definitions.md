@@ -344,7 +344,7 @@ These two conditions are not mutually exclusive. Both may apply simultaneously. 
 
 9.1. Universal Application. All works submitted to AIWA are subject to lexical extraction as a condition of using AIWA services. This applies across all work types and all classification categories, including restricted and folklore-linked works.
 
-9.2. Nature of Lexical Extraction. Lexical extraction is a technical and analytical process by which AIWA systems, operating through SPARXSTAR platform infrastructure:
+9.2. Nature of Lexical Extraction. Lexical extraction is a technical and analytical process by which AIWA systems, operating through SPARXSTAR platform infrastructure (see AIWA-STD-01 for SPARXSTAR definition; see AIWA-DOC-02 Section 3A for AIWA-SPARXSTAR terminology alignment):
 
 (a) identify and segment linguistic units including words, morphemes, tokens, and phrases;
 

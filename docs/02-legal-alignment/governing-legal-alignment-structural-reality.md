@@ -70,7 +70,7 @@
 
 ## 3A. Terminology Alignment — AIWA and SPARXSTAR
 
-3A.1 Purpose. AIWA and SPARXSTAR use partially overlapping terminology to describe related but distinct operations. This section establishes the canonical mapping between AIWA governance terminology and SPARXSTAR platform terminology to prevent interpretive inconsistency.
+3A.1 Purpose. AIWA and SPARXSTAR use partially overlapping terminology to describe related but distinct operations. SPARXSTAR is the sovereign knowledge framework platform (patent pending) built and operated by Starisian Technologies that provides the technical infrastructure through which AIWA's submission intake, lexical processing, and archival operations run; AIWA is the governance partner of the SPARXSTAR Digital Village Elder (DVE) platform. This section establishes the canonical mapping between AIWA governance terminology and SPARXSTAR platform terminology to prevent interpretive inconsistency.
 
 3A.2 Canonical Term Mapping.
 
