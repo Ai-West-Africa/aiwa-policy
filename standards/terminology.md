@@ -73,7 +73,7 @@ All terms are listed in alphabetical order.
 | **Intake** | Stage 1 of the AIWA procedure. The formal receipt of a submitted work and creation of the intake record. |
 | **Intake ID** | The unique identifier assigned to a work at intake. |
 | **Intake Record** | The formal record created at intake containing contributor identity, work details, declarations, and submission metadata. |
-| **Language Resource** | A structured collection of words, phrases, or linguistic data for language documentation, preservation, or educational language development. Owned only in structure, selection, and arrangement. |
+| **Language Resource** | A structured collection of words, phrases, or linguistic data created for language documentation, preservation, educational language development, or licensed use in language-based applications including translation tools, AI systems that process natural language, and other language technology. Owned only in structure, selection, and arrangement. |
 | **Legal / Compliance Unit** | The AIWA team responsible for verifying government authorizations and managing legal and compliance matters. |
 | **Lexical Extraction** | The process by which a submitted work is analyzed and broken into its component words, phrases, and contextual meaning structures. Lexical extraction is not AI use. It is a core system function supporting educational indexing and language resource development. Agreement to lexical extraction is granted by the contributor's act of submission. |
 | **Literary Work** | Any written or text-based creation. |

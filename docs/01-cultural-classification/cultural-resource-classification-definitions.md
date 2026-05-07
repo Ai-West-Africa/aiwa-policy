@@ -61,7 +61,7 @@
 
 3.9. **Dataset or Compilation** — Any structured collection of data, facts, records, or other materials which, by reason of the selection or arrangement of its contents, constitutes an intellectual creation. A dataset is owned only in its structure, selection, and arrangement. The underlying data points are not owned solely by reason of their inclusion.
 
-3.10. **Language Resource** — Any structured collection of words, phrases, grammatical structures, or linguistic data created for the purpose of language documentation, preservation, or educational language development. Language itself is not owned. A language resource is owned only in its structure, selection, and arrangement.
+3.10. **Language Resource** — Any structured collection of words, phrases, grammatical structures, or linguistic data created for the purpose of language documentation, preservation, educational language development, or licensed use in language-based applications including translation tools, AI systems that process natural language, and other language technology. Language itself is not owned. A language resource is owned only in its structure, selection, and arrangement.
 
 3.11. **Educational Processing Candidate** — Any work submitted with a declared or requested intent for use in educational language systems, educational archives, or institutional processing and analysis systems. Educational Processing Candidate is a use declaration, not a standalone work type. It must be combined with one of the work types above. Eligibility for educational system use is controlled by classification, not by this designation alone. Where this designation is referred to as "AI Training Candidate" in other documents or systems, the same definition applies.
 
