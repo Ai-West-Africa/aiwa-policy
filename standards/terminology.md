@@ -52,14 +52,14 @@ All terms are listed in alphabetical order.
 | **Cultural Review** | The deeper review process applied to culturally sensitive, folklore-linked, community-linked, sacred, or restricted works. Conducted by the AIWA Cultural Review Unit. |
 | **Dataset** | A structured collection of data, facts, or records. Owned only in its structure, selection, and arrangement. |
 | **Decision Gate** | Stage 9 of the AIWA procedure. The point at which a formal decision state is assigned to a work. |
-| **Digital Village Elder (DVE)** | The AI-assisted intake and governance architecture within the SPARXSTAR platform. DVE converts contributor submissions into structured, governance-evaluated records held under sovereign control. AIWA's lexical extraction and educational system processing operations are technically implemented through DVE infrastructure. See also: SPARXSTAR. |
+| **Digital Village Elder (DVE)** | The AI-assisted intake and governance architecture within the SPARXSTAR platform. DVE converts contributor submissions into structured, governance-evaluated records held under sovereign control. AIWA's lexical extraction and educational system processing operations are technically implemented through DVE infrastructure. See also: SPARXSTAR (defined below). |
 | **Decision Officer** | The AIWA staff member responsible for issuing the formal decision at the Decision Gate. |
 | **Decision State** | One of the six allowed outcomes for any decision: Approved, Approved with Limits, Held, Restricted, Rejected, Escalated. No other states are permitted. |
 | **Dual Layer Recognition** | The acknowledgment that a work may simultaneously be a modern copyrighted work and contain protected folklore elements. Both conditions may apply to the same work. |
 | **Educational Material** | A work created primarily for use in formal or informal education. |
 | **Escalated** | A decision state. The work is referred to the Governance Board or an external authority for determination. |
 | **Elevated Classification** | The classification level applied when trigger conditions indicate cultural, communal, or restriction risk. Elevated works are flagged for deeper review but are not automatically reclassified as folklore. |
-| **Exploitation** | Any commercial or public use of a work, including publication, distribution, monetization, and licensing. Educational system processing and lexical extraction are governed separately as system-level conditions of service and are not exploitation in the commercial sense. |
+| **Exploitation** | Any commercial or public use of a work, including publication, distribution, monetization, and licensing. Educational system processing and lexical extraction are governed separately as system-level conditions of service and are not considered exploitation for commercial licensing purposes. |
 | **Expressions of Folklore** | See Folklore. |
 | **Extreme Case Classification** | The classification level applied when state, cultural, or legal sensitivity triggers the highest level of restriction. Applies to sacred material, government-recognized heritage, ceremonially restricted content, and cross-border cultural claims. |
 | **Fixed** | Recorded, written, captured, or otherwise made persistent in a tangible form. A work must be fixed to qualify as a work under the AIWA system. |
