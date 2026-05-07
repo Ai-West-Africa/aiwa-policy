@@ -757,6 +757,8 @@ A written audit report delivered to the Governance Board, identifying performanc
 - retain extracted data within internal AIWA educational and archival systems; and
 - use classified and indexed works within the scope approved through the AIWA decision process.
 
+For the purposes of this section, "revocable where applicable" means that, where AIWA determines revocation is legally available and operationally applicable to the relevant use, a contributor may revoke permission for future discretionary use of the original submitted work from the effective date of revocation. Revocation does not retroactively invalidate processing, classification, indexing, extraction, or administrative actions already performed before that date, and does not by itself require deletion of extracted linguistic elements, contextual meaning structures, audit records, or other internal records that AIWA is entitled or required to retain. Any continued retention, archival handling, or restricted internal processing after revocation remains subject to section 9.7 and any applicable legal, governance, or record-keeping obligations.
+
 The contributor retains ownership of the original submitted work. This license does not constitute a transfer of ownership.
 
 9.3. This right applies to:

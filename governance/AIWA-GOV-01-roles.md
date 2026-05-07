@@ -2,17 +2,22 @@
 documentId: AIWA-GOV-01-PLACEHOLDER
 version: 0.1.0
 status: placeholder
-scope: Role definitions and authority boundaries for all AIWA operational roles
-crossReference: AIWA-DOC-03 (Process & Procedures)
+scope: Historical placeholder only; not an authoritative governance source
+crossReference: governance/roles-and-responsibilities.md (AIWA-GOV-01)
 ---
 
-# AIWA-GOV-01-PLACEHOLDER — Roles and Authority Boundaries
+# Historical Placeholder — Roles and Authority Boundaries
 
-> **Placeholder.** This document is required before AIWA-DOC-03 becomes
-> fully operational. AIWA-DOC-03 references this document for role
-> definitions and authority boundaries.
+> **Non-authoritative placeholder.** The active governance document for role
+> definitions and authority boundaries is
+> `governance/roles-and-responsibilities.md` with document ID `AIWA-GOV-01`.
+> This file must not be cited by AIWA-DOC-03 or any other document as the
+> authoritative source.
 
-## Required Sections
+## Historical Placeholder Contents
+
+This page is retained only to document the former placeholder structure and
+should not be used for governance decisions or cross-references.
 
 1. Role Definitions (all roles listed in AIWA-DOC-03 Section 5)
 2. Authority Boundaries per Role

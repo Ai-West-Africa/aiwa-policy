@@ -84,7 +84,15 @@
 | Cultural classification | Content classification (TK layer) | AIWA classification is the authoritative source; SPARXSTAR enforces it at the technical layer via DVE governance |
 | Folklore designation | TK Red / Sacred Content classification | AIWA determination is primary; SPARXSTAR enforces via DVE; both systems treat this category as non-overridable at the processing layer |
 
-3A.3 Governing Rule. Where AIWA terminology and SPARXSTAR terminology appear to conflict in the interpretation of a specific matter: (a) cultural classification, folklore status, and community permissions are governed by AIWA terminology and AIWA decisions; (b) technical processing operations, data transformation, and system-level data rights are governed by SPARXSTAR terminology and SPARXSTAR framework; and (c) both must be interpreted in a manner that preserves the function of each system.
+3A.3 Defined Terms.
+
+3A.3.1. "SPARXSTAR" means the external platform, platform ruleset, and associated technical terminology referenced in this section for system processing, data transformation, platform consent handling, and structured dataset management.
+
+3A.3.2. "DVE" means the SPARXSTAR technical enforcement layer used to apply and preserve classification, access, and use restrictions within platform operations.
+
+3A.3.3. "DVE governance" means the rules, controls, and enforcement logic within the SPARXSTAR DVE layer by which AIWA classifications, folklore restrictions, and related non-overridable handling rules are implemented at the technical layer.
+
+3A.4 Governing Rule. Where AIWA terminology and SPARXSTAR terminology, as defined in this Section 3A, appear to conflict in the interpretation of a specific matter: (a) cultural classification, folklore status, and community permissions are governed by AIWA terminology and AIWA decisions; (b) technical processing operations, data transformation, and system-level data rights are governed by SPARXSTAR terminology and SPARXSTAR framework; and (c) both must be interpreted in a manner that preserves the function of each system.
 
 ---
 
