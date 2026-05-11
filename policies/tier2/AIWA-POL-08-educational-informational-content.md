@@ -67,7 +67,7 @@
 
 4.3. Works that incorporate AIWA-administered materials in an educational context must credit the original rights holder.
 
-4.4. Unattributed use of third-party content in educational works is grounds for Restriction pending attribution correction.
+4.4. Unattributed use of third-party content in educational works is grounds for the work to be Restricted pending attribution correction.
 
 ---
 
