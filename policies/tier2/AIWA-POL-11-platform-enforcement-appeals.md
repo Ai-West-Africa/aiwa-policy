@@ -107,7 +107,7 @@
 
 5.5. The Appeals Officer must review the appeal independently of the original decision-maker.
 
-5.6. The Appeals Officer must issue a written decision within sixty days of receipt of the appeal.
+5.6. The Appeals Officer must issue a written decision within sixty days of acknowledgment of the appeal.
 
 5.7. The Appeals Officer's decision must be in one of the allowed decision states under AIWA-GOV-02.
 
