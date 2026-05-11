@@ -54,6 +54,8 @@
 
 3.5. AIWA must maintain a dataset registry recording each dataset's composition, rights status, consent status, and processing history.
 
+3.6. AIWA uses the SPARXSTAR platform, developed by Starisian Technologies, as technical infrastructure for governed intake, storage, processing, rights administration, language preservation, and authorized AI-related functions. AIWA's use of SPARXSTAR does not transfer ownership of contributor content to AIWA, SPARXSTAR, or Starisian Technologies.
+
 ---
 
 ## 4. Provenance Tracking

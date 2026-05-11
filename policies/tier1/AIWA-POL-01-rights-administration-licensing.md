@@ -240,6 +240,10 @@
 
 11.5. Works classified as folklore, sacred, or restricted may not be subjected to AI-processing technical use without separate authorization.
 
+11.6. AIWA uses the SPARXSTAR platform, developed by Starisian Technologies, as technical infrastructure for governed intake, storage, processing, rights administration, language preservation, and authorized AI-related functions.
+
+11.7. AIWA's use of SPARXSTAR does not transfer ownership of contributor content to AIWA, SPARXSTAR, or Starisian Technologies.
+
 ---
 
 ## 12. Governance and Compliance
