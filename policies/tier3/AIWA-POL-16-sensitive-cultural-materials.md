@@ -126,7 +126,7 @@
 - used for biometric identification or genetic inferencing; or
 - disclosed to third parties without the authorization of the family or community concerned.
 
-6.4. Where the families or communities to whom an oral genealogy belongs cannot be identified, the oral genealogy must be Held and classified as restricted.
+6.4. Where the families or communities to whom an oral genealogy belongs cannot be identified, the oral genealogy must be Held and classified as Restricted.
 
 ---
 
