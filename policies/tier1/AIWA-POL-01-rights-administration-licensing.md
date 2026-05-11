@@ -41,8 +41,10 @@
 - an owner of creative works;
 - a publisher by default;
 - an extractor of cultural assets;
-- an AI data aggregator; or
+- an ungoverned data extraction or mass-ingestion platform; or
 - a purchaser of cultural identity.
+
+2.4.1. AIWA administers governed, consent-based, provenance-verified AI-processable materials on behalf of rights holders. Governance, consent, and provenance verification are preconditions for any AI-related processing under the AIWA system.
 
 2.5. AIWA operates as a multi-format rights administration, licensing coordination, and cultural stewardship organization covering music, audiovisual works, books, educational content, podcasts, radio, spoken word, AI-processable materials, metadata, developmental works, and cultural-language content.
 
