@@ -30,7 +30,7 @@
 
 - the content represents the view of the author and not of AIWA;
 - the content does not constitute professional advice; and
-- readers or viewers should seek qualified professional guidance for specific matters.
+- readers or viewers are advised to seek qualified professional guidance for specific matters.
 
 2.3. AIWA does not verify the factual accuracy of submitted educational works. Accuracy responsibility rests with the rights holder.
 

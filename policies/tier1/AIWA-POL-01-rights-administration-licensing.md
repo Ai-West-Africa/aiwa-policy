@@ -6,7 +6,7 @@
 **Tier:** 1 — Foundational Governance
 **Scope:** AIWA's role, authority, and obligations as a collective rights administration and licensing organization.
 **Restrictions:** This document does not contain process or workflow. Those are contained in AIWA-DOC-03.
-**Cross-Reference:** AIWA-DOC-02 (Legal Alignment), AIWA-POL-02 (Royalty Governance), AIWA-POL-05 (Rights Verification), AIWA-GOV-01 (Roles), AIWA-GOV-02 (Decision Framework)
+**Cross-Reference:** AIWA-DOC-01, AIWA-DOC-02 (Legal Alignment), AIWA-STD-03, AIWA-POL-02 (Royalty Governance), AIWA-POL-05 (Rights Verification), AIWA-GOV-01 (Roles), AIWA-GOV-02 (Decision Framework)
 
 ---
 

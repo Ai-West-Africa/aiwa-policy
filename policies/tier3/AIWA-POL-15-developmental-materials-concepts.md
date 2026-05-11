@@ -6,7 +6,7 @@
 **Tier:** 3 — Specialized Policies
 **Scope:** Standards for the handling of developmental materials including drafts, concepts, treatments, outlines, pilot episodes, pitch materials, and other pre-completion creative works.
 **Restrictions:** This document does not contain process or workflow. Those are contained in AIWA-DOC-03.
-**Cross-Reference:** AIWA-DOC-01 (Classification), AIWA-POL-01 (Rights Administration), AIWA-POL-05 (Rights Verification), AIWA-POL-09 (Data Protection)
+**Cross-Reference:** AIWA-DOC-01 (Classification), AIWA-GOV-02, AIWA-POL-01 (Rights Administration), AIWA-POL-05 (Rights Verification), AIWA-POL-09 (Data Protection)
 
 ---
 

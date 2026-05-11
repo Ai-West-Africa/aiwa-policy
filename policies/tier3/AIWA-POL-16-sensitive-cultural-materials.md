@@ -5,7 +5,7 @@
 **Status:** Active
 **Tier:** 3 — Specialized Policies
 **Scope:** Standards for the handling of sacred works, ceremonial recordings, indigenous archives, oral genealogies, and restricted traditional materials within the AIWA system.
-**Restrictions:** This document does not contain process or workflow. Those are contained in AIWA-DOC-03.
+**Restrictions:** This document defines standards, requirements, and review expectations. Detailed operational procedures and workflows are contained in AIWA-DOC-03.
 **Cross-Reference:** AIWA-DOC-01 (Classification), AIWA-DOC-02 (Legal Alignment), AIWA-POL-03 (Cultural Heritage), AIWA-POL-04 (AI Governance), AIWA-POL-13 (Archive & Preservation), AIWA-GOV-02 (Decision Framework)
 
 ---
@@ -38,7 +38,7 @@
 
 - the submitting community authority;
 - the Cultural Review Unit following review;
-- a relevant Gambian institution such as the NCAC; or
+- a relevant Gambian institution such as the National Centre for Arts and Culture (NCAC); or
 - the Governance Board.
 
 2.3. Sensitive cultural material designation is not applied solely on the basis of AIWA's assessment. Community input is required where practicable.

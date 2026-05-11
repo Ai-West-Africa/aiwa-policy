@@ -6,7 +6,7 @@
 **Tier:** 2 — Operational & Platform Policies
 **Scope:** Standards for content quality, metadata integrity, acceptable use, and prohibited content within the AIWA system.
 **Restrictions:** This document does not contain process or workflow. Those are contained in AIWA-DOC-03.
-**Cross-Reference:** AIWA-DOC-01 (Classification), AIWA-POL-01 (Rights Administration), AIWA-POL-03 (Cultural Heritage), AIWA-POL-07 (Copyright Enforcement), AIWA-POL-11 (Platform Enforcement)
+**Cross-Reference:** AIWA-DOC-01 (Classification), AIWA-GOV-02, AIWA-POL-01 (Rights Administration), AIWA-POL-03 (Cultural Heritage), AIWA-POL-07 (Copyright Enforcement), AIWA-POL-11 (Platform Enforcement)
 
 ---
 

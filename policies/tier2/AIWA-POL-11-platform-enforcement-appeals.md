@@ -5,7 +5,7 @@
 **Status:** Active
 **Tier:** 2 — Operational & Platform Policies
 **Scope:** AIWA's framework for account suspensions, escalation, human review, appeals, reinstatement, and evidence standards in platform enforcement decisions.
-**Restrictions:** This document does not contain process or workflow. Those are contained in AIWA-DOC-03.
+**Restrictions:** This document may define policy-level procedural requirements, controls, and standards, but detailed step-by-step operational processes and workflows are contained in AIWA-DOC-03.
 **Cross-Reference:** AIWA-POL-06 (Content Standards), AIWA-POL-07 (Copyright Enforcement), AIWA-GOV-01 (Roles), AIWA-GOV-02 (Decision Framework)
 
 ---

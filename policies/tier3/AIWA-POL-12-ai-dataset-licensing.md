@@ -6,7 +6,7 @@
 **Tier:** 3 — Specialized Policies
 **Scope:** Licensing of AIWA-administered works as AI datasets to external AI partners, including eligibility, partner standards, prohibited uses, compensation, and audit rights.
 **Restrictions:** This document does not contain process or workflow. Those are contained in AIWA-DOC-03.
-**Cross-Reference:** AIWA-POL-01 (Rights Administration), AIWA-POL-04 (AI Governance), AIWA-POL-05 (Rights Verification), AIWA-POL-10 (Compliance)
+**Cross-Reference:** AIWA-POL-01 (Rights Administration), AIWA-POL-03 (Cultural Restrictions), AIWA-POL-04 (AI Governance), AIWA-POL-05 (Rights Verification), AIWA-POL-09 (Partner Standards), AIWA-POL-10 (Compliance), AIWA-DOC-01 (Classification and Clearance)
 
 ---
 
