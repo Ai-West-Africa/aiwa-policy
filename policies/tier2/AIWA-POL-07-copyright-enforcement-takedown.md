@@ -78,6 +78,8 @@
 - determine whether the claimed use is authorized, covered by a license, or exempt; and
 - issue a written response accepting, rejecting, or escalating the counter-notice.
 
+4.3.1. These requirements define the enforceable policy standard for counter-notice processing. The detailed operational procedure for implementing Section 4.3 is contained in AIWA-DOC-03.
+
 4.4. AIWA must not dismiss a counter-notice without a written review.
 
 4.5. Where the counter-notice identifies a legitimate authorization or license, AIWA must reinstate the content and notify the platform.
