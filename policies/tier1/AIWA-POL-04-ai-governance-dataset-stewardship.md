@@ -6,7 +6,7 @@
 **Tier:** 1 — Foundational Governance
 **Scope:** Governance of AI-processable materials, dataset intake, provenance, consent, downstream licensing, and restrictions on AI use within the AIWA system.
 **Restrictions:** This document does not contain process or workflow. Those are contained in AIWA-DOC-03.
-**Cross-Reference:** AIWA-DOC-01 (Classification), AIWA-DOC-02 (Legal Alignment), AIWA-POL-01 (Rights Administration), AIWA-POL-03 (Cultural Heritage), AIWA-POL-05 (Rights Verification), AIWA-POL-12 (AI Dataset Licensing)
+**Cross-Reference:** AIWA-DOC-01 (Classification), AIWA-DOC-02 (Legal Alignment), AIWA-POL-01 (Rights Administration), AIWA-POL-03 (Cultural Heritage), AIWA-POL-05 (Rights Verification), AIWA-POL-12 (AI Dataset Licensing), AIWA-GOV-02 (Decision Framework)
 
 ---
 

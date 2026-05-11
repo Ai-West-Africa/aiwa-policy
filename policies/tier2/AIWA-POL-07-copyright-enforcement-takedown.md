@@ -5,7 +5,7 @@
 **Status:** Active
 **Tier:** 2 — Operational & Platform Policies
 **Scope:** AIWA's procedures and standards for copyright enforcement, takedown notices, counter-notices, and infringement response.
-**Restrictions:** This document does not contain process or workflow. Those are contained in AIWA-DOC-03.
+**Restrictions:** This document does not contain detailed operational workflows. Policy-level procedural requirements are included where they define enforceable standards. Detailed step-by-step procedures are contained in AIWA-DOC-03.
 **Cross-Reference:** AIWA-POL-01 (Rights Administration), AIWA-POL-06 (Content Standards), AIWA-POL-11 (Platform Enforcement), AIWA-DOC-02 (Legal Alignment)
 
 ---

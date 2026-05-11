@@ -6,7 +6,7 @@
 **Tier:** 1 — Foundational Governance
 **Scope:** Standards for verifying ownership, provenance, chain of title, and rights status for all works entering or held in the AIWA system.
 **Restrictions:** This document does not contain process or workflow. Those are contained in AIWA-DOC-03.
-**Cross-Reference:** AIWA-DOC-01 (Classification), AIWA-DOC-02 (Legal Alignment), AIWA-DOC-03 (Process & Procedures), AIWA-POL-01 (Rights Administration), AIWA-POL-04 (AI Governance)
+**Cross-Reference:** AIWA-DOC-01 (Classification), AIWA-DOC-02 (Legal Alignment), AIWA-DOC-03 (Process & Procedures), AIWA-POL-01 (Rights Administration), AIWA-POL-04 (AI Governance), AIWA-GOV-02 (Decision Framework)
 
 ---
 

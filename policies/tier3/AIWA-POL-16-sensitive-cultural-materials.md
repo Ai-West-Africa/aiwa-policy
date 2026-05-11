@@ -6,7 +6,7 @@
 **Tier:** 3 — Specialized Policies
 **Scope:** Standards for the handling of sacred works, ceremonial recordings, indigenous archives, oral genealogies, and restricted traditional materials within the AIWA system.
 **Restrictions:** This document does not contain process or workflow. Those are contained in AIWA-DOC-03.
-**Cross-Reference:** AIWA-DOC-01 (Classification), AIWA-DOC-02 (Legal Alignment), AIWA-POL-03 (Cultural Heritage), AIWA-POL-04 (AI Governance), AIWA-POL-13 (Archive & Preservation)
+**Cross-Reference:** AIWA-DOC-01 (Classification), AIWA-DOC-02 (Legal Alignment), AIWA-POL-03 (Cultural Heritage), AIWA-POL-04 (AI Governance), AIWA-POL-13 (Archive & Preservation), AIWA-GOV-02 (Decision Framework)
 
 ---
 
@@ -126,7 +126,7 @@
 - used for biometric identification or genetic inferencing; or
 - disclosed to third parties without the authorization of the family or community concerned.
 
-6.4. Where the families or communities to whom an oral genealogy belongs cannot be identified, the oral genealogy must be Held and classified as Restricted.
+6.4. Where the families or communities to whom an oral genealogy belongs cannot be identified, the oral genealogy must be classified as Restricted.
 
 ---
 
