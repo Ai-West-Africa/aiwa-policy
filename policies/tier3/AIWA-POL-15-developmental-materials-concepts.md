@@ -76,7 +76,7 @@
 - each collaborator's ownership percentage or basis for ownership; and
 - any agreement between collaborators governing their respective rights.
 
-4.4. Where no agreement between collaborators exists, AIWA must Hold the developmental material pending a written agreement between collaborators before proceeding with administration.
+4.4. Where no agreement between collaborators exists, AIWA must ensure the developmental material is Held pending a written agreement between collaborators before proceeding with administration.
 
 4.5. Commissioned developmental materials — materials created by one party for another under a work-for-hire or commissioning agreement — require documentation of the commissioning arrangement before ownership is confirmed.
 
