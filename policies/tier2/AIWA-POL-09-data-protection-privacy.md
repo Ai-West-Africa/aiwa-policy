@@ -141,14 +141,15 @@
 
 8.1. Personal data must not be retained beyond the period necessary for the purpose for which it was collected.
 
-8.2. The following minimum retention periods apply unless longer periods are required by law:
+8.2. The following minimum retention periods apply unless longer periods are required by law or under AIWA-POL-10 for AML/KYC records. For clarity, identity verification documents collected solely for general account, access, or contractual administration are governed by this table, while identity verification documents and related records collected for AML/KYC purposes are governed by AIWA-POL-10 Section 3.6.
 
 | Data Category | Minimum Retention Period |
 |---|---|
 | Creator agreements | 7 years after termination |
 | Royalty accounting records | 7 years |
 | Enforcement records | 7 years |
-| Identity verification documents | Duration of agreement plus 3 years |
+| Identity verification documents (non-AML/KYC) | Duration of agreement plus 3 years |
+| AML/KYC identity verification and related AML/KYC records | 7 years minimum in accordance with AIWA-POL-10 Section 3.6 |
 | Dataset records | Duration of the dataset license plus 3 years |
 
 8.3. Data must be securely deleted when the retention period expires.
