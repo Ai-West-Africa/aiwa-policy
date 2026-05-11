@@ -272,7 +272,7 @@
 - documentation of training datasets used;
 - version control for models trained on AIWA materials;
 - the ability to identify which AIWA-administered works contributed to a model; and
-- the ability to remove contributions where required by law or by AIWA's rights governance decisions.
+- the ability, where required by law or by AIWA's rights governance decisions, to remove AIWA-administered works from training datasets, prohibit their future use, and apply technically feasible remediation measures for affected models, including retraining, replacement, or other reasonable mitigation as appropriate.
 
 14.3. AIWA may conduct or commission an audit of an AI partner's use of AIWA-administered materials at any time during an active licensing agreement.
 
