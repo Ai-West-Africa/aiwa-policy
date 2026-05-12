@@ -1,10 +1,8 @@
----
-documentId: AIWA-GOV-01-PLACEHOLDER
-version: 0.1.0
-status: placeholder
-scope: Historical placeholder only; not an authoritative governance source
-crossReference: governance/roles-and-responsibilities.md (AIWA-GOV-01)
----
+**Document ID:** AIWA-GOV-01-PLACEHOLDER
+**Version:** 0.1.0
+**Status:** Placeholder — not an authoritative governance source
+**Scope:** Historical placeholder only
+**Cross-Reference:** governance/roles-and-responsibilities.md (AIWA-GOV-01)
 
 # Historical Placeholder — Roles and Authority Boundaries
 

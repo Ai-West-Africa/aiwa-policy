@@ -748,7 +748,7 @@ A written audit report delivered to the Governance Board, identifying performanc
 
 ## 9. System Processing Rights
 
-9.1. **All submitted material is processed into words, phrases, and contextual meaning structures.** Agreement to this processing is established by the contributor's acceptance of submission conditions at intake. Processing is not tied to educational system use permission settings.
+9.1. **All submitted material is processed into words, phrases, and contextual meaning structures.** Agreement to this processing is established by the contributor's acceptance of submission conditions at intake. Processing is not tied to AI use permissions.
 
 9.2. By submitting a work to AIWA and accepting the submission conditions at intake, the contributor grants AIWA a non-exclusive, royalty-free, revocable where applicable license to:
 

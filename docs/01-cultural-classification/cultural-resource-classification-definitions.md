@@ -373,7 +373,7 @@ Rights attach to the structured dataset as a compiled and organized work, not to
 | Original submitted work | Contributor or rights holder as declared | Governed by classification, publishing, and restriction rules |
 | Lexical extraction output | AIWA (as structured system-level dataset) | Not the original work; not a substitute for the original work |
 
-9.6. **TK and Sacred Content.** Lexical extraction of TK-classified or Sacred Content does not remove or bypass the applicable classification restrictions. Extracted outputs derived from restricted content remain subject to the same classification controls as the original work. AIWA will not surface extracted outputs from TK Red or Sacred Content in general datasets, public resources, or AI systems from which the applicable restrictions have been removed.
+9.6. **TK and Sacred Content.** Lexical extraction of TK-classified (Traditional Knowledge — Class 4 or Class 4A restricted) or Sacred Content does not remove or bypass the applicable classification restrictions. Extracted outputs derived from restricted content remain subject to the same classification controls as the original work. AIWA will not surface extracted outputs from TK Red (Traditional Knowledge Red — the highest-restriction marker, equivalent to AIWA Class 4/4A: folklore, sacred, or ceremonially restricted content) or Sacred Content in general datasets, public resources, or AI systems from which the applicable restrictions have been removed.
 
 9.7. **Submission as Acceptance.** Submission to AIWA constitutes the contributor's acceptance that lexical extraction will occur as a condition of the service. If a contributor does not accept lexical extraction, the contributor must not submit the work to AIWA.
 

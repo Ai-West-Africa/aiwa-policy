@@ -64,7 +64,7 @@
 
 3.4. Expressions of folklore under Gambian law are held in trust for the people of The Gambia. Neither AIWA nor PRIME may convert protected cultural material into private property or bypass legal and cultural protections that apply to such material.
 
-3.5. The UNESCO 2003 Convention for the Safeguarding of Intangible Cultural Heritage, UNESCO frameworks for AI ethics and cultural governance, and international child-rights frameworks are used as interpretive support for safeguarding, review procedures, and cultural governance. Gambian educational and institutional frameworks, including the MoBSE Education Sector Policy, the Gambia ICT4D Policy, and applicable national child protection and youth policies, provide additional contextual guidance for AIWA's educational operations. These international and national frameworks support Gambian law. They do not replace it.
+3.5. The UNESCO 2003 Convention for the Safeguarding of Intangible Cultural Heritage, UNESCO frameworks for AI ethics and cultural governance, and international child-rights frameworks are used as interpretive support for safeguarding, review procedures, and cultural governance. Gambian educational and institutional frameworks, including the Ministry of Basic and Secondary Education (MoBSE) Education Sector Policy, the Gambia ICT4D Policy, and applicable national child protection and youth policies, provide additional contextual guidance for AIWA's educational operations. These international and national frameworks support Gambian law. They do not replace it.
 
 ---
 
@@ -85,6 +85,8 @@
 | Folklore designation | TK Red / Sacred Content classification | AIWA determination is primary; SPARXSTAR enforces via DVE; both systems treat this category as non-overridable at the processing layer |
 
 3A.3 Defined Terms.
+
+3A.3.0. "TK" means Traditional Knowledge — a term used in international cultural heritage frameworks (including the Local Contexts TK Label system and the Convention on Biological Diversity) to designate knowledge, expressions, and cultural materials that are collectively held, ancestrally transmitted, and subject to community-controlled access restrictions. Within AIWA and SPARXSTAR, TK designations follow AIWA's classification framework: TK Red corresponds to AIWA Class 4 (Restricted Work) or Class 4A (Government-Authorized Restricted Work), denoting folklore, sacred, or ceremonially restricted content that is non-overridable at the processing layer.
 
 3A.3.1. "SPARXSTAR" means the external platform, platform ruleset, and associated technical terminology referenced in this section for system processing, data transformation, platform consent handling, and structured dataset management.
 
