@@ -86,5 +86,5 @@ jobs:
             echo "No new documents to commit."
           else
             git commit -m "docs: release policy documents ${VERSION} [skip ci]"
-            git push origin HEAD:main
+            git push origin HEAD:${{ github.ref_name }}
           fi
