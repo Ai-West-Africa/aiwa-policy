@@ -63,7 +63,8 @@ header-includes: |
 
 repo_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-os.makedirs(os.path.dirname(os.path.abspath(OUTPUT)) or ".", exist_ok=True)
+output_dir = os.path.dirname(os.path.abspath(OUTPUT))
+os.makedirs(output_dir, exist_ok=True)
 
 with open(OUTPUT, "w", encoding="utf-8") as out:
     out.write(FRONTMATTER)
