@@ -66,45 +66,45 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
 
 | Document ID | File | Status |
 |-------------|------|--------|
-| AIWA-DOC-01 | `docs/01-cultural-classification/cultural-resource-classification-definitions.md` | Draft v1.0 |
-| AIWA-DOC-02 | `docs/02-legal-alignment/governing-legal-alignment-structural-reality.md` | Draft v1.0 |
-| AIWA-DOC-03 | `docs/03-process-procedures/process-and-procedures-for-all-works.md` | Draft v1.0 |
-| AIWA-STD-01 | `standards/terminology.md` | Draft v1.0 |
-| AIWA-STD-02 | `standards/definitions.md` | Draft v1.0 |
-| AIWA-STD-03 | `standards/classification-matrix.md` | Draft v1.0 |
-| AIWA-GOV-01 | `governance/roles-and-responsibilities.md` | Draft v1.0 |
-| AIWA-GOV-02 | `governance/decision-framework.md` | Draft v1.0 |
+| AIWA-DOC-01 | `docs/01-cultural-classification/cultural-resource-classification-definitions.md` | Active |
+| AIWA-DOC-02 | `docs/02-legal-alignment/governing-legal-alignment-structural-reality.md` | Active |
+| AIWA-DOC-03 | `docs/03-process-procedures/process-and-procedures-for-all-works.md` | Active |
+| AIWA-STD-01 | `standards/terminology.md` | Active |
+| AIWA-STD-02 | `standards/definitions.md` | Active |
+| AIWA-STD-03 | `standards/classification-matrix.md` | Active |
+| AIWA-GOV-01 | `governance/roles-and-responsibilities.md` | Active |
+| AIWA-GOV-02 | `governance/decision-framework.md` | Active |
 
 ### Tier 1 — Foundational Governance Policies
 
 | Document ID | File | Status |
 |-------------|------|--------|
-| AIWA-POL-01 | `policies/tier1/AIWA-POL-01-rights-administration-licensing.md` | Draft v1.0 |
-| AIWA-POL-02 | `policies/tier1/AIWA-POL-02-royalty-governance-financial-administration.md` | Draft v1.0 |
-| AIWA-POL-03 | `policies/tier1/AIWA-POL-03-cultural-heritage-traditional-expressions.md` | Draft v1.0 |
-| AIWA-POL-04 | `policies/tier1/AIWA-POL-04-ai-governance-dataset-stewardship.md` | Draft v1.0 |
-| AIWA-POL-05 | `policies/tier1/AIWA-POL-05-rights-verification-provenance.md` | Draft v1.0 |
+| AIWA-POL-01 | `policies/tier1/AIWA-POL-01-rights-administration-licensing.md` | Active |
+| AIWA-POL-02 | `policies/tier1/AIWA-POL-02-royalty-governance-financial-administration.md` | Active |
+| AIWA-POL-03 | `policies/tier1/AIWA-POL-03-cultural-heritage-traditional-expressions.md` | Active |
+| AIWA-POL-04 | `policies/tier1/AIWA-POL-04-ai-governance-dataset-stewardship.md` | Active |
+| AIWA-POL-05 | `policies/tier1/AIWA-POL-05-rights-verification-provenance.md` | Active |
 
 ### Tier 2 — Operational & Platform Policies
 
 | Document ID | File | Status |
 |-------------|------|--------|
-| AIWA-POL-06 | `policies/tier2/AIWA-POL-06-content-standards-acceptable-use.md` | Draft v1.0 |
-| AIWA-POL-07 | `policies/tier2/AIWA-POL-07-copyright-enforcement-takedown.md` | Draft v1.0 |
-| AIWA-POL-08 | `policies/tier2/AIWA-POL-08-educational-informational-content.md` | Draft v1.0 |
-| AIWA-POL-09 | `policies/tier2/AIWA-POL-09-data-protection-privacy.md` | Draft v1.0 |
-| AIWA-POL-10 | `policies/tier2/AIWA-POL-10-compliance-international-licensing.md` | Draft v1.0 |
-| AIWA-POL-11 | `policies/tier2/AIWA-POL-11-platform-enforcement-appeals.md` | Draft v1.0 |
+| AIWA-POL-06 | `policies/tier2/AIWA-POL-06-content-standards-acceptable-use.md` | Active |
+| AIWA-POL-07 | `policies/tier2/AIWA-POL-07-copyright-enforcement-takedown.md` | Active |
+| AIWA-POL-08 | `policies/tier2/AIWA-POL-08-educational-informational-content.md` | Active |
+| AIWA-POL-09 | `policies/tier2/AIWA-POL-09-data-protection-privacy.md` | Active |
+| AIWA-POL-10 | `policies/tier2/AIWA-POL-10-compliance-international-licensing.md` | Active |
+| AIWA-POL-11 | `policies/tier2/AIWA-POL-11-platform-enforcement-appeals.md` | Active |
 
 ### Tier 3 — Specialized Policies
 
 | Document ID | File | Status |
 |-------------|------|--------|
-| AIWA-POL-12 | `policies/tier3/AIWA-POL-12-ai-dataset-licensing.md` | Draft v1.0 |
-| AIWA-POL-13 | `policies/tier3/AIWA-POL-13-archive-preservation.md` | Draft v1.0 |
-| AIWA-POL-14 | `policies/tier3/AIWA-POL-14-translation-localization.md` | Draft v1.0 |
-| AIWA-POL-15 | `policies/tier3/AIWA-POL-15-developmental-materials-concepts.md` | Draft v1.0 |
-| AIWA-POL-16 | `policies/tier3/AIWA-POL-16-sensitive-cultural-materials.md` | Draft v1.0 |
+| AIWA-POL-12 | `policies/tier3/AIWA-POL-12-ai-dataset-licensing.md` | Active |
+| AIWA-POL-13 | `policies/tier3/AIWA-POL-13-archive-preservation.md` | Active |
+| AIWA-POL-14 | `policies/tier3/AIWA-POL-14-translation-localization.md` | Active |
+| AIWA-POL-15 | `policies/tier3/AIWA-POL-15-developmental-materials-concepts.md` | Active |
+| AIWA-POL-16 | `policies/tier3/AIWA-POL-16-sensitive-cultural-materials.md` | Active |
 
 ---
 
