@@ -60,7 +60,8 @@
 3.3. Sacred works must not be:
 
 - commercially licensed without written authorization from the relevant religious or spiritual authority;
-- used for AI Use, including model training, generative inference, or disclosure to external AI systems or AI partners; provided that AIWA's internal lexical extraction and other Stage 2 system processing under AIWA-DOC-03 may still occur where applicable and are not treated as prohibited AI Use under this section;
+- used for AI Use, including model training, generative inference, or disclosure to external AI systems or AI partners;
+- subjected to any processing beyond AIWA's internal lexical extraction and Stage 2 system processing under AIWA-DOC-03, which are not treated as AI Use under this policy;
 - subjected to archival digitization without express community authorization;
 - published or distributed without the relevant authority's consent; or
 - used in advertising, entertainment, or commercial contexts.
@@ -79,7 +80,8 @@
 
 - publicly distributed;
 - sublicensed to third parties without community authorization;
-- used for AI processing;
+- used for AI Use, including model training, generative inference, or disclosure to external AI systems or AI partners;
+- subjected to any processing beyond AIWA's internal lexical extraction and Stage 2 system processing under AIWA-DOC-03, which are not treated as AI Use under this policy;
 - used for educational purposes outside the community without authorization; or
 - reproduced in any format without the community's express written consent.
 
@@ -121,7 +123,8 @@
 6.3. Oral genealogies must not be:
 
 - publicly distributed without the authorization of the families or community concerned;
-- used for AI processing;
+- used for AI Use, including model training, generative inference, or disclosure to external AI systems or AI partners;
+- subjected to any processing beyond AIWA's internal lexical extraction and Stage 2 system processing under AIWA-DOC-03, which are not treated as AI Use under this policy;
 - incorporated into commercial datasets;
 - used for biometric identification or genetic inferencing; or
 - disclosed to third parties without the authorization of the family or community concerned.
