@@ -60,7 +60,7 @@
 3.3. Sacred works must not be:
 
 - commercially licensed without written authorization from the relevant religious or spiritual authority;
-- used in AI processing of any kind;
+- used for AI Use, including model training, generative inference, or disclosure to external AI systems or AI partners; provided that AIWA's internal lexical extraction and other Stage 2 system processing under AIWA-DOC-03 may still occur where applicable and are not treated as prohibited AI Use under this section;
 - subjected to archival digitization without express community authorization;
 - published or distributed without the relevant authority's consent; or
 - used in advertising, entertainment, or commercial contexts.
