@@ -2,6 +2,8 @@
 
 This repository contains the policy framework for **AI West Africa (AIWA)** — a Gambian-based publishing, cultural classification, and rights administration system designed to manage modern creative works alongside protected cultural heritage.
 
+[![Copilot cloud agent](https://github.com/AiWA-Ai-West-Africa/aiwa-policy/actions/workflows/copilot-swe-agent/copilot/badge.svg)](https://github.com/AiWA-Ai-West-Africa/aiwa-policy/actions/workflows/copilot-swe-agent/copilot)  [![Copilot code review](https://github.com/AiWA-Ai-West-Africa/aiwa-policy/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)](https://github.com/AiWA-Ai-West-Africa/aiwa-policy/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer)  [![Generate Policy Documents](https://github.com/AiWA-Ai-West-Africa/aiwa-policy/actions/workflows/generate-policy-docs.yml/badge.svg)](https://github.com/AiWA-Ai-West-Africa/aiwa-policy/actions/workflows/generate-policy-docs.yml)
+
 ---
 
 ## Status
