@@ -42,7 +42,7 @@
 
 2.4. Submission of a work to AIWA does not constitute a claim of ownership. Ownership is determined through the rights review process.
 
-2.5. AI training data is not a standalone work type. It is a use declaration applied to an existing work type.
+2.5. Educational System Processing Materials (sometimes referred to as AI training data) are not a standalone work type. They represent a use declaration applied to an existing work type.
 
 ---
 
@@ -69,7 +69,7 @@
 - a modern work that uses traditional rhythm, style, or proverb;
 - a modern retelling of a traditional story where the retelling has an identifiable modern author.
 
-3.7. **Modern work ≠ folklore. Cultural influence ≠ folklore. Modern retelling = modern work.** These rules are non-negotiable.
+3.7. **Modern work ≠ folklore. Cultural influence ≠ folklore. Modern retelling = modern work.** These rules are binding within AIWA governance and may only be altered by formal amendment following the procedure defined in AIWA-GOV-02.
 
 ---
 
@@ -103,7 +103,7 @@
 
 ## 6. AI Use
 
-6.1. **AI use** is the use of a submitted work, or data derived from a submitted work, as input to any AI, machine learning, or automated training system.
+6.1. **AI use** is the use of a submitted work, or data derived from a submitted work, as input to generative AI model training, content generation systems, or large-scale automated language model development. AI use is distinct from educational indexing, lexical analysis, and educational archival processing, which are governed by the lexical extraction framework.
 
 6.2. AI use is not automatically permitted for any work.
 
@@ -125,11 +125,11 @@
 
 ## 7. Lexical Extraction
 
-7.1. **Lexical extraction** is the process by which any submitted work is analyzed and broken into its component words, phrases, and implied meanings.
+7.1. **Lexical extraction** is the process by which any submitted work is analyzed and broken into its component words, phrases, and contextual meaning structures.
 
-7.2. Lexical extraction is a mandatory system function. It is not optional and does not require separate authorization.
+7.2. Lexical extraction is a core system function. Agreement to lexical extraction is granted by the contributor's act of submission. It does not require separate authorization.
 
-7.3. Lexical extraction produces derived linguistic data used for indexing, understanding, and system-level learning.
+7.3. Lexical extraction produces derived linguistic data used for educational indexing, language resource development, and institutional language support.
 
 7.4. Lexical extraction does not constitute ownership transfer of the original work.
 

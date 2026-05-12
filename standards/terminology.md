@@ -24,9 +24,8 @@ All terms are listed in alphabetical order.
 
 | Term | Definition |
 |---|---|
-| **AI Training Candidate** | Any work submitted with a declared or requested intent for use in AI training, processing, or machine learning. AI Training Candidate is a use declaration applied alongside a primary work type. It is not a standalone work type. AI eligibility is controlled by classification. |
-| **AI Use** | The use of a submitted work, or data derived from it, as input to any AI, machine learning, or automated training system. AI use is not automatically permitted. Classification and rights clearance control AI eligibility. |
-| **AIWA** | AI West Africa. The mandatory local steward, administrator, copyright administrator, payout manager, community allocator, and cultural risk gatekeeper. AIWA is a Gambian-based publishing and media company. |
+| **AI Use** | The use of a submitted work, or data derived from it, as input to generative AI model training, content generation systems, or large-scale automated language model development. AI use is distinct from educational indexing, lexical analysis, and educational archival processing, which are governed by the lexical extraction framework. AI use is not automatically permitted. Classification and rights clearance control AI eligibility. |
+| **AIWA** | AI West Africa. A creator-first collective rights administration and licensing organization that administers, protects, licenses, and monetizes creative and educational works globally while creators retain ownership. AIWA serves as the designated local steward, administrator, copyright administrator, payout manager, community allocator, and cultural risk gatekeeper. AIWA is a Gambian-based multi-format licensing infrastructure for African creative, educational, and cultural works. |
 | **Approved** | A decision state. The work is cleared for the stated scope of use. |
 | **Approved with Limits** | A decision state. The work is cleared with defined restrictions. All limits must be documented. |
 | **Archive Release** | The release of a work into an archival system for storage, preservation, or controlled access. Archive release is subject to the same classification and approval requirements as other forms of release. |
@@ -54,11 +53,13 @@ All terms are listed in alphabetical order.
 | **Decision Gate** | Stage 9 of the AIWA procedure. The point at which a formal decision state is assigned to a work. |
 | **Decision Officer** | The AIWA staff member responsible for issuing the formal decision at the Decision Gate. |
 | **Decision State** | One of the six allowed outcomes for any decision: Approved, Approved with Limits, Held, Restricted, Rejected, Escalated. No other states are permitted. |
+| **Digital Village Elder (DVE)** | The AI-assisted intake and governance architecture within the SPARXSTAR platform. DVE converts contributor submissions into structured, governance-evaluated records held under sovereign control. AIWA's lexical extraction and educational system processing operations are technically implemented through DVE infrastructure. See also: SPARXSTAR (defined below). |
 | **Dual Layer Recognition** | The acknowledgment that a work may simultaneously be a modern copyrighted work and contain protected folklore elements. Both conditions may apply to the same work. |
 | **Educational Material** | A work created primarily for use in formal or informal education. |
-| **Escalated** | A decision state. The work is referred to the Governance Board or an external authority for determination. |
+| **Educational Processing Candidate** | Any work submitted with a declared or requested intent for use in educational language processing, institutional archival use, or educational system operations. Educational Processing Candidate (legacy alias: AI Training Candidate) is a use declaration applied alongside a primary work type. It is not a standalone work type. Eligibility for educational system use is controlled by classification. |
 | **Elevated Classification** | The classification level applied when trigger conditions indicate cultural, communal, or restriction risk. Elevated works are flagged for deeper review but are not automatically reclassified as folklore. |
-| **Exploitation** | Any commercial or public use of a work, including publication, distribution, monetization, licensing, and AI training. |
+| **Escalated** | A decision state. The work is referred to the Governance Board or an external authority for determination. |
+| **Exploitation** | Any commercial or public use of a work, including publication, distribution, monetization, and licensing. Educational system processing and lexical extraction are governed separately as system-level conditions of service and are not considered exploitation for commercial licensing purposes. |
 | **Expressions of Folklore** | See Folklore. |
 | **Extreme Case Classification** | The classification level applied when state, cultural, or legal sensitivity triggers the highest level of restriction. Applies to sacred material, government-recognized heritage, ceremonially restricted content, and cross-border cultural claims. |
 | **Fixed** | Recorded, written, captured, or otherwise made persistent in a tangible form. A work must be fixed to qualify as a work under the AIWA system. |
@@ -72,9 +73,9 @@ All terms are listed in alphabetical order.
 | **Intake** | Stage 1 of the AIWA procedure. The formal receipt of a submitted work and creation of the intake record. |
 | **Intake ID** | The unique identifier assigned to a work at intake. |
 | **Intake Record** | The formal record created at intake containing contributor identity, work details, declarations, and submission metadata. |
-| **Language Resource** | A structured collection of words, phrases, or linguistic data for language documentation, preservation, or AI processing. Owned only in structure, selection, and arrangement. |
+| **Language Resource** | A structured collection of words, phrases, or linguistic data created for language documentation, preservation, educational language development, or licensed use in language-based applications including translation tools, AI systems that process natural language, and other language technology. Owned only in structure, selection, and arrangement. |
 | **Legal / Compliance Unit** | The AIWA team responsible for verifying government authorizations and managing legal and compliance matters. |
-| **Lexical Extraction** | The mandatory system process by which a submitted work is analyzed and broken into its component words, phrases, and implied meanings. Lexical extraction is not AI use. It is a core system function. |
+| **Lexical Extraction** | The process by which a submitted work is analyzed and broken into its component words, phrases, and contextual meaning structures. Lexical extraction is not AI use. It is a core system function supporting educational indexing and language resource development. Agreement to lexical extraction is granted by the contributor's act of submission. |
 | **Literary Work** | Any written or text-based creation. |
 | **Misdeclaration** | A false or materially inaccurate contributor declaration. Misdeclaration triggers immediate hold, suspension, and revenue freeze. |
 | **Ministry of Tourism and Culture** | The primary Gambian government ministry with authority over cultural heritage, folklore, and traditional arts. |
@@ -96,9 +97,10 @@ All terms are listed in alphabetical order.
 | **Revenue Freeze** | The suspension of all revenue payments related to a work, applied immediately upon confirmed misdeclaration or breach. |
 | **Rights Administrator** | The AIWA staff member responsible for verifying submission authority and rights status. |
 | **Sound Recording** | Any fixation of sounds, whether or not of a performance of a musical work. |
-| **Stewardship** | AIWA's role as the mandatory local custodian of works in the system, responsible for classification, protection, payout, and community allocation. |
+| **SPARXSTAR** | The sovereign knowledge framework platform (patent pending) built and operated by Starisian Technologies that provides the technical infrastructure through which AIWA's submission intake, lexical processing, and archival operations run. SPARXSTAR implements the Digital Village Elder (DVE) governance architecture. AIWA is the governance partner of the SPARXSTAR DVE platform. AIWA-SPARXSTAR terminology alignment is defined in AIWA-DOC-02 Section 3A. |
+| **Stewardship** | AIWA's role as the designated local custodian of works in the system, responsible for classification, protection, payout, and community allocation. |
 | **Submission** | The act of placing a work into the AIWA system through an authorized intake channel. |
-| **System Processing** | The parsing, extraction, indexing, and storage of data from a submitted work, performed by AIWA at the system level. System processing is mandatory and is not user-controlled. |
+| **System Processing** | The parsing, extraction, indexing, and storage of data from a submitted work, performed by AIWA at the system level in support of educational indexing and language resource development. Agreement to system processing is granted by the contributor's act of submission. |
 | **Work** | Any intellectual creation that is fixed, identifiable, and submitted to AIWA through an authorized intake channel. See AIWA-DOC-01 Section 2. |
 | **Work Type** | The formal categorization of a work by its nature and form. See AIWA-DOC-01 Section 3. |
 

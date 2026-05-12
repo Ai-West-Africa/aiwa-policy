@@ -221,6 +221,39 @@
 
 ---
 
+## 10. Document Amendment Procedure
+
+10.1. Any amendment to an AIWA governance document, standard, or operational procedure document requires a formal amendment record.
+
+10.2. An amendment may be initiated by:
+
+- the AIWA Governance Board;
+- the AIWA Legal / Compliance Unit; or
+- an AIWA officer with documented grounds for the amendment.
+
+10.3. Every proposed amendment must include:
+
+- the document to be amended and its current version number;
+- the specific clause or clauses to be changed;
+- the proposed replacement text;
+- the rationale for the change; and
+- an assessment of downstream impact on cross-referenced documents.
+
+10.4. No amendment to any document marked as binding (including AIWA-DOC-01, AIWA-DOC-02, AIWA-DOC-03, AIWA-STD-01, AIWA-STD-02, AIWA-GOV-01, and this document) may be approved by a single officer. A quorum of the Governance Board is required.
+
+10.5. Approved amendments must be recorded with:
+
+- the date of approval;
+- the identity of the approving authority;
+- the new version number; and
+- a summary of changes.
+
+10.6. Approved amendments take effect from the date recorded in the amendment record unless a deferred effective date is specified.
+
+10.7. Amendment records are retained permanently and may not be deleted.
+
+---
+
 **End of AIWA-GOV-02**
 
 ---

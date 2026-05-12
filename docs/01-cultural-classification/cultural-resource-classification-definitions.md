@@ -61,9 +61,9 @@
 
 3.9. **Dataset or Compilation** — Any structured collection of data, facts, records, or other materials which, by reason of the selection or arrangement of its contents, constitutes an intellectual creation. A dataset is owned only in its structure, selection, and arrangement. The underlying data points are not owned solely by reason of their inclusion.
 
-3.10. **Language Resource** — Any structured collection of words, phrases, grammatical structures, or linguistic data created for the purpose of language documentation, preservation, or AI processing. Language itself is not owned. A language resource is owned only in its structure, selection, and arrangement.
+3.10. **Language Resource** — Any structured collection of words, phrases, grammatical structures, or linguistic data created for the purpose of language documentation, preservation, educational language development, or licensed use in language-based applications including translation tools, AI systems that process natural language, and other language technology. Language itself is not owned. A language resource is owned only in its structure, selection, and arrangement.
 
-3.11. **AI Training Candidate** — Any work submitted with a declared or requested intent for use in AI training, processing, or machine learning systems. AI Training Candidate is a use declaration, not a standalone work type. It must be combined with one of the work types above. AI use eligibility is controlled by classification, not by this designation alone.
+3.11. **Educational Processing Candidate** — Any work submitted with a declared or requested intent for use in educational language systems, educational archives, or institutional processing and analysis systems. Educational Processing Candidate is a use declaration, not a standalone work type. It must be combined with one of the work types above. Eligibility for educational system use is controlled by classification, not by this designation alone. Where this designation is referred to as "AI Training Candidate" in other documents or systems, the same definition applies.
 
 3.12. **Media Mapping Reference Table**
 
@@ -79,7 +79,7 @@
 | Dictionary / Encyclopedia | Reference Work |
 | Dataset | Dataset or Compilation |
 | Language Corpus | Language Resource |
-| AI Training Data | Not a standalone type — governed by reproduction and database rules |
+| Educational System Processing Materials | Not a standalone type — governed by reproduction and database rules |
 
 ---
 
@@ -119,7 +119,7 @@ The following logic applies throughout the entire AIWA system and must not be al
 - **Folklore = collective origin + no identifiable author.**
 - **Modern retelling = modern work.**
 
-This logic is non-negotiable. No officer, reviewer, or governance decision may override this logic without a formal amendment to this document.
+This logic is binding within AIWA governance and may only be altered by formal amendment to this document following the amendment procedure defined in AIWA-GOV-02. No officer, reviewer, or operational decision may deviate from this logic outside of that process.
 
 ### 5.2. Baseline Classification — Default Reality
 
@@ -320,6 +320,8 @@ These two conditions are not mutually exclusive. Both may apply simultaneously. 
 
 ## 8. Ownership Boundaries
 
+8.0. **Language Non-Ownership Foundation.** AIWA does not claim ownership over any natural language, individual words, grammatical structures, public linguistic facts, or communal linguistic heritage. Rights asserted by AIWA apply only to original works, structured compilations, and system-level organizational arrangements created within the AIWA framework.
+
 8.1. A work submitted to AIWA remains the property of its creator or rights holder as declared at intake.
 
 8.2. Classification does not transfer, modify, or restrict the underlying ownership of a work.
@@ -334,29 +336,48 @@ These two conditions are not mutually exclusive. Both may apply simultaneously. 
 
 8.7. AIWA's ownership stake in the offshore partner structure (PRIME) does not affect AIWA's classification decisions. AIWA must classify works independently of any commercial interest.
 
+8.8. Nothing in this document or in AIWA's classification, processing, or publication activities grants AIWA ownership over communal cultural heritage, sacred traditions, or community-owned cultural expressions. These remain held in trust for the people of The Gambia and the relevant communities.
+
 ---
 
-## 9. Lexical Extraction — System Invariant
+## 9. Lexical Extraction — System Condition
 
-9.1. All works submitted to AIWA are subject to lexical extraction.
+9.1. **Universal Application.** All works submitted to AIWA are subject to lexical extraction as a condition of using AIWA services. This applies across all work types and all classification categories, including restricted and folklore-linked works.
 
-9.2. Lexical extraction occurs regardless of classification.
+9.2. **Nature of Lexical Extraction.** Lexical extraction is a technical and analytical process by which AIWA systems, operating through SPARXSTAR platform infrastructure (see AIWA-STD-01 for SPARXSTAR definition; see AIWA-DOC-02 Section 3A for AIWA-SPARXSTAR terminology alignment):
 
-9.3. Lexical extraction applies to all work types, including restricted and folklore-linked works.
+(a) identify and segment linguistic units including words, morphemes, tokens, and phrases;
 
-9.4. Lexical extraction extracts words, phrases, and implied meaning only.
+(b) analyze relationships between such units including meaning, usage, and context; and
 
-9.5. Lexical extraction does not reproduce or redistribute the original work.
+(c) convert such analysis into structured, statistical, or relational representations.
 
-9.6. Lexical extraction does not transfer ownership of the original work.
+Lexical extraction does not involve preservation or reproduction of a submitted work in its original expressive form.
 
-9.7. Lexical extraction is a core system function and is not treated as optional AI use.
+9.3. **Transformative Output.** Outputs of lexical extraction are transformed representations of language data. They are abstracted from the original expressive structure of the submitted work and are used to support indexing, linguistic analysis, educational archive construction, and educational language system operations. AIWA does not use lexical extraction to reconstruct or replicate submitted works in a form substantially similar to the original, except where necessary to provide a contributor-requested service such as returning the contributor's own content.
 
-9.8. The lexical dataset produced by extraction is system-level data. It is not the original work and is not a substitute for the original work.
+9.4. **AIWA Rights in Extracted Data.** AIWA holds rights in the structured organization, arrangement, and system-level representation of lexical extraction outputs as compiled within AIWA's linguistic datasets. AIWA does not claim ownership of:
 
-9.9. Submission to AIWA constitutes the contributor's acknowledgment that lexical extraction will occur.
+(a) individual words, morphemes, or phrases;
 
-9.10. If a contributor does not agree to lexical extraction, the contributor must not submit the work to AIWA.
+(b) public linguistic facts or meanings; or
+
+(c) language structures inherent to a natural language.
+
+Rights attach to the structured dataset as a compiled and organized work, not to its individual linguistic components.
+
+9.5. **Separation of Original Work and Extracted Data.**
+
+| Layer | Rights Holder | Treatment |
+|---|---|---|
+| Original submitted work | Contributor or rights holder as declared | Governed by classification, publishing, and restriction rules |
+| Lexical extraction output | AIWA (as structured system-level dataset) | Not the original work; not a substitute for the original work |
+
+9.6. **TK and Sacred Content.** Lexical extraction of TK-classified (Traditional Knowledge — Class 4 or Class 4A restricted) or Sacred Content does not remove or bypass the applicable classification restrictions. Extracted outputs derived from restricted content remain subject to the same classification controls as the original work. AIWA will not surface extracted outputs from TK Red (Traditional Knowledge Red — the highest-restriction marker, equivalent to AIWA Class 4/4A: folklore, sacred, or ceremonially restricted content) or Sacred Content in general datasets, public resources, or AI systems from which the applicable restrictions have been removed.
+
+9.7. **Submission as Acceptance.** Submission to AIWA constitutes the contributor's acceptance that lexical extraction will occur as a condition of the service. If a contributor does not accept lexical extraction, the contributor must not submit the work to AIWA.
+
+9.8. **Non-Reconstruction Commitment.** AIWA does not intentionally design its systems to enable reconstruction of original submitted works from extracted or structured linguistic representations.
 
 ---
 
