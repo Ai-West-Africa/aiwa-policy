@@ -276,6 +276,8 @@
 
 13.6. Contributor authenticity is foundational to AIWA's rights system. Contributors may only submit works they created, own, or are authorized to submit. Submission of work without legitimate authority is a breach of the creator agreement and of the integrity of the AIWA rights system.
 
+13.7. Contributor warranties run with every submission. By submitting any Work to the AIWA system, contributors represent and warrant their ownership or authority, their responsibility for all third-party clearances, and their ability to demonstrate an unbroken chain of title. These obligations are detailed in AIWA-POL-05 Sections 13–15. AIWA is not a clearance agency and does not carry liability for third-party rights claims arising from contributor submissions.
+
 ---
 
 **End of AIWA-POL-01**

@@ -260,6 +260,75 @@
 
 ---
 
+## 13. Contributor Warranties and Representations
+
+13.1. By submitting any Work to the AIWA system, the contributor represents and warrants that they own or possess all rights, licences, permissions, consents, and authority necessary to submit, register, administer, distribute, licence, stream, computationally authorize, and otherwise make available the contributed Work and all associated materials through the AIWA platform and any sublicensed channels.
+
+13.2. The contributor's warranty of authority applies to all rights categories relevant to the intended use of the Work, including without limitation:
+
+- reproduction rights;
+- distribution rights;
+- communication and streaming rights;
+- adaptation and translation rights where applicable;
+- synchronization rights where applicable;
+- performance rights where applicable;
+- publishing rights where applicable;
+- all rights necessary for educational processing, archival, and licensed AI-related functions under AIWA-POL-04; and
+- any other rights required for the authorized uses permitted under the creator agreement or applicable licence.
+
+13.3. Submission constitutes an affirmative, binding representation of the contributor's ownership or authorized authority. This warranty is a condition of admission to the AIWA system and continues for the duration of AIWA's administration of the Work.
+
+13.4. Where the contributor is not the original creator, the contributor must warrant that they have obtained the original creator's express written authority to submit the Work and to grant AIWA the administrative authority provided for in the creator agreement.
+
+---
+
+## 14. Third-Party Rights Responsibility
+
+14.1. Contributors are solely responsible for securing all required permissions, licences, releases, clearances, synchronization rights, performance rights, publishing rights, image rights, and other third-party authorizations associated with submitted Works before submission to AIWA.
+
+14.2. Third-party rights obligations include, without limitation:
+
+- clearances for samples, interpolations, or incorporated third-party musical compositions or recordings;
+- synchronization licences for Works incorporating pre-existing recordings;
+- image and likeness rights for Works containing identifiable persons;
+- clearances for adapted or translated Works derived from third-party sources;
+- publishing rights for Works containing licensed literary, textual, or compositional content;
+- all collective society, PRO, or mechanical licensing clearances required for the relevant jurisdictions;
+- consents required under applicable data protection, privacy, or cultural heritage laws; and
+- any community authority or cultural institution permissions required for Works with traditional cultural expressions or community origin.
+
+14.3. AIWA does not provide legal clearance services and does not independently verify third-party clearances obtained by contributors. The contributor bears sole legal responsibility for the validity and completeness of their submission with respect to third-party rights.
+
+14.4. Where a third-party rights claim is made against a Work in the AIWA system, AIWA may classify the Work as Held or Restricted pending the contributor's resolution of the claim. AIWA is not obligated to defend, indemnify, or contribute to the cost of resolving third-party rights claims arising from contributor submissions.
+
+14.5. AIWA may require the contributor to provide documentary evidence of third-party clearances before activating licensing or distribution for Works where third-party rights are apparent or likely.
+
+---
+
+## 15. Chain-of-Title Documentation Requirement
+
+15.1. For Works submitted for commercial exploitation, licensing, or distribution, the contributor must be able to demonstrate an unbroken chain of title from the original creator to the submitting party.
+
+15.2. Acceptable chain-of-title documentation includes:
+
+- original creation agreements confirming authorship;
+- assignment or rights transfer agreements;
+- work-for-hire agreements establishing employer or commissioning party ownership;
+- co-authorship or collaboration agreements defining each party's rights and share;
+- testamentary, succession, or inheritance documents;
+- licence-back agreements where publishing or related rights have been assigned and re-licenced; and
+- any other documents establishing an unbroken rights chain recognized under applicable law.
+
+15.3. AIWA may request chain-of-title documentation at any point in the administration lifecycle, including after initial admission, if a dispute, gap, or inconsistency is identified.
+
+15.4. Inability to provide adequate chain-of-title documentation upon request is grounds for suspension of licensing and distribution activity for the affected Work until documentation is provided or the matter is resolved by the Governance Board.
+
+15.5. Where AIWA acts in reliance upon contributor representations and subsequently suffers a claim, penalty, loss, or damage arising from inaccurate, incomplete, or fraudulent chain-of-title documentation, the contributor is liable to indemnify AIWA for all such claims, costs, expenses, and damages, to the extent permitted under applicable law and the creator agreement.
+
+15.6. Acceptance of a Work by AIWA does not constitute AIWA's validation of the contributor's chain of title. Ongoing chain-of-title responsibility remains with the contributor for the duration of AIWA's administration of the Work.
+
+---
+
 **End of AIWA-POL-05**
 
 ---
