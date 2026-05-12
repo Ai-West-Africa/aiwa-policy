@@ -7,6 +7,13 @@ Usage: python3 combine_policy.py <VERSION> <DATE> <OUTPUT_PATH>
 import sys
 import os
 
+if len(sys.argv) != 4:
+    print(
+        "Usage: combine_policy.py <VERSION> <DATE> <OUTPUT_PATH>",
+        file=sys.stderr,
+    )
+    sys.exit(1)
+
 VERSION = sys.argv[1]
 DATE = sys.argv[2]
 OUTPUT = sys.argv[3]
@@ -59,8 +66,14 @@ repo_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fi
 with open(OUTPUT, "w", encoding="utf-8") as out:
     out.write(FRONTMATTER)
 
-    for i, (path, doc_id) in enumerate(DOCS):
+    for path, doc_id in DOCS:
         full_path = os.path.join(repo_root, path)
+        if not os.path.isfile(full_path):
+            print(
+                f"ERROR: Policy document not found: {full_path} ({doc_id})",
+                file=sys.stderr,
+            )
+            sys.exit(1)
         with open(full_path, encoding="utf-8") as f:
             content = f.read().strip()
         out.write(content)
