@@ -274,6 +274,8 @@
 
 13.5. AIWA's authority derives from creator agreements. AIWA may not exceed the authority granted in those agreements.
 
+13.6. Contributor authenticity is foundational to AIWA's rights system. Contributors may only submit works they created, own, or are authorized to submit. Submission of work without legitimate authority is a breach of the creator agreement and of the integrity of the AIWA rights system.
+
 ---
 
 **End of AIWA-POL-01**

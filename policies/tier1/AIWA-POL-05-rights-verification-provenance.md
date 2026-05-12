@@ -66,6 +66,10 @@
 - documentation of the agent's authority to submit on behalf of the rights holder; and
 - the rights holder's identified contact information.
 
+3.6. Contributor authenticity is a foundational submission requirement. A contributor may only submit to AIWA works they created, works they own, or works for which they hold documented authority to submit on behalf of the verified rights holder. Submitting a work without legitimate authority to submit it is a material breach of AIWA's submission requirements and of any creator agreement in force.
+
+3.7. AIWA's governance legitimacy depends on the integrity of contributor submissions. Contributors bear primary responsibility for the authenticity of their submissions. AIWA relies on contributor declarations made at intake, and those declarations transfer primary submission responsibility to the contributor.
+
 ---
 
 ## 4. Split Ownership Handling
