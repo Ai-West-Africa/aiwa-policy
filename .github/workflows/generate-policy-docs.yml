@@ -170,6 +170,7 @@ jobs:
           EOF
 
           gh release create "${VERSION}" \
+            --target "${SOURCE_COMMIT}" \
             "releases/AIWA-Policy-${VERSION}.docx" \
             "releases/AIWA-Policy-${VERSION}.pdf" \
             --title "AIWA Policy Framework ${VERSION}" \
