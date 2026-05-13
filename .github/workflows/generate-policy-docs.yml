@@ -6,10 +6,16 @@ on:
       - main
     paths-ignore:
       - "releases/**"
+  pull_request:
+    branches:
+      - main
+    paths-ignore:
+      - "releases/**"
+  workflow_dispatch:
 
 concurrency:
-  group: generate-policy-docs-main
-  cancel-in-progress: false
+  group: generate-policy-docs-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
 
 permissions:
   contents: write
@@ -38,6 +44,7 @@ jobs:
             lmodern
 
       - name: Sync checkout to latest main
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         run: |
           git fetch origin main
           git checkout main
@@ -90,6 +97,7 @@ jobs:
           retention-days: 90
 
       - name: Commit and push versioned documents to repository
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         env:
           VERSION: ${{ steps.version.outputs.VERSION }}
         run: |
@@ -137,6 +145,7 @@ jobs:
           done
 
       - name: Publish GitHub Release with policy documents
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VERSION: ${{ steps.version.outputs.VERSION }}
