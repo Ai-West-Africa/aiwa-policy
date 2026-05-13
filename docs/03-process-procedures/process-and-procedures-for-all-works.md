@@ -864,12 +864,14 @@ The contributor retains ownership of the original submitted work. This license d
 
 10.7.1. Only the following decision states are allowed upon resolution of a breach:
 
-- **Approved** — work is restored to approved status for the documented scope;
-- **Approved with Limits** — work is restored with defined and documented conditions;
-- **Held** — work remains paused pending further information or determination;
-- **Restricted** — work remains blocked from the stated use;
-- **Rejected** — work is removed from active system use because entry requirements are not met; or
-- **Escalated** — matter is referred to the Governance Board or external authority.
+- **Approved**
+- **Approved with Limits**
+- **Held**
+- **Restricted**
+- **Rejected**
+- **Escalated**
+
+10.7.2. The definitions and record requirements for these states are exactly those in Section 6 of this document and AIWA-GOV-02 Section 3, including documented scope for approvals, a defined response window for Held, and recorded reasons/destinations where required.
 
 ### 10.8. Government Interaction
 
