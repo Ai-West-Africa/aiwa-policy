@@ -71,7 +71,7 @@
 - encyclopedias;
 - datasets;
 - language resources;
-- AI training candidates;
+- works submitted for educational language processing or archival use;
 - culturally linked works;
 - folklore-linked works; and
 - government-authorized restricted works.
@@ -184,7 +184,7 @@ All submitted works are processed for lexical extraction.
 
 ### 7.2.2. Why
 
-The system operates on words and implied meaning as its core data layer. Lexical extraction provides the system with the internal data required for indexing, understanding, and system-level learning. This extraction is independent of classification and independent of AI use permissions.
+The system operates on words and contextual meaning structures as its core data layer. Lexical extraction provides the system with the internal data required for educational indexing, language resource development, and institutional language support. This extraction is independent of classification and independent of AI use permissions.
 
 ### 7.2.3. Who
 
@@ -201,7 +201,7 @@ Within the AIWA processing system.
 ### 7.2.6. How
 
 1. The system parses the submitted work.
-2. The system extracts words, phrases, and implied meaning.
+2. The system extracts words, phrases, and contextual meaning structures.
 3. The system stores the extracted data in structured form.
 4. The system links the extracted data to the original work record.
 
@@ -748,15 +748,18 @@ A written audit report delivered to the Governance Board, identifying performanc
 
 ## 9. System Processing Rights
 
-9.1. **All submitted material is processed into words, phrases, and implied meaning.** This is not optional. This is not user-controlled. This is not tied to AI permission settings.
+9.1. **All submitted material is processed into words, phrases, and contextual meaning structures.** Agreement to this processing is established by the contributor's acceptance of submission conditions at intake. Processing is not tied to AI use permissions.
 
-9.2. AIWA has the right to:
+9.2. By submitting a work to AIWA and accepting the submission conditions at intake, the contributor grants AIWA a non-exclusive, royalty-free, revocable where applicable license to:
 
-- parse submitted works;
-- extract linguistic elements;
-- derive meaning structures;
-- index and store extracted data; and
-- use extracted data within internal AIWA systems.
+- parse, classify, index, store, and administer submitted works for the purposes defined within the AIWA system;
+- extract linguistic elements and derive contextual meaning structures;
+- retain extracted data within internal AIWA educational and archival systems; and
+- use classified and indexed works within the scope approved through the AIWA decision process.
+
+For the purposes of this section, "revocable where applicable" means that, where AIWA determines revocation is legally available and operationally applicable to the relevant use, a contributor may revoke permission for future discretionary use of the original submitted work from the effective date of revocation. Revocation does not retroactively invalidate processing, classification, indexing, extraction, or administrative actions already performed before that date, and does not by itself require deletion of extracted linguistic elements, contextual meaning structures, audit records, or other internal records that AIWA is entitled or required to retain. Any continued retention, archival handling, or restricted internal processing after revocation remains subject to section 9.7 and any applicable legal, governance, or record-keeping obligations.
+
+The contributor retains ownership of the original submitted work. This license does not constitute a transfer of ownership.
 
 9.3. This right applies to:
 
@@ -770,7 +773,7 @@ A written audit report delivered to the Governance Board, identifying performanc
 | Layer | Owner | Treatment |
 |---|---|---|
 | Original Work | Contributor | Subject to publishing, distribution, and restriction rules |
-| Extracted Language Data | AIWA (system-level data) | Not treated as the original work; not a substitute for the original work |
+| Extracted Language Data | AIWA (rights in structured representation and arrangement) | Not the original work; not a substitute for the original work; AIWA holds rights in the compiled structure, not in individual linguistic elements |
 
 9.5. Submission to AIWA constitutes the contributor's agreement to system processing. If a contributor does not agree to system processing, the contributor must not submit to AIWA.
 
@@ -881,6 +884,8 @@ A written audit report delivered to the Governance Board, identifying performanc
 - assume contributor guilt before determination; or
 - assume authority beyond what the law grants.
 
+10.8.3. Notice to Contributor. Where a government authority contacts AIWA regarding a contributor's work, AIWA will notify the relevant contributor of the inquiry as promptly as practicable, unless: (a) the applicable government authority has directed AIWA not to disclose the inquiry; (b) applicable law prohibits such disclosure; or (c) AIWA's legal counsel advises that disclosure would create legal risk for AIWA or would interfere with a lawful investigation. Where notice cannot be given immediately, AIWA will provide notice at the earliest point that disclosure is permissible.
+
 ### 10.9. Record Preservation
 
 10.9.1. AIWA must retain throughout the breach handling process:
@@ -891,15 +896,19 @@ A written audit report delivered to the Governance Board, identifying performanc
 - communication logs; and
 - decision records.
 
-### 10.10. Non-Negotiable Rule
+### 10.10. AIWA's Position on Contributor Breach
 
-10.10.1. AIWA is not responsible for a contributor's breach.
+10.10.1. AIWA does not assume primary responsibility for a contributor's breach of submission rules, misrepresentation of rights, or false declaration of ownership or origin. Primary responsibility for the accuracy of submissions rests with the contributor.
 
 10.10.2. AIWA is responsible for:
 
-- documented response;
-- controlled handling; and
-- lawful compliance.
+(a) documented response to identified breaches;
+
+(b) controlled handling in accordance with the procedures defined in this document; and
+
+(c) lawful compliance with applicable Gambian law and any applicable governmental direction.
+
+10.10.3. Nothing in this Section limits AIWA's liability to the extent that such liability cannot be excluded under applicable Gambian law or other applicable law. AIWA's liability for its own operational failures, documentation failures, or procedural violations is governed by AIWA's applicable liability framework.
 
 ---
 

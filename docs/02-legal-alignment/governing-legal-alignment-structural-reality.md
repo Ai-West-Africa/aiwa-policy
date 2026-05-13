@@ -21,13 +21,15 @@
 
 1.5. This document does not contain process or operational workflow. Those are contained in AIWA-DOC-03.
 
+1.6. **Organizational Positioning.** AIWA is a creator-first African collective rights administration and licensing organization that administers, protects, licenses, and monetizes creative and educational works globally while creators retain ownership of their intellectual property. As a multi-format licensing infrastructure for African creative, educational, and cultural media, AIWA collects revenues and distributes royalties on behalf of creators. AIWA operates as the designated local steward of works entering the AIWA system, supporting Gambian and West African creators and communities through structured rights administration, responsible global licensing, royalty distribution, educational resource development, and culturally respectful archiving.
+
 ---
 
 ## 2. Core Structural Statement
 
 2.1. **AI West Africa (AIWA)** operates as:
 
-- the mandatory local steward of all works that enter the AIWA system;
+- the designated local steward for all works that enter the AIWA system;
 - the administrator of intake, classification, and cultural handling;
 - the payout manager and community allocator; and
 - the cultural risk gatekeeper for The Gambia.
@@ -62,7 +64,37 @@
 
 3.4. Expressions of folklore under Gambian law are held in trust for the people of The Gambia. Neither AIWA nor PRIME may convert protected cultural material into private property or bypass legal and cultural protections that apply to such material.
 
-3.5. The UNESCO 2003 Convention for the Safeguarding of Intangible Cultural Heritage, UNESCO frameworks for AI ethics and cultural governance, and international child-rights frameworks are used as interpretive support for safeguarding, review procedures, and cultural governance. These international frameworks support Gambian law. They do not replace it.
+3.5. The UNESCO 2003 Convention for the Safeguarding of Intangible Cultural Heritage, UNESCO frameworks for AI ethics and cultural governance, and international child-rights frameworks are used as interpretive support for safeguarding, review procedures, and cultural governance. Gambian educational and institutional frameworks, including the Ministry of Basic and Secondary Education (MoBSE) Education Sector Policy, the Gambia ICT4D Policy, and applicable national child protection and youth policies, provide additional contextual guidance for AIWA's educational operations. These international and national frameworks support Gambian law. They do not replace it.
+
+---
+
+## 3A. Terminology Alignment — AIWA and SPARXSTAR
+
+3A.1 Purpose. AIWA and SPARXSTAR use partially overlapping terminology to describe related but distinct operations. SPARXSTAR is the sovereign knowledge framework platform (patent pending) built and operated by Starisian Technologies that provides the technical infrastructure through which AIWA's submission intake, lexical processing, and archival operations run; AIWA is the governance partner of the SPARXSTAR Digital Village Elder (DVE) platform. This section establishes the canonical mapping between AIWA governance terminology and SPARXSTAR platform terminology to prevent interpretive inconsistency.
+
+3A.2 Canonical Term Mapping.
+
+| AIWA Term | SPARXSTAR Equivalent | Scope Note |
+|---|---|---|
+| Lexical extraction | Word extraction / linguistic processing | AIWA term governs classification and cultural decisions; SPARXSTAR term governs technical implementation |
+| System-level dataset | Structured dataset | Functionally equivalent; SPARXSTAR definition governs technical and legal rights in the compiled structure |
+| Linguistic parsing | Linguistic analysis | Synonymous for processing purposes |
+| Semantic analysis | Semantic mapping | Overlapping; SPARXSTAR term encompasses the organized output structure; AIWA term describes the analytical operation |
+| Condition of submission | Consent at intake | Functionally equivalent; AIWA term applies to Gambian law context; SPARXSTAR term applies to platform consent framework |
+| Cultural classification | Content classification (TK layer) | AIWA classification is the authoritative source; SPARXSTAR enforces it at the technical layer via DVE governance |
+| Folklore designation | TK Red / Sacred Content classification | AIWA determination is primary; SPARXSTAR enforces via DVE; both systems treat this category as non-overridable at the processing layer |
+
+3A.3 Defined Terms.
+
+3A.3.0. "TK" means Traditional Knowledge — a term used in international cultural heritage frameworks (including the Local Contexts TK Label system and the Convention on Biological Diversity) to designate knowledge, expressions, and cultural materials that are collectively held, ancestrally transmitted, and subject to community-controlled access restrictions. Within AIWA and SPARXSTAR, TK designations follow AIWA's classification framework: TK Red corresponds to AIWA Class 4 (Restricted Work) or Class 4A (Government-Authorized Restricted Work), denoting folklore, sacred, or ceremonially restricted content that is non-overridable at the processing layer.
+
+3A.3.1. "SPARXSTAR" means the external platform, platform ruleset, and associated technical terminology referenced in this section for system processing, data transformation, platform consent handling, and structured dataset management.
+
+3A.3.2. "DVE" means the SPARXSTAR technical enforcement layer used to apply and preserve classification, access, and use restrictions within platform operations.
+
+3A.3.3. "DVE governance" means the rules, controls, and enforcement logic within the SPARXSTAR DVE layer by which AIWA classifications, folklore restrictions, and related non-overridable handling rules are implemented at the technical layer.
+
+3A.4 Governing Rule. Where AIWA terminology and SPARXSTAR terminology, as defined in this Section 3A, appear to conflict in the interpretation of a specific matter: (a) cultural classification, folklore status, and community permissions are governed by AIWA terminology and AIWA decisions; (b) technical processing operations, data transformation, and system-level data rights are governed by SPARXSTAR terminology and SPARXSTAR framework; and (c) both must be interpreted in a manner that preserves the function of each system.
 
 ---
 
@@ -99,7 +131,7 @@ There are no barriers preventing work from being performed inside The Gambia. AI
 
 5.3. This structure is therefore not a limitation of capability. It is a response to global infrastructure reality.
 
-5.4. Cross-border rights administration through PRIME is used to improve international access, collections, and monetization, while preserving local stewardship in AIWA.
+5.4. Cross-border rights administration through PRIME is used to improve international access, collections, and monetization, while preserving local stewardship in AIWA. All offshore rights administration through PRIME is subject to applicable Gambian law where Gambian law applies, and to the formal jurisdictional authority of applicable Gambian institutions where their authority extends to the relevant matter.
 
 5.5. There is no comparable in-country distribution backbone for global exploitation. Rights are therefore administered offshore for global purposes. All management, classification, and payout routing remain in AIWA.
 
@@ -176,7 +208,7 @@ There are no barriers preventing work from being performed inside The Gambia. AI
 
 6A.6. Ownership participation in the offshore structure does not replace:
 
-- AIWA's role as mandatory local steward;
+- AIWA's role as designated local steward;
 - AIWA's control over intake, classification, and payout routing; or
 - Gambian law as the governing legal framework for cultural and local operations.
 
@@ -242,6 +274,8 @@ These reserved governance rights apply regardless of equity percentage.
 9.4. Where a dispute exists over whether something qualifies as an ethnographical article, cultural artefact, or protected expression, the decision of the relevant Gambian authority is final within its jurisdiction.
 
 9.5. UNESCO frameworks for intangible cultural heritage safeguarding affirm that States identify and define intangible cultural heritage, ideally with participation of the communities concerned. AIWA supports this approach. AIWA is a steward and classifier. AIWA is not the sovereign authority over protected heritage questions.
+
+9.6. Nothing in this framework grants AIWA ownership over communal cultural heritage, sacred traditions, or community-owned cultural expressions. Potentially sensitive materials may be restricted, excluded, or subject to additional review where appropriate.
 
 ---
 
@@ -348,9 +382,9 @@ These reserved governance rights apply regardless of equity percentage.
 
 ---
 
-## 15. Core Non-Negotiable Statements
+## 15. Core Structural Statements
 
-15.1. AIWA is the mandatory local steward.
+15.1. AIWA is the designated local steward within the AIWA system.
 
 15.2. PRIME is a non-exclusive offshore partner.
 
