@@ -10,9 +10,9 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
 
 ## Status
 
-> **Version 1.0 — DRAFT**
+> **Version 1.0 — Active**
 > All core policy documents, standards, governance documents, and the full policy architecture have been compiled and populated.
-> Content is derived from the AIWA Policy Outline and must be reviewed and formally adopted by the AI West Africa and its Governance Board before operational use.
+> These documents are the authoritative Version 1.0 policy framework for AI West Africa.
 
 ---
 

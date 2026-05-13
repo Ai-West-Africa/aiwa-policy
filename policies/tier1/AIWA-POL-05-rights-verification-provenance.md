@@ -262,7 +262,7 @@
 
 ## 13. Contributor Warranties and Representations
 
-13.1. By submitting any Work to the AIWA system, the contributor represents and warrants that they own or possess all rights, licenses, permissions, consents, and authority necessary to submit, register, administer, distribute, license, stream, computationally authorize, and otherwise make available the contributed Work and all associated materials through the AIWA platform and any sublicensed channels.
+13.1. By submitting any Work to the AIWA system, the contributor represents and warrants that they own or possess all rights, licences, permissions, consents, and authority necessary to submit, register, administer, distribute, licence, stream, computationally authorize, and otherwise make available the contributed Work and all associated materials through the AIWA platform and any sublicensed channels.
 
 13.2. The contributor's warranty of authority applies to all rights categories relevant to the intended use of the Work, including without limitation:
 
@@ -274,7 +274,7 @@
 - performance rights where applicable;
 - publishing rights where applicable;
 - all rights necessary for educational processing, archival, and licensed AI-related functions under AIWA-POL-04; and
-- any other rights required for the authorized uses permitted under the creator agreement or applicable license.
+- any other rights required for the authorized uses permitted under the creator agreement or applicable licence.
 
 13.3. Submission constitutes an affirmative, binding representation of the contributor's ownership or authorized authority. This warranty is a condition of admission to the AIWA system and continues for the duration of AIWA's administration of the Work.
 
@@ -284,12 +284,12 @@
 
 ## 14. Third-Party Rights Responsibility
 
-14.1. Contributors are solely responsible for securing all required permissions, licenses, releases, clearances, synchronization rights, performance rights, publishing rights, image rights, and other third-party authorizations associated with submitted Works before submission to AIWA.
+14.1. Contributors are solely responsible for securing all required permissions, licences, releases, clearances, synchronization rights, performance rights, publishing rights, image rights, and other third-party authorizations associated with submitted Works before submission to AIWA.
 
 14.2. Third-party rights obligations include, without limitation:
 
 - clearances for samples, interpolations, or incorporated third-party musical compositions or recordings;
-- synchronization licenses for Works incorporating pre-existing recordings;
+- synchronization licences for Works incorporating pre-existing recordings;
 - image and likeness rights for Works containing identifiable persons;
 - clearances for adapted or translated Works derived from third-party sources;
 - publishing rights for Works containing licensed literary, textual, or compositional content;
@@ -316,7 +316,7 @@
 - work-for-hire agreements establishing employer or commissioning party ownership;
 - co-authorship or collaboration agreements defining each party's rights and share;
 - testamentary, succession, or inheritance documents;
-- license-back agreements where publishing or related rights have been assigned and re-licensed; and
+- licence-back agreements where publishing or related rights have been assigned and re-licenced; and
 - any other documents establishing an unbroken rights chain recognized under applicable law.
 
 15.3. AIWA may request chain-of-title documentation at any point in the administration lifecycle, including after initial admission, if a dispute, gap, or inconsistency is identified.
