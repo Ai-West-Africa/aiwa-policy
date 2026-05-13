@@ -231,7 +231,7 @@ Incomplete works create false decisions later. Completeness must be confirmed be
 
 ### 7.3.3. Who
 
-AIWA Intake Review Staff.
+AIWA Intake Staff.
 
 ### 7.3.4. When
 
@@ -275,7 +275,7 @@ Most harm comes from treating high-risk works like normal works. Risk identifica
 
 ### 7.4.3. Who
 
-AIWA Classification Screen Staff.
+AIWA Classification Officer.
 
 ### 7.4.4. When
 
@@ -862,14 +862,16 @@ The contributor retains ownership of the original submitted work. This license d
 
 ### 10.7. Resolution Outcomes
 
-10.7.1. Only the following outcomes are allowed upon resolution of a breach:
+10.7.1. Only the following decision states are allowed upon resolution of a breach:
 
-- **Reinstate** — work is restored to its prior status;
-- **Reinstate with limits** — work is restored with defined conditions;
-- **Maintain restriction** — work remains restricted;
-- **Remove** — work is removed from the system;
-- **Escalate** — matter is referred to higher authority; or
-- **Suspend contributor** — contributor's access is suspended pending further determination.
+- **Approved** (with documented scope)
+- **Approved with Limits** (with documented scope and limits)
+- **Held** (with a defined response window)
+- **Restricted** (with a recorded reason)
+- **Rejected** (with a recorded reason)
+- **Escalated** (with destination and recorded reason)
+
+10.7.2. The definitions and record requirements for these states are exactly those in Section 6 of this document and AIWA-GOV-02 Section 3, including documented scope for approvals, a defined response window for Held, and recorded reasons/destinations where required.
 
 ### 10.8. Government Interaction
 
