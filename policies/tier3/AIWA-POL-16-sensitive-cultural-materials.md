@@ -187,7 +187,7 @@
 
 9.3. No sensitive cultural material may be shared outside AIWA without written authorization from the relevant community authority and the Governance Board.
 
-9.4. Access restrictions apply to AIWA staff, sublicensees, AI processing partners, and any other party that may handle AIWA materials.
+9.4. Access restrictions apply to AIWA staff, sublicensees, AI Use partners, and any other party that may handle AIWA materials.
 
 ---
 

@@ -7,6 +7,10 @@ on:
     paths-ignore:
       - "releases/**"
 
+concurrency:
+  group: generate-policy-docs-main
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -32,6 +36,12 @@ jobs:
             texlive-latex-extra \
             fonts-liberation \
             lmodern
+
+      - name: Sync checkout to latest main
+        run: |
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
 
       - name: Set version string
         id: version
@@ -77,6 +87,54 @@ jobs:
             releases/AIWA-Policy-${{ steps.version.outputs.VERSION }}.pdf
           retention-days: 90
 
+      - name: Commit and push versioned documents to repository
+        env:
+          VERSION: ${{ steps.version.outputs.VERSION }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add "releases/AIWA-Policy-${VERSION}.docx" "releases/AIWA-Policy-${VERSION}.pdf"
+
+          if git diff --staged --quiet; then
+            echo "No new documents to commit."
+            exit 0
+          fi
+
+          git commit -m "docs: release policy documents ${VERSION} [skip ci]"
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+
+            if ! git rebase origin/main; then
+              echo "Rebase attempt ${attempt} failed; retrying."
+              git rebase --abort || true
+
+              if [ "${attempt}" -eq 3 ]; then
+                echo "Failed to rebase release documents after 3 attempts."
+                exit 1
+              fi
+
+              sleep $((attempt * 5))
+              continue
+            fi
+
+            if git push origin HEAD:main; then
+              echo "Push succeeded on attempt ${attempt}."
+              exit 0
+            fi
+
+            echo "Push attempt ${attempt} failed; retrying."
+            git rebase --abort || true
+
+            if [ "${attempt}" -eq 3 ]; then
+              echo "Failed to push release documents after 3 attempts."
+              exit 1
+            fi
+
+            sleep $((attempt * 5))
+          done
+
       - name: Publish GitHub Release with policy documents
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -89,15 +147,20 @@ jobs:
             exit 0
           fi
 
+          RELEASE_NOTES=$(cat <<EOF
+          Automated release of the AIWA Policy & Governance Framework.
+
+          **Version:** ${VERSION}
+          **Date:** ${DATE}
+          **Commit:** $(git rev-parse HEAD)
+
+          This release contains the complete AIWA policy framework compiled into DOCX and PDF formats, covering governance, standards, foundational documents, and all Tier 1–3 policy documents.
+          EOF
+          )
+
           gh release create "${VERSION}" \
             "releases/AIWA-Policy-${VERSION}.docx" \
             "releases/AIWA-Policy-${VERSION}.pdf" \
             --title "AIWA Policy Framework ${VERSION}" \
-            --notes "Automated release of the AIWA Policy & Governance Framework.
-
-**Version:** ${VERSION}
-**Date:** ${DATE}
-**Commit:** ${GITHUB_SHA}
-
-This release contains the complete AIWA policy framework compiled into DOCX and PDF formats, covering governance, standards, foundational documents, and all Tier 1–3 policy documents." \
+            --notes "${RELEASE_NOTES}" \
             --latest
