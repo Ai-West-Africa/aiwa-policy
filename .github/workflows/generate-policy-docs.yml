@@ -96,7 +96,7 @@ jobs:
             releases/AIWA-Policy-${{ steps.version.outputs.VERSION }}.pdf
           retention-days: 90
 
-      - name: Commit and push versioned documents to repository
+      - name: Best-effort commit and push versioned documents to repository
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         env:
           VERSION: ${{ steps.version.outputs.VERSION }}
@@ -121,8 +121,8 @@ jobs:
               git rebase --abort || true
 
               if [ "${attempt}" -eq 3 ]; then
-                echo "Failed to rebase release documents after 3 attempts."
-                exit 1
+                echo "Failed to rebase release documents after 3 attempts. Continuing without repository commit."
+                exit 0
               fi
 
               sleep $((attempt * 5))
@@ -137,8 +137,8 @@ jobs:
             echo "Push attempt ${attempt} failed; retrying."
 
             if [ "${attempt}" -eq 3 ]; then
-              echo "Failed to push release documents after 3 attempts."
-              exit 1
+              echo "Failed to push release documents after 3 attempts (likely branch protection/rules). Continuing to publish release artifacts."
+              exit 0
             fi
 
             sleep $((attempt * 5))
