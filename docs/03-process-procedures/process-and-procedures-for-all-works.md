@@ -1016,9 +1016,9 @@ The contributor retains ownership of the original submitted work. This license d
 | Attribution requirements | Documented |
 | Withdrawal rights and limits | Disclosed and documented |
 
-12.3.2. Consent must be affirmative, documented, and attached to the intake record. Bundled consent (a single tick-box for all use types) is not permitted where the work is submitted for AI training or commercial use.
+12.3.2. Consent must be affirmative, documented, and attached to the intake record. Each use type for which a work is submitted requires separate, clearly identified consent. A single bundled consent statement (e.g., a single tick-box covering all use types) is not a sufficient basis for AI training use or commercial use. Where a work is submitted solely for corpus inclusion and research use without AI training or commercial use, bundled consent for those two use types is permitted provided each type is clearly identified and the contributor is not misled about the scope.
 
-12.3.3. Withdrawal rights must be disclosed. Where withdrawal of consent after processing is technically limited (e.g., trained model weights cannot be reversed), that limitation must be disclosed before consent is obtained.
+12.3.3. Withdrawal rights must be disclosed. Where withdrawal of consent after processing is technically limited (e.g., trained model weights cannot be reversed), that limitation must be disclosed before consent is obtained. See AIWA-POL-04 Sections 5.5 and 5.6 for the obligations that apply when deletion from model weights is not technically feasible.
 
 ### 12.4. IRB-Style Privacy Screen
 

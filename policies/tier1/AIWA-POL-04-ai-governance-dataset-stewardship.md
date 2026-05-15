@@ -263,7 +263,7 @@
 | **Storage** | Works are stored securely within AIWA-governed systems. Storage location, access controls, and security standards are documented. Works subject to cultural restrictions or privacy holds are stored under additional access controls. |
 | **Access** | Access is controlled by the access tier assigned at the decision gate (AIWA-DOC-03 Section 12.7). No access occurs outside the assigned tier without a new recorded decision. |
 | **Retention** | Retention periods are proportionate to the processing purpose and documented in the work's governance record. Retention does not extend beyond what is necessary unless required by law or community protection obligations. |
-| **Deletion** | Works are deleted from active systems when consent is withdrawn, when administration ends, or when required by law or AIWA governance decision. Deletion is documented in the deletion register (Section 12.4). Deletion of works from AI model weights is subject to technical limitations as defined in Section 5.5 and 5.6. |
+| **Deletion** | Works are deleted from active systems when consent is withdrawn, when administration ends, or when required by law or AIWA governance decision. Deletion is documented in the deletion register (Section 12.4 of this policy). Deletion of works from AI model weights is subject to technical limitations as defined in Sections 5.5 and 5.6 of this policy. |
 
 12A.1.2. Data lifecycle records are maintained as part of each work's governance record for the life of the work's presence in the AIWA system and for a minimum of seven years after administration ends.
 

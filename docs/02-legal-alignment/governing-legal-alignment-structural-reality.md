@@ -76,7 +76,7 @@
 
 ---
 
-## 3B. UNESCO Alignment and Human Rights Principles
+## 3B. International Framework Alignment and Human Rights Principles
 
 3B.1. **Purpose.** AIWA operates in alignment with UNESCO's Recommendation on the Ethics of Artificial Intelligence (2021), UNESCO's Recommendation on Open Science (2021), UNESCO's Convention for the Safeguarding of the Intangible Cultural Heritage (2003), and the UN Sustainable Development Goals. This section states AIWA's explicit commitments under those frameworks.
 
