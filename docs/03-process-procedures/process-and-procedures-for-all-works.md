@@ -55,7 +55,7 @@
 
 3.2. Precautionary control application rules:
 
-3.2.1. Controls must map to the minimum control needed under the Stage 4 risk level.
+3.2.1. Controls must map to the minimum control needed under the Stage 4 risk level (as defined in Section 7.4.7).
 
 3.2.2. Controls may only use the allowed decision states in Section 6 (Allowed Decision States).
 
@@ -429,7 +429,10 @@ AIWA Cultural Review Unit.
 
 Whenever a work is elevated beyond standard handling, as flagged in Stage 4 or Stage 5.
 
-For Fast-Track Eligible cases, Stage 7 is recorded as "Not Required — No cultural trigger identified" unless a new risk signal is identified in any intervening stage before Stage 9, in which case Stage 7 becomes mandatory before a decision is issued.
+For Fast-Track Eligible cases:
+
+- Stage 7 is recorded as "Not Required — No cultural trigger identified."
+- If a new risk signal is identified in any intervening stage before Stage 9, Stage 7 becomes mandatory before a decision is issued.
 
 ### 7.7.5. Where
 
@@ -970,7 +973,7 @@ The contributor retains ownership of the original submitted work. This license d
 
 11.1.10. Where material uncertainty exists, proportionate precautionary controls must be applied and the basis recorded.
 
-11.1.11. No precautionary hold may continue unless a documented review path is set with a decision owner and a review date no later than 30 calendar days from the hold decision.
+11.1.11. No precautionary hold may continue unless a documented review path is set with a decision owner and a review date no later than 30 calendar days from the date the hold decision record is created.
 
 11.1.12. If that review date passes without a recorded decision, the case must be escalated to AIWA Senior Review within 5 business days.
 
