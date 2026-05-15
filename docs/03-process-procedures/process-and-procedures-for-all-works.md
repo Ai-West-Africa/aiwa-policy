@@ -50,7 +50,7 @@
 2. **Classification before exploitation** — No work is exploited, monetized, or distributed before classification is assigned.
 3. **Documentation before approval** — No approval is valid without a documented record.
 4. **Review before exception** — No exception to restriction is granted without a formal review.
-5. **Restriction on doubt** — When in doubt, the work is restricted.
+5. **Precaution on material uncertainty** — Where material uncertainty exists involving cultural harm, rights ambiguity, or community sensitivity, proportionate precautionary controls apply pending documented review.
 6. **Monitoring after release** — Approved use does not end oversight.
 
 ---
@@ -301,7 +301,7 @@ Apply the following trigger questions:
 
 One risk level:
 
-- **Standard** — proceed to Stage 5;
+- **Standard** — proceed to Stage 5 and mark Fast-Track Eligible where no Stage 4 trigger indicates folklore linkage, restricted handling, or government-approval risk;
 - **Elevated** — proceed to Stage 5 with elevated flag;
 - **Restricted-risk** — proceed to Stage 5 with restricted flag; or
 - **Government-approval-risk** — proceed to Stage 5 with government-approval flag.
@@ -415,6 +415,8 @@ AIWA Cultural Review Unit.
 
 Whenever a work is elevated beyond standard handling, as flagged in Stage 4 or Stage 5.
 
+For Fast-Track Eligible cases, Stage 7 is recorded as "Not Required — No cultural trigger identified" unless a new risk signal is identified before the Stage 9 decision.
+
 ### 7.7.5. Where
 
 Inside the AIWA cultural review system.
@@ -430,6 +432,14 @@ The review must examine:
 - whether monetization should be blocked;
 - whether AI use must be denied; and
 - whether escalation to a ministry, community authority, or governance board is required.
+
+Where community consultation is required, the review record must also document:
+
+- the trigger for consultation;
+- the identified community or representative consulted;
+- the basis for standing (recognized authority, documented mandate, or credible affected-interest evidence);
+- the consultation window and submissions received; and
+- how the consultation outcome affected classification, limits, or escalation decisions.
 
 ### 7.7.7. Output
 
@@ -675,6 +685,14 @@ A two-step appeal process applies:
 
 1. Administrative reconsideration by the Appeals Officer; then
 2. Governance Board appeal for defined high-stakes matters.
+
+Contributor procedural rights in Stage 12 must include:
+
+- written notice of the original decision and basis;
+- access to the non-confidential evidence relied upon;
+- a defined window to submit corrections or supporting evidence;
+- review by an officer who was not the sole original decision-maker for elevated, restricted, or escalated cases; and
+- a written outcome statement explaining whether the decision was upheld, modified, or reversed.
 
 ### 7.12.7. Output
 
@@ -936,7 +954,7 @@ The contributor retains ownership of the original submitted work. This license d
 
 11.1.9. No bypass of classification for any reason.
 
-11.1.10. When in doubt, restrict.
+11.1.10. Where material uncertainty exists, apply proportionate precautionary controls and record the basis; no precautionary hold may continue without a documented review path.
 
 ---
 
