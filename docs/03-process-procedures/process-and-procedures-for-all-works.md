@@ -55,7 +55,7 @@
 
 3.2. Precautionary control application rules:
 
-3.2.1. Controls must map to the minimum control needed under the Stage 4 risk level (as defined in Section 7.4.7).
+3.2.1. Controls must map to the minimum control needed under the Stage 4 risk level (as listed in Stage 4 output, Section 7.4.7).
 
 3.2.2. Controls may only use the allowed decision states in Section 6 (Allowed Decision States).
 
@@ -319,6 +319,8 @@ A work is marked Fast-Track Eligible only where Stage 4 identifies none of the f
 - folklore linkage indicators;
 - restricted-risk indicators; or
 - government-approval-risk indicators.
+
+Fast-Track Eligible status means the work may bypass mandatory Stage 7 review unless a later-stage risk trigger requires Stage 7 before decision.
 
 ---
 
@@ -973,7 +975,7 @@ The contributor retains ownership of the original submitted work. This license d
 
 11.1.10. Where material uncertainty exists, proportionate precautionary controls must be applied and the basis recorded.
 
-11.1.11. No precautionary hold may continue unless a documented review path is set with a decision owner and a review date no later than 30 calendar days from the date the hold decision record is created.
+11.1.11. No precautionary hold may continue unless a documented review path is set with a decision owner and a review date no later than 30 calendar days from the timestamp of the initial hold decision entry in the AIWA system.
 
 11.1.12. If that review date passes without a recorded decision, the case must be escalated to AIWA Senior Review within 5 business days.
 
