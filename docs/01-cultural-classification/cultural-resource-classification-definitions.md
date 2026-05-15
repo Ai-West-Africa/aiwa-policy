@@ -334,7 +334,7 @@ These two conditions are not mutually exclusive. Both may apply simultaneously. 
 
 8.6. A work's classification as Class 2, 3, 4, or 4A does not extinguish the creator's rights in the modern elements of that work. It imposes conditions on the exercise of those rights.
 
-8.7. AIWA's ownership stake in the offshore partner structure (PRIME) does not affect AIWA's classification decisions. AIWA must classify works independently of any commercial interest.
+8.7. AIWA's involvement in offshore partnership structures does not affect AIWA's classification decisions. AIWA must classify works independently of any commercial interest.
 
 8.8. Nothing in this document or in AIWA's classification, processing, or publication activities grants AIWA ownership over communal cultural heritage, sacred traditions, or community-owned cultural expressions. These remain held in trust for the people of The Gambia and the relevant communities.
 

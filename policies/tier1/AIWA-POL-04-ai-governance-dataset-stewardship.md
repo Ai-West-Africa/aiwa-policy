@@ -251,6 +251,61 @@
 
 ---
 
+## 12A. Data Lifecycle Governance and FAIR+CARE Alignment
+
+### 12A.1. Data Lifecycle Governance
+
+12A.1.1. AIWA governs all works and data throughout their complete lifecycle. The lifecycle stages and their governing requirements are:
+
+| Lifecycle Stage | Governing Requirements |
+|---|---|
+| **Collection** | Works are accepted only through the formal intake process (AIWA-DOC-03 Stage 1). Collection basis (consent, authority, lawful use) must be documented before processing begins. |
+| **Storage** | Works are stored securely within AIWA-governed systems. Storage location, access controls, and security standards are documented. Works subject to cultural restrictions or privacy holds are stored under additional access controls. |
+| **Access** | Access is controlled by the access tier assigned at the decision gate (AIWA-DOC-03 Section 12.7). No access occurs outside the assigned tier without a new recorded decision. |
+| **Retention** | Retention periods are proportionate to the processing purpose and documented in the work's governance record. Retention does not extend beyond what is necessary unless required by law or community protection obligations. |
+| **Deletion** | Works are deleted from active systems when consent is withdrawn, when administration ends, or when required by law or AIWA governance decision. Deletion is documented in the deletion register (Section 12.4). Deletion of works from AI model weights is subject to technical limitations as defined in Section 5.5 and 5.6. |
+
+12A.1.2. Data lifecycle records are maintained as part of each work's governance record for the life of the work's presence in the AIWA system and for a minimum of seven years after administration ends.
+
+### 12A.2. FAIR Principles
+
+12A.2.1. AIWA applies FAIR data principles (Findable, Accessible, Interoperable, Reusable) to works accepted into research-accessible corpus pools, subject to rights, consent, and cultural restriction controls.
+
+12A.2.2. FAIR application within AIWA means:
+
+- **Findable:** Works in research-accessible pools are catalogued with structured metadata including creator, date, source, rights basis, language, classification, and provenance.
+- **Accessible:** Access follows the assigned access tier. Conditions of access are documented and consistently enforced.
+- **Interoperable:** Metadata follows structured formats to enable compatible use across research systems where rights permit.
+- **Reusable:** Reuse is permitted within the scope documented in the rights and consent record. Reuse outside documented scope is not permitted.
+
+12A.2.3. FAIR principles do not override consent, rights, or cultural restrictions. FAIR access is only possible where rights and consent permit.
+
+### 12A.3. CARE Principles
+
+12A.3.1. AIWA applies CARE data governance principles (Collective Benefit, Authority to Control, Responsibility, Ethics) to all works where community data is implicated, including Class 2, 3, and 4 works and any work where language, oral tradition, or community-linked elements are present.
+
+12A.3.2. CARE application within AIWA means:
+
+- **Collective Benefit:** Data governance for community-linked works prioritises benefit to the originating communities. Commercial exploitation of community-linked materials requires documented benefit-sharing arrangements.
+- **Authority to Control:** Communities and rights holders retain authority over their data. AIWA does not override community objections, withdrawal of consent, or community-imposed restrictions.
+- **Responsibility:** AIWA bears responsibility for the accuracy of its records, the enforceability of its consent and rights determinations, and the integrity of community-linked data governance.
+- **Ethics:** AIWA applies ethical review to all decisions involving community-linked or cultural data, consistent with the principles in AIWA-DOC-02 Section 3B.
+
+12A.3.3. CARE principles are mandatory for community-linked works. They are not optional and cannot be waived by commercial agreement.
+
+### 12A.4. Corpus Composition Review
+
+12A.4.1. AIWA reviews the composition of its corpora on a periodic basis to assess:
+
+- representation across language communities, work types, and contributor demographics;
+- sources of underrepresentation or potential bias;
+- consistency between the corpus composition and AIWA's diversity and inclusion commitments (AIWA-DOC-02 Section 3B.6); and
+- any concentration of works from sources that may introduce systematic bias into AI systems trained on those works.
+
+12A.4.2. Corpus composition review findings are reported to the Governance Board and inform intake and classification priorities.
+
+---
+
 ## 13. International AI Licensing
 
 13.1. AI processing licensing for international partners is governed by AIWA-POL-12.

@@ -38,7 +38,7 @@
 | Monitoring and Compliance Team | Monitors approved works post-release |
 | Appeals Officer | Manages appeals and corrections |
 | Quality and Governance Unit | Manages audit, metrics, and process improvement |
-| PRIME Liaison | Manages the AIWA-PRIME operating relationship |
+| Publishing Partner Liaison | Manages the operating relationship between AIWA and its Authorised Publishing Partners |
 | Submitting Party | External contributor who submits works to AIWA |
 
 2.2. Each layer is accountable to the layer above it. No layer may override the Governance Board.
@@ -296,24 +296,24 @@ The Quality and Governance Unit manages the audit, metrics, and process improvem
 
 ---
 
-## 13. PRIME Liaison
+## 13. Publishing Partner Liaison
 
 ### 13.1. Role Definition
 
-The PRIME Liaison manages the operating relationship between AIWA and PRIME.
+The Publishing Partner Liaison manages the operating relationship between AIWA and each of its Authorised Publishing Partners.
 
 ### 13.2. Responsibilities
 
-- Coordinate the transfer of approved works to PRIME for global exploitation.
-- Confirm that PRIME operates only within the scope approved by AIWA for each work.
-- Monitor PRIME's compliance with AIWA classification, restriction, and payout routing requirements.
-- Escalate any PRIME boundary violation to the Governance Board.
+- Coordinate the transfer of approved works to Authorised Publishing Partners for global exploitation.
+- Confirm that each Authorised Publishing Partner operates only within the scope approved by AIWA for each work.
+- Monitor each Authorised Publishing Partner's compliance with AIWA classification, restriction, and payout routing requirements.
+- Escalate any partner boundary violation to the Governance Board.
 
 ### 13.3. Authority Boundaries
 
-- The PRIME Liaison does not have authority to approve works for exploitation. Approval rests with the Decision Officer.
-- The PRIME Liaison does not grant PRIME any rights beyond those assigned through the AIWA process.
-- PRIME's scope of engagement does not expand beyond what is defined in the decision record for each work.
+- The Publishing Partner Liaison does not have authority to approve works for exploitation. Approval rests with the Decision Officer.
+- The Publishing Partner Liaison does not grant any Authorised Publishing Partner rights beyond those assigned through the AIWA process.
+- An Authorised Publishing Partner's scope of engagement does not expand beyond what is defined in the decision record for each work.
 
 ---
 
@@ -340,11 +340,11 @@ The Submitting Party is any individual, group, institution, or authorized repres
 
 ---
 
-## 15. PRIME
+## 15. Authorised Publishing Partners
 
 ### 15.1. Role Definition
 
-PRIME is the non-exclusive offshore rights and exploitation partner of AIWA. PRIME manages global rights exploitation, international licensing, platform distribution, cross-border monetization, and enforcement in applicable jurisdictions.
+Authorised Publishing Partners are organisations engaged by AIWA on a non-exclusive basis to manage global rights exploitation, international licensing, platform distribution, cross-border monetization, and enforcement in applicable jurisdictions on behalf of rights holders whose works have been approved for offshore distribution.
 
 ### 15.2. Responsibilities
 
@@ -353,16 +353,32 @@ PRIME is the non-exclusive offshore rights and exploitation partner of AIWA. PRI
 - Return revenue through the structured payout routing controlled by AIWA.
 - Comply with AIWA classification, restriction, and AI eligibility decisions.
 - Refrain from any action regarding works that have not been approved by AIWA.
+- Maintain transparent revenue reporting to AIWA.
+- Respect all cultural restrictions and community-linked conditions imposed by AIWA.
 
 ### 15.3. Authority Boundaries
 
-- PRIME does not control intake.
-- PRIME does not control classification.
-- PRIME does not control cultural designation.
-- PRIME does not control restriction status.
-- PRIME does not control local payout routing.
-- PRIME may not expand the scope of use for any work beyond what AIWA has approved.
-- PRIME may not bypass AIWA for any work that AIWA represents.
+- No Authorised Publishing Partner controls intake.
+- No Authorised Publishing Partner controls classification.
+- No Authorised Publishing Partner controls cultural designation.
+- No Authorised Publishing Partner controls restriction status.
+- No Authorised Publishing Partner controls local payout routing.
+- No Authorised Publishing Partner may expand the scope of use for any work beyond what AIWA has approved.
+- No Authorised Publishing Partner may bypass AIWA for any work that AIWA represents.
+
+### 15.4. Publishing Partner Qualification Standards
+
+AIWA engages only Authorised Publishing Partners that meet the following minimum standards:
+
+- **Local governance respect:** The partner accepts that AIWA retains full control over intake, classification, cultural designation, restriction status, and payout routing.
+- **Informed consent:** The partner operates only on works for which valid contributor consent has been obtained and documented.
+- **Rights and scope documentation:** The partner operates only within the use scope documented in the AIWA decision record for each work.
+- **Transparent revenue-sharing:** The partner provides transparent accounting and returns revenue through AIWA-controlled distribution structures.
+- **Fair benefit return:** The partner's arrangements ensure that creators and communities receive fair benefit from the exploitation of their works.
+- **Cultural restriction compliance:** The partner honours all cultural holds, community-linked conditions, and restricted-material designations without exception.
+- **Non-bypass obligation:** The partner does not deal directly with contributors or communities in ways that circumvent AIWA's stewardship role.
+- **Licenced access only:** The partner receives a licence to use approved works within defined scope. No partner receives ownership or unconstrained access to AIWA-administered works or corpora.
+- **Non-exclusive engagement:** No partner holds exclusive control over any work or corpus category. AIWA retains the right to work with multiple partners or to build internal capacity.
 
 ---
 
