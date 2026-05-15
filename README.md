@@ -1,6 +1,6 @@
 # AI West Africa Governance & Policy
 
-This repository contains the policy framework for **AI West Africa (AIWA)** — a creator-first African collective rights administration and licensing organization that administers, protects, licenses, and monetizes creative and educational works globally while creators retain ownership. As a Gambian-centered multi-format licensing infrastructure, AIWA collects revenues and distributes royalties on behalf of creators across music, video, books, educational content, and cultural works — with a focus on cultural integrity and ensuring rights and revenues remain connected to creators and communities.
+This repository contains the policy framework for **AI West Africa (AIWA)** — a creator-first African collective rights administration and licensing organization that administers, protects, licenses, and monetizes creative and educational works globally while creators retain ownership. As a Gambian-centered multi-format licensing infrastructure, AIWA collects revenues and distributes royalties on behalf of creators across music, video, books, educational content, and cultural works — with a focus on cultural integrity and ensuring rights and revenues remain connected to creators and communities. Within this framework, AIWA operates as contractual and operational compliance infrastructure, not as a sovereign regulator, ministry, court, or public authority.
 
 **Core Principle.** AIWA administers rights on behalf of rights holders and does not acquire ownership of copyrights, communal heritage, languages, or cultural identity except where expressly agreed in writing.
 
@@ -116,7 +116,7 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
 Defines what a work is, what folklore is, the five-class classification model, classification levels (Baseline, Elevated, Extreme Case), AI use and monetization boundaries, ownership boundaries, lexical extraction as a system condition for educational archiving, and the five confirmational statements required from all contributors.
 
 ### AIWA-DOC-02 — Governing Legal Alignment & Structural Reality
-Defines the legal hierarchy with Gambian law as the primary authority, AIWA's role as a collective rights administration and licensing organization and designated local steward, PRIME's role as non-exclusive offshore partner, the offshore ownership structure (Max 35% / Muhammed 35% / AIWA 30%), ministry jurisdiction and overlap, government authorization handling, and the core structural statements.
+Defines the legal hierarchy with Gambian law as the primary authority, AIWA's role as a collective rights administration and licensing organization and designated local steward, PRIME's role as non-exclusive offshore partner, the offshore ownership structure (Max 35% / Muhammed 35% / AIWA 30%), ministry jurisdiction and overlap, government authorization handling, institutional-positioning boundaries, and the core structural statements.
 
 ### AIWA-DOC-03 — Process & Procedures for All Works
 Defines the 13-stage controlled process for all works from intake through audit, including lexical extraction, classification, rights review, cultural review, government authorization review, decision gate, implementation, monitoring, appeals, and audit. Also defines system processing rights and contributor breach handling.
@@ -175,12 +175,12 @@ Defines data governance principles, creator and rights holder data protection, v
 Defines sanctions compliance, AML/KYC standards, export controls, anti-corruption obligations, foreign licensing rules, platform compliance, restricted jurisdictions management, and reporting and monitoring requirements.
 
 #### AIWA-POL-11 — Platform Enforcement & Appeals Policy
-Defines account suspension procedures, escalation procedures, human review standards, the appeals process, reinstatement procedures, evidence standards, and enforcement timelines.
+Defines account suspension procedures, escalation procedures, human review standards, the appeals process, appeals transparency principles, reinstatement procedures, evidence standards, and enforcement timelines.
 
 ### Tier 3 — Specialized Policies
 
 #### AIWA-POL-12 — AI Dataset Licensing Policy
-Governs external licensing of AIWA-administered works as AI datasets. Defines the licensing framework and categories, approved AI partner standards, prohibited uses, compensation structures, audit rights, license termination, and dataset recall.
+Governs external licensing of AIWA-administered works as AI datasets. Defines the licensing framework and categories, approved AI partner standards, prohibited uses, compensation structures, academic research licence safeguards, audit rights, license termination, and dataset recall.
 
 #### AIWA-POL-13 — Archive & Preservation Policy
 Defines digitization standards, restoration procedures, language preservation standards, metadata preservation, educational archive management, access controls, and preservation ethics.

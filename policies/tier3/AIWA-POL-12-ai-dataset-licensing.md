@@ -42,6 +42,12 @@
 
 2.3. The applicable license category is determined by the rights holder's consent and the work's classification.
 
+2.4. Research Licenses exist to preserve legitimate academic and public-interest research access under controlled conditions. They do not convert AIWA into an open extraction or unrestricted corpus distribution platform.
+
+2.5. A Research License may be issued only to a university, public research institution, museum, archive, or another non-commercial research body, or to a researcher operating under documented institutional ethics oversight or equivalent review acceptable to AIWA.
+
+2.6. Research Licenses must prohibit commercial deployment, onward transfer, and any use inconsistent with applicable cultural, community, privacy, or deletion restrictions.
+
 ---
 
 ## 3. Approved AI Partner Standards
@@ -103,6 +109,8 @@
 - research licenses with reduced or waived fees for qualifying non-commercial academic use.
 
 5.4. No AI dataset license may be granted without compensation unless the rights holder has expressly waived compensation in writing.
+
+5.5. Reduced-fee or waived-fee Research Licenses do not waive provenance, attribution, community benefit, data protection, or dataset deletion obligations.
 
 ---
 

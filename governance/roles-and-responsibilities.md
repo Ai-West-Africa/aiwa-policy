@@ -73,6 +73,12 @@ The Governance Board is the highest internal decision-making authority within AI
 - Composition is determined by AIWA's constitutional or founding documents.
 - A high-risk case must not be closed by a single person. Board decisions on high-stakes matters require more than one member.
 
+### 3.5. External Advisory and Public-Interest Interfaces
+
+- The Governance Board may request non-voting input from relevant ministries, NCAC-linked authorities, academic or technical experts, community representatives, or independent public-interest reviewers where a matter raises cultural, educational, research, or public-authority sensitivities.
+- External advisory participants are consultative. They do not issue final AIWA decisions unless they are separately acting under recognized legal authority or under another policy-authorized role.
+- Where independent ethics or public-interest review is requested, the Governance Board must document the review scope, the basis for selecting the reviewer, and any conflict-of-interest controls applied.
+
 ---
 
 ## 4. Intake Staff

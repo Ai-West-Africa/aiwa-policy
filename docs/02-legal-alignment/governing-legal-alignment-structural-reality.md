@@ -21,7 +21,7 @@
 
 1.5. This document does not contain process or operational workflow. Those are contained in AIWA-DOC-03.
 
-1.6. **Organizational Positioning.** AIWA is a creator-first African collective rights administration and licensing organization that administers, protects, licenses, and monetizes creative and educational works globally while creators retain ownership of their intellectual property. As a multi-format licensing infrastructure for African creative, educational, and cultural media, AIWA collects revenues and distributes royalties on behalf of creators. AIWA operates as the designated local steward of works entering the AIWA system, supporting Gambian and West African creators and communities through structured rights administration, responsible global licensing, royalty distribution, educational resource development, and culturally respectful archiving.
+1.6. **Organizational Positioning.** AIWA is a creator-first African collective rights administration and licensing organization that administers, protects, licenses, and monetizes creative and educational works globally while creators retain ownership of their intellectual property. As a multi-format licensing infrastructure for African creative, educational, and cultural media, AIWA collects revenues and distributes royalties on behalf of creators. AIWA operates as the designated local steward of works entering the AIWA system, supporting Gambian and West African creators and communities through structured rights administration, responsible global licensing, royalty distribution, educational resource development, and culturally respectful archiving. Within this structure, AIWA functions as a Gambian AI rights and cultural compliance infrastructure: contractual, operational, and stewardship-based, not a sovereign regulator or public authority.
 
 ---
 
@@ -65,6 +65,14 @@
 3.4. Expressions of folklore under Gambian law are held in trust for the people of The Gambia. Neither AIWA nor PRIME may convert protected cultural material into private property or bypass legal and cultural protections that apply to such material.
 
 3.5. The UNESCO 2003 Convention for the Safeguarding of Intangible Cultural Heritage, UNESCO frameworks for AI ethics and cultural governance, and international child-rights frameworks are used as interpretive support for safeguarding, review procedures, and cultural governance. Gambian educational and institutional frameworks, including the Ministry of Basic and Secondary Education (MoBSE) Education Sector Policy, the Gambia ICT4D Policy, and applicable national child protection and youth policies, provide additional contextual guidance for AIWA's educational operations. These international and national frameworks support Gambian law. They do not replace it.
+
+3.6. AIWA's internal governance architecture is contractual and operational. It exists to administer rights, permissions, safeguarding, compliance, and payout handling within the AIWA system.
+
+3.7. AIWA does not exercise legislative, judicial, ministerial, or sovereign authority. AIWA classifications, approvals, restrictions, and review gates are internal governance controls for AIWA-administered works and do not displace the authority of ministries, NCAC, regulators, or courts.
+
+3.8. Where a matter turns on folklore status, protected heritage, educational authority, child protection, criminal law, regulatory instruction, or court-compelled process, AIWA must defer or escalate to the applicable Gambian public authority.
+
+3.9. AIWA may maintain non-voting consultation, ministry liaison, and public-interest review mechanisms to support alignment with Gambian institutions. These mechanisms are consultative only and do not replace formal public authority.
 
 ---
 

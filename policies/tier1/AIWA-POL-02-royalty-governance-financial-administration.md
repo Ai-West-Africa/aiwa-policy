@@ -193,7 +193,8 @@
 - total revenues collected in the period;
 - applicable deductions and fees;
 - net amount due; and
-- amount paid and payment date.
+- amount paid and payment date; and
+- for community-linked works, community benefit funds, or AI dataset revenues, the routing basis showing whether funds were allocated to an individual rights holder, a community fund, or another documented beneficiary route.
 
 10.6. Rights holders have the right to request an account review for any royalty statement within twelve months of receipt.
 

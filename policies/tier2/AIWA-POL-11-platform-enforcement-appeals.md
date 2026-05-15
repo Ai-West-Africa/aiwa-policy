@@ -113,6 +113,14 @@
 
 5.8. Where the appeal involves a claim above the Governance Board threshold, the appeal is reviewed by the Governance Board directly.
 
+5.9. AIWA must maintain published appeals principles covering independence of review, evidence access consistent with confidentiality obligations, written reasoning, non-retaliation for good-faith appeals, and the timelines applicable to appeal handling.
+
+5.10. AIWA may publish anonymized aggregate summaries of appeal outcomes to support procedural transparency, provided no personal data, confidential commercial data, or protected cultural information is disclosed.
+
+5.11. Where an appeal turns on a matter reserved to Gambian courts, NCAC, ministries, or another public authority, AIWA must document and communicate the applicable external review, referral, or deferral path.
+
+5.12. External referral or deferral does not remove AIWA's obligation to preserve records, maintain the current decision state unless lawfully changed, and cooperate with applicable public authorities.
+
 ---
 
 ## 6. Reinstatement Procedures

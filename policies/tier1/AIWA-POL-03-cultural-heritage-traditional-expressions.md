@@ -58,6 +58,12 @@
 
 3.4. Where a determination of cultural heritage status is made by a Gambian authority, that determination is final within its jurisdiction and binding on AIWA.
 
+3.5. AIWA cultural classifications are operational and contractual tools used to manage intake, access, licensing, and safeguarding within the AIWA system. They are not sovereign determinations of national cultural status.
+
+3.6. Where folklore status, sacred status, or national heritage designation is materially disputed, AIWA must maintain restriction or hold status and refer or defer the question to NCAC or another applicable Gambian authority.
+
+3.7. AIWA supports, and does not replace, Gambian cultural institutions. Its role is to operationalize protections for materials that pass through the AIWA system.
+
 ---
 
 ## 4. Distinction Between Creator-Owned Works and Traditional Cultural Expressions
@@ -276,6 +282,8 @@
 13.6. AIWA must maintain a Community Representative Register recording all verified community representatives, the scope of their authority, and the materials to which their authority applies.
 
 13.7. Community representative authority does not create rights in the material for the representative. Authority to participate in governance decisions is not equivalent to ownership.
+
+13.8. A verified community representative may file a documented objection to a proposed licensing, AI-use, access, or distribution decision involving community-linked material. AIWA must record the objection, place the matter on hold or keep it restricted pending review, and escalate to NCAC or another applicable Gambian authority where the objection raises a disputed question of public cultural authority.
 
 ---
 

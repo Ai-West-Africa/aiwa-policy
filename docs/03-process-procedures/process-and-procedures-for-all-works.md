@@ -50,8 +50,14 @@
 2. **Classification before exploitation** — No work is exploited, monetized, or distributed before classification is assigned.
 3. **Documentation before approval** — No approval is valid without a documented record.
 4. **Review before exception** — No exception to restriction is granted without a formal review.
-5. **Restriction on doubt** — When in doubt, the work is restricted.
+5. **Precaution on material uncertainty** — Where material uncertainty exists involving cultural harm, rights ambiguity, or community sensitivity, proportionate precautionary controls apply pending documented review.
 6. **Monitoring after release** — Approved use does not end oversight.
+
+3.2. Precautionary control application rules:
+
+3.2.1. Controls must map to the minimum control needed under the Stage 4 risk level (as listed in Stage 4 output, Section 7.4.7).
+
+3.2.2. Controls may only use the allowed decision states in Section 6 (Allowed Decision States).
 
 ---
 
@@ -306,6 +312,16 @@ One risk level:
 - **Restricted-risk** — proceed to Stage 5 with restricted flag; or
 - **Government-approval-risk** — proceed to Stage 5 with government-approval flag.
 
+### 7.4.8. Fast-Track Eligibility Rule
+
+A work is marked Fast-Track Eligible only where Stage 4 identifies none of the following:
+
+- folklore linkage indicators;
+- restricted-risk indicators; or
+- government-approval-risk indicators.
+
+Fast-Track Eligible status means the work may bypass mandatory Stage 7 review unless a later-stage risk trigger requires Stage 7 before decision.
+
 ---
 
 ## Stage 5 — Initial Classification
@@ -415,6 +431,11 @@ AIWA Cultural Review Unit.
 
 Whenever a work is elevated beyond standard handling, as flagged in Stage 4 or Stage 5.
 
+For Fast-Track Eligible cases:
+
+- Stage 7 is recorded as "Not Required — No cultural trigger identified."
+- If a new risk signal is identified in any intervening stage before Stage 9, Stage 7 becomes mandatory before a decision is issued.
+
 ### 7.7.5. Where
 
 Inside the AIWA cultural review system.
@@ -430,6 +451,14 @@ The review must examine:
 - whether monetization should be blocked;
 - whether AI use must be denied; and
 - whether escalation to a ministry, community authority, or governance board is required.
+
+Where community consultation is required, the review record must also document:
+
+- the trigger for consultation;
+- the identified community or representative consulted;
+- the basis for standing (recognized authority, documented mandate, or credible affected-interest evidence);
+- the consultation window and submissions received; and
+- how the consultation outcome affected classification, limits, or escalation decisions.
 
 ### 7.7.7. Output
 
@@ -675,6 +704,14 @@ A two-step appeal process applies:
 
 1. Administrative reconsideration by the Appeals Officer; then
 2. Governance Board appeal for defined high-stakes matters.
+
+Contributor procedural rights in Stage 12 must include:
+
+- written notice of the original decision and basis;
+- access to the non-confidential evidence relied upon;
+- a defined window to submit corrections or supporting evidence;
+- review by an officer who was not the sole original decision-maker for elevated, restricted, or escalated cases; and
+- a written outcome statement explaining whether the decision was upheld, modified, or reversed.
 
 ### 7.12.7. Output
 
@@ -936,7 +973,11 @@ The contributor retains ownership of the original submitted work. This license d
 
 11.1.9. No bypass of classification for any reason.
 
-11.1.10. When in doubt, restrict.
+11.1.10. Where material uncertainty exists, proportionate precautionary controls must be applied and the basis recorded.
+
+11.1.11. No precautionary hold may continue unless a documented review path is set with a decision owner and a review date no later than 30 calendar days from the timestamp of the initial hold decision entry in the AIWA system.
+
+11.1.12. If that review date passes without a recorded decision, the case must be escalated to AIWA Senior Review within 5 business days.
 
 ---
 
