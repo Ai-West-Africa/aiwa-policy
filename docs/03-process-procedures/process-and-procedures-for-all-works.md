@@ -50,8 +50,14 @@
 2. **Classification before exploitation** — No work is exploited, monetized, or distributed before classification is assigned.
 3. **Documentation before approval** — No approval is valid without a documented record.
 4. **Review before exception** — No exception to restriction is granted without a formal review.
-5. **Precaution on material uncertainty** — Where material uncertainty exists involving cultural harm, rights ambiguity, or community sensitivity, proportionate precautionary controls apply pending documented review. Proportionate controls must map to the minimum control needed under the Stage 4 risk level and may only use the allowed decision states in Section 6 (Allowed Decision States).
+5. **Precaution on material uncertainty** — Where material uncertainty exists involving cultural harm, rights ambiguity, or community sensitivity, proportionate precautionary controls apply pending documented review.
 6. **Monitoring after release** — Approved use does not end oversight.
+
+3.2. Precautionary control application rules:
+
+3.2.1. Controls must map to the minimum control needed under the Stage 4 risk level.
+
+3.2.2. Controls may only use the allowed decision states in Section 6 (Allowed Decision States).
 
 ---
 
@@ -301,10 +307,18 @@ Apply the following trigger questions:
 
 One risk level:
 
-- **Standard** — proceed to Stage 5 and mark Fast-Track Eligible only where Stage 4 shows none of the following: folklore linkage indicators, restricted-risk indicators, or government-approval-risk indicators;
+- **Standard** — proceed to Stage 5;
 - **Elevated** — proceed to Stage 5 with elevated flag;
 - **Restricted-risk** — proceed to Stage 5 with restricted flag; or
 - **Government-approval-risk** — proceed to Stage 5 with government-approval flag.
+
+### 7.4.8. Fast-Track Eligibility Rule
+
+A work is marked Fast-Track Eligible only where Stage 4 identifies none of the following:
+
+- folklore linkage indicators;
+- restricted-risk indicators; or
+- government-approval-risk indicators.
 
 ---
 
@@ -954,7 +968,11 @@ The contributor retains ownership of the original submitted work. This license d
 
 11.1.9. No bypass of classification for any reason.
 
-11.1.10. Where material uncertainty exists, apply proportionate precautionary controls and record the basis; no precautionary hold may continue unless a documented review path is set with a decision owner and a review date no later than 30 calendar days from the hold decision. If that review date passes without a recorded decision, the case must be escalated to AIWA Senior Review within 5 business days.
+11.1.10. Where material uncertainty exists, proportionate precautionary controls must be applied and the basis recorded.
+
+11.1.11. No precautionary hold may continue unless a documented review path is set with a decision owner and a review date no later than 30 calendar days from the hold decision.
+
+11.1.12. If that review date passes without a recorded decision, the case must be escalated to AIWA Senior Review within 5 business days.
 
 ---
 
