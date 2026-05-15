@@ -280,6 +280,18 @@
 
 14.4. AI partners must cooperate with AIWA audit requests within thirty days.
 
+## 14A. AI Transparency and Human Oversight
+
+14A.1. AI-assisted tools may support lexical extraction, risk flagging, provenance review, monitoring, and audit analysis within the AIWA system.
+
+14A.2. No final decision on approval, restriction, cultural status, enforcement escalation, or rights deprivation may be made by automated systems alone. Material decisions require documented human review under AIWA-GOV-01 and, where applicable, AIWA-POL-11.
+
+14A.3. AIWA must maintain audit logs sufficient to identify the tool or model used, the date of use, the material inputs or signals relied upon, and the human reviewer responsible for the final decision.
+
+14A.4. Where AI-assisted analysis produces a materially inaccurate, incomplete, or potentially biased result, AIWA must document the correction, override, or safeguarding step taken and must not treat the AI output as conclusive.
+
+14A.5. AIWA must be able to state, at policy and record level, whether a decision was AI-assisted or entirely human-made.
+
 ---
 
 ## 15. Anti-Reconstruction Standards
