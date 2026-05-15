@@ -50,7 +50,7 @@
 2. **Classification before exploitation** — No work is exploited, monetized, or distributed before classification is assigned.
 3. **Documentation before approval** — No approval is valid without a documented record.
 4. **Review before exception** — No exception to restriction is granted without a formal review.
-5. **Precaution on material uncertainty** — Where material uncertainty exists involving cultural harm, rights ambiguity, or community sensitivity, proportionate precautionary controls apply pending documented review. Proportionate controls must map to the minimum control needed under the Stage 4 risk level and may only use the allowed decision states in Section 6.
+5. **Precaution on material uncertainty** — Where material uncertainty exists involving cultural harm, rights ambiguity, or community sensitivity, proportionate precautionary controls apply pending documented review. Proportionate controls must map to the minimum control needed under the Stage 4 risk level and may only use the allowed decision states in Section 6 (Allowed Decision States).
 6. **Monitoring after release** — Approved use does not end oversight.
 
 ---
@@ -415,7 +415,7 @@ AIWA Cultural Review Unit.
 
 Whenever a work is elevated beyond standard handling, as flagged in Stage 4 or Stage 5.
 
-For Fast-Track Eligible cases, Stage 7 is recorded as "Not Required — No cultural trigger identified" unless a new risk signal is identified in any intervening stage before Stage 9 (including Stage 5, Stage 6, or Stage 8), in which case Stage 7 becomes mandatory before a decision is issued.
+For Fast-Track Eligible cases, Stage 7 is recorded as "Not Required — No cultural trigger identified" unless a new risk signal is identified in any intervening stage before Stage 9, in which case Stage 7 becomes mandatory before a decision is issued.
 
 ### 7.7.5. Where
 
@@ -954,7 +954,7 @@ The contributor retains ownership of the original submitted work. This license d
 
 11.1.9. No bypass of classification for any reason.
 
-11.1.10. Where material uncertainty exists, apply proportionate precautionary controls and record the basis; no precautionary hold may continue unless a documented review path is set with a decision owner and a review date no later than 30 calendar days from the hold decision.
+11.1.10. Where material uncertainty exists, apply proportionate precautionary controls and record the basis; no precautionary hold may continue unless a documented review path is set with a decision owner and a review date no later than 30 calendar days from the hold decision. If that review date passes without a recorded decision, the case must be escalated to AIWA Senior Review within 5 business days.
 
 ---
 
