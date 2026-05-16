@@ -147,6 +147,16 @@ This logic is binding within AIWA governance and may only be altered by formal a
 - the work shows communal authorship signals;
 - ownership clarity is absent or contested.
 
+5.3.1A. Elevated review triggers must be evidence-based. Acceptable indicators include:
+
+- contributor declarations at intake;
+- metadata or liner notes identifying traditional-source material;
+- credible community-facing claims submitted with reasons;
+- documentary references linking the work to known protected expressions; or
+- unresolved chain-of-title evidence recorded in rights review.
+
+Stylistic influence by itself (for example language choice, beat style, genre influence, or visual motif) is not sufficient to trigger elevated handling unless paired with one of the indicators above.
+
 5.3.2. **Dual Layer Recognition.** A work may be both:
 
 - a modern copyrighted work; **and**
@@ -170,6 +180,8 @@ These two conditions are not mutually exclusive. Both may apply simultaneously. 
 - the content is tied to historical recordings connected to community identity;
 - the content is government-recognized heritage;
 - cross-border cultural claims exist or are foreseeable.
+
+5.4.1A. Extreme case classification requires a recorded basis identifying which condition in 5.4.1 was triggered and what supporting evidence exists. If evidence is uncertain, the work remains in precautionary restricted handling until Stage 7 or Stage 8 review resolves the issue under AIWA-DOC-03.
 
 5.4.2. **State and Cultural Override Exists.** Some materials are not governed purely by copyright. They may be controlled by:
 
@@ -213,6 +225,13 @@ These two conditions are not mutually exclusive. Both may apply simultaneously. 
 ### 6.3. Class 3 — Community-Linked Work
 
 6.3.1. A work that contains identifiable elements linked to a specific community's cultural heritage or that carries communal significance. The work may have an identifiable contributor, but its cultural link creates obligations.
+
+6.3.1A. "Community-linked" requires at least one concrete linkage signal, such as:
+
+- use of named community oral histories, rituals, ceremonial language, or protected narratives;
+- contributor acknowledgement that community consent, consultation, or attribution is required;
+- a documented community objection or notice with stated basis; or
+- a prior classification or authority record linking substantially similar material to the same community context.
 
 6.3.2. Default treatment:
 

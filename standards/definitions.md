@@ -154,6 +154,8 @@
 | **Class 4A — Government-Authorized Restricted Work** | A restricted work with a verified government authorization for specific, defined uses; authorization is scope-limited and expires. |
 | **Folklore-Linked Modern Work** | A modern work containing both original modern elements and protected folklore elements; subject to dual treatment. |
 
+8.1. "Community-linked" treatment under Class 3 requires a documented linkage basis, such as contributor declaration, community notice with reasons, source documentation, or prior verified classification context.
+
 ---
 
 ## 9. Decision State Summary

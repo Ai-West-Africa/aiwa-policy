@@ -322,6 +322,14 @@ A work is marked Fast-Track Eligible only where Stage 4 identifies none of the f
 
 Fast-Track Eligible status means the work may bypass mandatory Stage 7 review unless a later-stage risk trigger requires Stage 7 before decision.
 
+Fast-Track Eligible status does not bypass:
+
+- Stage 5 classification assignment;
+- Stage 6 rights and authority verification; or
+- Stage 9 formal decision recording.
+
+Fast-Track Eligible status is intended for clearly modern, individually authored, rights-clear works where no cultural trigger has been identified. It is an accelerated route, not an exemption from governance.
+
 ---
 
 ## Stage 5 — Initial Classification
@@ -435,6 +443,8 @@ For Fast-Track Eligible cases:
 
 - Stage 7 is recorded as "Not Required — No cultural trigger identified."
 - If a new risk signal is identified in any intervening stage before Stage 9, Stage 7 becomes mandatory before a decision is issued.
+
+Stage 7 is not a default requirement for all works. It is trigger-based and mandatory only where cultural, folklore, community-linked, sacred, restricted, or government-sensitive indicators are present.
 
 ### 7.7.5. Where
 

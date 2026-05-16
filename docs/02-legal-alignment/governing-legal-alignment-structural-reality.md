@@ -74,6 +74,24 @@
 
 3.9. AIWA may maintain non-voting consultation, ministry liaison, and public-interest review mechanisms to support alignment with Gambian institutions. These mechanisms are consultative only and do not replace formal public authority.
 
+3.10. AIWA internal classifications (including "community-linked," "restricted," and "government-authorized restricted") are governance and compliance designations used to control handling inside the AIWA system. These labels do not, by themselves, create ownership rights, sovereign powers, or statutory enforcement powers outside applicable law and contract.
+
+3.11. Enforceability of permissions, restrictions, and use conditions must be grounded in one or more of the following, as applicable:
+
+- contributor agreements and other enforceable contracts;
+- applicable copyright and related rights law;
+- recognized public authority determinations; and
+- applicable court or regulatory orders.
+
+3.12. AIWA does not represent that a classification label alone guarantees enforceability in every foreign jurisdiction. Cross-border enforceability depends on applicable law, contractual structure, and forum-specific legal process.
+
+3.13. For cross-border licensing and institutional collaboration, AIWA agreements must define:
+
+- the rights being granted or administered;
+- the scope of permitted uses and restrictions;
+- governing law and dispute-resolution path; and
+- compliance obligations under applicable sanctions, export control, anti-corruption, and data-protection rules.
+
 ---
 
 ## 3A. Terminology Alignment — AIWA and SPARXSTAR
