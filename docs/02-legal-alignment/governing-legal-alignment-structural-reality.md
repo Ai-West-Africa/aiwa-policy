@@ -76,17 +76,17 @@
 
 ---
 
-## 3B. International Framework Alignment and Human Rights Principles
+## 3A. International Framework Alignment and Human Rights Principles
 
-3B.1. **Purpose.** AIWA operates in alignment with UNESCO's Recommendation on the Ethics of Artificial Intelligence (2021), UNESCO's Recommendation on Open Science (2021), UNESCO's Convention for the Safeguarding of the Intangible Cultural Heritage (2003), and the UN Sustainable Development Goals. This section states AIWA's explicit commitments under those frameworks.
+3A.1. **Purpose.** AIWA operates in alignment with UNESCO's Recommendation on the Ethics of Artificial Intelligence (2021), UNESCO's Recommendation on Open Science (2021), UNESCO's Convention for the Safeguarding of the Intangible Cultural Heritage (2003), and the UN Sustainable Development Goals. This section states AIWA's explicit commitments under those frameworks.
 
-3B.2. **Human dignity and rights.** AIWA recognises that the works it administers are created by people with inherent dignity and human rights. Every intake, classification, licensing, and payout decision must respect the dignity and human rights of contributors, community members, and affected persons. AIWA rejects any use of materials that violates the fundamental rights of the people whose works, knowledge, or cultural heritage is involved.
+3A.2. **Human dignity and rights.** AIWA recognises that the works it administers are created by people with inherent dignity and human rights. Every intake, classification, licensing, and payout decision must respect the dignity and human rights of contributors, community members, and affected persons. AIWA rejects any use of materials that violates the fundamental rights of the people whose works, knowledge, or cultural heritage is involved.
 
-3B.3. **Transparency and accountability.** AIWA maintains recorded decisions, audit trails, and accessible appeals mechanisms. AIWA publishes a public-facing transparency notice that describes its governance model, scope of operations, basis for classifications, rights administration principles, and cultural protection standards. This notice is reviewed and updated at least annually.
+3A.3. **Transparency and accountability.** AIWA maintains recorded decisions, audit trails, and accessible appeals mechanisms. AIWA publishes a public-facing transparency notice that describes its governance model, scope of operations, basis for classifications, rights administration principles, and cultural protection standards. This notice is reviewed and updated at least annually.
 
-3B.4. **Fairness and non-discrimination.** AIWA applies its structured review process consistently. AIWA monitors the composition of its corpora and operations to identify and address sources of bias, underrepresentation, or discriminatory effect. AIWA does not administer, curate, or licence works in a manner that perpetuates harmful stereotypes, discrimination, or exclusion based on ethnicity, gender, religion, language community, or other protected characteristics.
+3A.4. **Fairness and non-discrimination.** AIWA applies its structured review process consistently. AIWA monitors the composition of its corpora and operations to identify and address sources of bias, underrepresentation, or discriminatory effect. AIWA does not administer, curate, or licence works in a manner that perpetuates harmful stereotypes, discrimination, or exclusion based on ethnicity, gender, religion, language community, or other protected characteristics.
 
-3B.5. **Data governance.** AIWA governs all works and data throughout their lifecycle. AIWA's data lifecycle governance covers:
+3A.5. **Data governance.** AIWA governs all works and data throughout their lifecycle. AIWA's data lifecycle governance covers:
 
 - collection: what data is accepted and on what basis;
 - storage: how data is held securely and where;
