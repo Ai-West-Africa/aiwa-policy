@@ -29,6 +29,7 @@ All terms are listed in alphabetical order.
 | **Approved** | A decision state. The work is cleared for the stated scope of use. |
 | **Approved with Limits** | A decision state. The work is cleared with defined restrictions. All limits must be documented. |
 | **Archive Release** | The release of a work into an archival system for storage, preservation, or controlled access. Archive release is subject to the same classification and approval requirements as other forms of release. |
+| **Authorised Publishing Partner** | An organisation engaged by AIWA on a non-exclusive basis to manage global rights exploitation, international licensing, platform distribution, cross-border monetization, and enforcement in applicable jurisdictions. Authorised Publishing Partners operate only within the scope approved by AIWA, return revenue through AIWA-controlled payout routing, and must meet the qualification standards defined in AIWA-GOV-01 Section 15.4. No Authorised Publishing Partner holds ownership of or exclusive control over any work administered by AIWA. |
 | **Authorization** | A formal government permission granting specific, defined uses of a restricted or folklore-linked work. Authorization is not ownership transfer. Authorization is scope-limited. Authorization does not remove underlying protection. |
 | **Baseline Classification** | The default classification level applied to a modern work with an identifiable contributor, in fixed form, submitted voluntarily. The default is Class 1 unless trigger conditions indicate otherwise. |
 | **Breach** | A contributor's submission of material that AIWA has prohibited, that is materially misrepresented, that lacks required rights, or that violates submission rules. |
@@ -83,11 +84,10 @@ All terms are listed in alphabetical order.
 | **Monitoring** | Stage 11 of the AIWA procedure. Ongoing tracking of works after release to detect rights disputes, misuse, and policy breaches. |
 | **Musical Work** | Any composition consisting of music, lyrics, or both. |
 | **NCAC** | National Centre for Arts and Culture. The Gambian institution with authority over arts, culture, and cultural protection. |
-| **Non-Exclusive** | A model in which AIWA or PRIME may work with multiple partners without restriction. No single partner holds exclusive rights. |
-| **Offshore Rights Hub** | The external rights administration structure through which global licensing, distribution, and monetization are managed. PRIME is the current offshore rights hub. |
+| **Non-Exclusive** | A model in which AIWA may work with multiple partners without restriction. No single partner holds exclusive rights. All partner engagements are non-exclusive as a structural requirement. |
+| **Offshore Rights Hub** | The external rights administration structure through which global licensing, distribution, and monetization are managed. Offshore rights functions are performed by Authorised Publishing Partners engaged on a non-exclusive basis. |
 | **Original Individual Work** | See Class 1. |
 | **Payout Routing** | The direction of revenue from a work to the appropriate recipients, including creators and community allocation where applicable. Payout routing is controlled by AIWA. |
-| **PRIME** | The non-exclusive offshore rights and exploitation partner of AIWA. PRIME is partially owned by the same founders as AIWA. PRIME is not the local steward. |
 | **Provisional Classification** | A classification assigned with medium or low confidence, pending further review. Works with provisional classification may not proceed directly to exploitation. |
 | **Reference Work** | A work structured for look-up purposes, including dictionaries, encyclopedias, and directories. |
 | **Rejected** | A decision state. The work does not meet entry requirements and is not accepted into the AIWA system. |

@@ -11,7 +11,7 @@
 
 ## 1. Purpose
 
-1.1. This document defines the legal alignment of AI West Africa (AIWA) and its offshore rights partner (PRIME).
+1.1. This document defines the legal alignment of AI West Africa (AIWA) and its offshore publishing partners.
 
 1.2. This document defines the relationship between local stewardship and global rights exploitation, and the legal and practical reasons for this structure.
 
@@ -34,9 +34,9 @@
 - the payout manager and community allocator; and
 - the cultural risk gatekeeper for The Gambia.
 
-2.2. **PRIME** operates as:
+2.2. **Authorised Publishing Partners** operate as:
 
-- a non-exclusive offshore rights and exploitation partner.
+- non-exclusive offshore rights and exploitation partners engaged on a work-by-work or category basis.
 
 2.3. This structure exists to:
 
@@ -56,13 +56,13 @@
 - Gambian cultural and heritage protections, including the protection of expressions of folklore; and
 - the applicable regulatory authority of relevant Gambian ministries and public institutions.
 
-3.2. PRIME operates under:
+3.2. Each Authorised Publishing Partner operates under:
 
 - applicable international and jurisdictional law for distribution, licensing, and rights exploitation in the relevant territories.
 
-3.3. No agreement between AIWA and PRIME, or between AIWA and any other party, overrides Gambian law where Gambian law applies.
+3.3. No agreement between AIWA and any Authorised Publishing Partner, or between AIWA and any other party, overrides Gambian law where Gambian law applies.
 
-3.4. Expressions of folklore under Gambian law are held in trust for the people of The Gambia. Neither AIWA nor PRIME may convert protected cultural material into private property or bypass legal and cultural protections that apply to such material.
+3.4. Expressions of folklore under Gambian law are held in trust for the people of The Gambia. Neither AIWA nor any Authorised Publishing Partner may convert protected cultural material into private property or bypass legal and cultural protections that apply to such material.
 
 3.5. The UNESCO 2003 Convention for the Safeguarding of Intangible Cultural Heritage, UNESCO frameworks for AI ethics and cultural governance, and international child-rights frameworks are used as interpretive support for safeguarding, review procedures, and cultural governance. Gambian educational and institutional frameworks, including the Ministry of Basic and Secondary Education (MoBSE) Education Sector Policy, the Gambia ICT4D Policy, and applicable national child protection and youth policies, provide additional contextual guidance for AIWA's educational operations. These international and national frameworks support Gambian law. They do not replace it.
 
@@ -73,6 +73,36 @@
 3.8. Where a matter turns on folklore status, protected heritage, educational authority, child protection, criminal law, regulatory instruction, or court-compelled process, AIWA must defer or escalate to the applicable Gambian public authority.
 
 3.9. AIWA may maintain non-voting consultation, ministry liaison, and public-interest review mechanisms to support alignment with Gambian institutions. These mechanisms are consultative only and do not replace formal public authority.
+
+---
+
+## 3C. International Framework Alignment and Human Rights Principles
+
+3C.1. **Purpose.** AIWA operates in alignment with UNESCO's Recommendation on the Ethics of Artificial Intelligence (2021), UNESCO's Recommendation on Open Science (2021), UNESCO's Convention for the Safeguarding of the Intangible Cultural Heritage (2003), and the UN Sustainable Development Goals. This section states AIWA's explicit commitments under those frameworks.
+
+3C.2. **Human dignity and rights.** AIWA recognises that the works it administers are created by people with inherent dignity and human rights. Every intake, classification, licensing, and payout decision must respect the dignity and human rights of contributors, community members, and affected persons. AIWA rejects any use of materials that violates the fundamental rights of the people whose works, knowledge, or cultural heritage is involved.
+
+3C.3. **Transparency and accountability.** AIWA maintains recorded decisions, audit trails, and accessible appeals mechanisms. AIWA publishes a public-facing transparency notice that describes its governance model, scope of operations, basis for classifications, rights administration principles, and cultural protection standards. This notice is reviewed and updated at least annually.
+
+3C.4. **Fairness and non-discrimination.** AIWA applies its structured review process consistently. AIWA monitors the composition of its corpora and operations to identify and address sources of bias, underrepresentation, or discriminatory effect. AIWA does not administer, curate, or licence works in a manner that perpetuates harmful stereotypes, discrimination, or exclusion based on ethnicity, gender, religion, language community, or other protected characteristics.
+
+3C.5. **Data governance.** AIWA governs all works and data throughout their lifecycle. AIWA's data lifecycle governance covers:
+
+- collection: what data is accepted and on what basis;
+- storage: how data is held securely and where;
+- access: who may access what, under what conditions, and in what tier;
+- retention: how long data is held and the basis for retention periods; and
+- deletion: what happens when consent is withdrawn, a work is rejected, or the administration term ends.
+
+Data lifecycle records are maintained as part of each work's governance record.
+
+3B.6. **Diversity and inclusion.** AIWA's primary mission includes the development of African language and cultural corpora. AIWA actively supports language community inclusion, multilingual representation, and the preservation of linguistic diversity. AIWA applies language and community inclusion safeguards to ensure that historically underrepresented languages, communities, and forms of expression are not excluded, devalued, or under-resourced within the AIWA system.
+
+3B.7. **Cultural heritage respect and community participation.** For culturally derived, community-linked, sacred, restricted, or ambiguous works, AIWA applies enhanced review consistent with UNESCO principles on intangible cultural heritage safeguarding. Community consultation is conducted where required. Benefit-sharing arrangements are documented and enforced where community-linked works are commercially exploited.
+
+3B.8. **Proportional review model.** AIWA corpus governance follows a proportional review model: modern, rights-clear, individually authored works receive standard corpus review; culturally derived, community-linked, sacred, restricted, or ambiguous works receive enhanced review. Cultural review is triggered only by specific risk indicators, not applied uniformly to all works.
+
+3B.9. **SDG alignment.** AIWA's operations advance: SDG 4 (Quality Education) through African language corpora and educational materials; SDG 8 (Decent Work and Economic Growth) through creator monetization and licensing income; SDG 9 (Industry, Innovation, and Infrastructure) through AI and data infrastructure for West African languages; SDG 10 (Reduced Inequalities) through reducing underrepresentation of African languages and creators; SDG 16 (Strong Institutions) through governance, audit, and appeals structures; and SDG 17 (Partnerships) through its model of local stewardship and globally governed commercial partnership.
 
 ---
 
@@ -115,7 +145,7 @@
 | 1 | Gambian law (including folklore protections and ministerial authority) |
 | 2 | Applicable Gambian ministries and public authorities |
 | 3 | AIWA governance and classification system |
-| 4 | Contractual agreements (including agreements with PRIME) |
+| 4 | Contractual agreements (including agreements with Authorised Publishing Partners) |
 | 5 | International frameworks (supporting interpretive reference only, not controlling) |
 
 4.2. No lower-ranked authority may override a higher-ranked authority.
@@ -139,30 +169,30 @@ There are no barriers preventing work from being performed inside The Gambia. AI
 
 5.3. This structure is therefore not a limitation of capability. It is a response to global infrastructure reality.
 
-5.4. Cross-border rights administration through PRIME is used to improve international access, collections, and monetization, while preserving local stewardship in AIWA. All offshore rights administration through PRIME is subject to applicable Gambian law where Gambian law applies, and to the formal jurisdictional authority of applicable Gambian institutions where their authority extends to the relevant matter.
+5.4. Cross-border rights administration through Authorised Publishing Partners is used to improve international access, collections, and monetization, while preserving local stewardship in AIWA. All offshore rights administration is subject to applicable Gambian law where Gambian law applies, and to the formal jurisdictional authority of applicable Gambian institutions where their authority extends to the relevant matter.
 
 5.5. There is no comparable in-country distribution backbone for global exploitation. Rights are therefore administered offshore for global purposes. All management, classification, and payout routing remain in AIWA.
 
 ---
 
-## 6. Offshore Partner (PRIME) — Structure
+## 6. Authorised Publishing Partners — Structure
 
 ### 6.1. Non-Exclusive Model
 
-6.1.1. PRIME is engaged as a non-exclusive partner.
+6.1.1. All Authorised Publishing Partners are engaged on a non-exclusive basis.
 
 6.1.2. AIWA may:
 
-- work with multiple partners;
+- work with multiple partners simultaneously;
 - shift partners over time;
 - build internal capacity; and
 - expand or reduce reliance on offshore systems.
 
-6.1.3. PRIME does not hold exclusive control over rights exploitation for any work in the AIWA system.
+6.1.3. No Authorised Publishing Partner holds exclusive control over rights exploitation for any work or corpus category in the AIWA system.
 
-### 6.2. Purpose of PRIME
+### 6.2. Purpose of Authorised Publishing Partners
 
-6.2.1. PRIME exists to handle:
+6.2.1. Authorised Publishing Partners are engaged to handle:
 
 - global rights exploitation;
 - international licensing;
@@ -172,7 +202,7 @@ There are no barriers preventing work from being performed inside The Gambia. AI
 
 ### 6.3. Structural Safeguard
 
-6.3.1. PRIME does not control:
+6.3.1. No Authorised Publishing Partner may control:
 
 - intake;
 - classification;
@@ -188,47 +218,42 @@ There are no barriers preventing work from being performed inside The Gambia. AI
 
 ---
 
-## 6A. Offshore Partnership Ownership Structure
+## 6A. Partnership Governance Protections
 
-6A.1. AIWA and PRIME operate under a shared ownership structure. Both parties are owners of the offshore partnership entity.
+6A.1. Regardless of the structure of any individual partnership, AIWA retains the following governance rights in all offshore arrangements:
 
-6A.2. This structure ensures that:
+- full control over intake, classification, cultural designation, and restriction status;
+- full control over local payout routing and community allocation;
+- the right to terminate, suspend, or replace any partner engagement; and
+- reserved governance rights on escalation of protected-material disputes.
 
-- Gambian stakeholders retain direct ownership participation in offshore rights operations;
-- control is not entirely externalized; and
-- economic alignment exists between local stewardship and global exploitation.
+6A.2. No offshore partnership arrangement may transfer these governance rights to any partner.
 
-6A.3. The ownership structure of the offshore partnership is as follows:
+6A.3. Gambian stakeholders retain institutional participation in AIWA's governance regardless of the structure of any offshore arrangement. This participation is embedded in AIWA's governance architecture as a structural requirement.
 
-| Party | Ownership Share |
+6A.4. No partnership arrangement, equity arrangement, or commercial agreement overrides Gambian cultural authority, ministerial authority, or NCAC-linked cultural protection where those apply.
+
+6A.5. AIWA permits international commercialization and offshore partnership where such activity remains rights-cleared, locally governed, transparent, proportionate, and benefit-sharing. AIWA rejects extractive arrangements in which external actors obtain control over origin-country cultural or linguistic assets without valid consent, fair compensation, local oversight, or enforceable use limits.
+
+---
+
+## 6B. Authorised Publishing Partner Standards
+
+6B.1. AIWA engages only organisations that meet the following minimum standards as Authorised Publishing Partners:
+
+| Standard | Requirement |
 |---|---|
-| Max (Founder) | 35% |
-| Muhammed (Founder) | 35% |
-| AIWA (Institution) | 30% |
+| Local governance respect | The partner accepts AIWA's exclusive control over intake, classification, cultural designation, restriction status, and payout routing |
+| Informed consent | The partner operates only on works for which valid, documented contributor consent has been obtained |
+| Rights and scope documentation | The partner operates within the use scope documented in the AIWA decision record for each work |
+| Transparent revenue-sharing | The partner provides transparent accounting and returns revenue through AIWA-controlled distribution structures |
+| Fair benefit return | The partner's arrangements ensure that creators and communities receive fair benefit from exploitation |
+| Cultural restriction compliance | The partner honours all cultural holds, community-linked conditions, and restricted-material designations without exception |
+| Non-bypass obligation | The partner does not deal directly with contributors or communities in ways that circumvent AIWA's stewardship role |
+| Licenced access only | The partner receives a licence within defined scope; no ownership or unconstrained access to AIWA-administered works or corpora is transferred |
+| Non-exclusivity | No partner holds exclusive control; AIWA retains the right to work with multiple partners or build internal capacity |
 
-6A.4. Neither founder holds majority control. This is intentional. The structure is designed to:
-
-- prevent personal domination of the system;
-- preserve local legitimacy through institutional Gambian participation; and
-- ensure that Gambian participation is embedded in offshore rights operations even where global infrastructure remains external.
-
-6A.5. Gambian ownership is present within the offshore structure. It is not absent. It is also not majority-controlling.
-
-6A.6. Ownership participation in the offshore structure does not replace:
-
-- AIWA's role as designated local steward;
-- AIWA's control over intake, classification, and payout routing; or
-- Gambian law as the governing legal framework for cultural and local operations.
-
-6A.7. AIWA's institutional share carries reserved governance rights on:
-
-- cultural classification decisions;
-- local payout routing; and
-- escalation of protected-material disputes.
-
-These reserved governance rights apply regardless of equity percentage.
-
-6A.8. AIWA and PRIME may hold ownership interests in the offshore structure, but that ownership does not override Gambian cultural authority, ministerial authority, or NCAC-linked cultural protection where those apply.
+6B.2. AIWA's assessment of a partner's compliance with these standards is documented and reviewable by the Governance Board.
 
 ---
 
@@ -256,7 +281,7 @@ These reserved governance rights apply regardless of equity percentage.
 8.1. The AIWA system is designed so that:
 
 - value generated globally through the exploitation of works in the AIWA system;
-- flows through the structured rights administration managed by AIWA and PRIME;
+- flows through the structured rights administration managed by AIWA and its Authorised Publishing Partners;
 - returns through AIWA; and
 - is distributed to creators and, where applicable, communities.
 
@@ -272,7 +297,7 @@ These reserved governance rights apply regardless of equity percentage.
 - such expressions are held in trust for the people of The Gambia; and
 - such expressions are not freely exploitable as private assets.
 
-9.2. Neither AIWA nor PRIME may:
+9.2. Neither AIWA nor any Authorised Publishing Partner may:
 
 - convert protected cultural material into private property; or
 - bypass legal or cultural protections that apply to folklore or community-linked material.
@@ -394,7 +419,7 @@ These reserved governance rights apply regardless of equity percentage.
 
 15.1. AIWA is the designated local steward within the AIWA system.
 
-15.2. PRIME is a non-exclusive offshore partner.
+15.2. AIWA works only with Authorised Publishing Partners on a non-exclusive basis.
 
 15.3. Gambian law controls first.
 
@@ -408,9 +433,9 @@ These reserved governance rights apply regardless of equity percentage.
 
 15.8. All works flow through AIWA.
 
-15.9. Neither founder holds majority control in the offshore structure.
+15.9. AIWA's institutional governance rights over classification, payout routing, and cultural designation cannot be diluted by any commercial or partnership arrangement.
 
-15.10. AIWA's institutional governance rights over classification and payout routing cannot be diluted by equity mechanics.
+15.10. AIWA's institutional governance rights over classification and payout routing cannot be diluted by any equity or partnership mechanics.
 
 ---
 
@@ -432,7 +457,7 @@ These reserved governance rights apply regardless of equity percentage.
 
 - blunt about its practical design;
 - aligned to the reality of international rights markets;
-- protective of both founders' structural equality;
+- protective of local governance and cultural authority;
 - non-naive about infrastructure dependencies; and
 - structurally defensible before Gambian institutions, ministries, and international partners.
 

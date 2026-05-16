@@ -981,6 +981,131 @@ The contributor retains ownership of the original submitted work. This license d
 
 ---
 
+## 12. Modern Corpus Fast-Track Pathway
+
+### 12.1. Purpose
+
+12.1.1. AIWA's full 13-stage process applies to all works. However, for modern, individually authored, rights-clear, non-folkloric corpus works, the process is designed to move efficiently through each stage. This section describes the specific screening requirements and controls that apply to modern corpus works as they pass through the standard process.
+
+12.1.2. Cultural review is not triggered automatically for modern corpus works. It is triggered only by specific risk indicators identified during classification or rights review.
+
+12.1.3. This pathway aligns with university research ethics practice (Belmont principles, 45 CFR 46, IRB-style privacy screening), Getty-style cultural-data stewardship (structured metadata, rights-clear provenance), and FAIR + CARE data governance principles.
+
+### 12.2. Qualifying Conditions
+
+12.2.1. A work qualifies for the modern corpus fast-track pathway if it meets all of the following conditions:
+
+- the work is by an identifiable, living or recently deceased individual author or group;
+- the work is modern (not folklore, not community-held heritage, not sacred, not ceremonially restricted);
+- rights are clear (the submitting party has documented authority to submit for corpus inclusion and the stated uses);
+- the work is non-folkloric (no trigger conditions under AIWA-DOC-01 classification apply); and
+- no specific risk indicators are present at classification or rights review.
+
+12.2.2. If any of the above conditions is not met, the work proceeds through full review including cultural review where indicated.
+
+### 12.3. Modern Corpus Consent and Contributor Licence
+
+12.3.1. Every contributor submitting a modern corpus work must provide informed consent covering each of the following use types for which the work is submitted:
+
+| Use Type | Consent Requirement |
+|---|---|
+| Corpus inclusion | Explicit consent required |
+| AI training use | Explicit consent required (separate from corpus inclusion) |
+| Research use | Explicit consent required |
+| Commercial use | Explicit consent required |
+| Attribution requirements | Documented |
+| Withdrawal rights and limits | Disclosed and documented |
+
+12.3.2. Consent must be affirmative, documented, and attached to the intake record. Each use type for which a work is submitted requires separate, clearly identified consent. A single bundled consent statement (e.g., a single tick-box covering all use types) is not a sufficient basis for AI training use or commercial use. Where a work is submitted solely for corpus inclusion and research use without AI training or commercial use, bundled consent for those two use types is permitted provided each type is clearly identified and the contributor is not misled about the scope.
+
+12.3.3. Withdrawal rights must be disclosed. Where withdrawal of consent after processing is technically limited (e.g., trained model weights cannot be reversed), that limitation must be disclosed before consent is obtained. See AIWA-POL-04 Sections 5.5 and 5.6 for the obligations that apply when deletion from model weights is not technically feasible.
+
+### 12.4. IRB-Style Privacy Screen
+
+12.4.1. Every modern corpus work must pass a privacy screen before it proceeds to the decision gate. The privacy screen addresses:
+
+- whether the work is from or about an identifiable living person;
+- whether the work contains personally identifiable information;
+- whether the work involves interviews, health data, education records, or other sensitive personal data;
+- whether the work involves minors;
+- whether de-identification is required and has been applied; and
+- whether the submitting party has lawful authority to include the work in the corpus and to permit the stated uses.
+
+12.4.2. If the privacy screen identifies any of the above conditions, the work is held pending documented resolution. Works involving minors or sensitive personal data require additional documented clearance before proceeding.
+
+12.4.3. The privacy screen record must be attached to the intake record and referenced in the decision record.
+
+### 12.5. Getty-Style Provenance Metadata
+
+12.5.1. Every modern corpus work must have a complete provenance metadata record before the decision gate is reached. The provenance metadata record must include:
+
+| Field | Requirement |
+|---|---|
+| Creator | Name and attribution form |
+| Date of creation | Year or date range |
+| Source | Origin and submission channel |
+| Rights basis | Ownership, licence, or lawful authority |
+| Rights restrictions | Any limits on use |
+| Consent status | Documented consent scope |
+| Language | Primary language(s) |
+| Classification | AIWA classification category |
+| Use limits | Approved use scope |
+| Provenance review history | All review actions and dates |
+| Access tier | Public / researcher-only / internal-only / restricted / blocked |
+
+12.5.2. Incomplete provenance metadata is grounds for a Held decision at the decision gate.
+
+### 12.6. FAIR + CARE Alignment
+
+12.6.1. AIWA applies FAIR data principles (Findable, Accessible, Interoperable, Reusable) to modern corpus works accepted into research-accessible pools, subject to rights and consent controls.
+
+12.6.2. AIWA applies CARE data governance principles (Collective Benefit, Authority to Control, Responsibility, Ethics) to all works where community data is implicated, including Class 2, 3, and 4 works and any work where language, oral tradition, or community-linked elements are present.
+
+12.6.3. FAIR and CARE principles operate alongside, not instead of, AIWA's classification, consent, and cultural review requirements.
+
+### 12.7. Access Tiers
+
+12.7.1. Every corpus work must be assigned to an access tier at the decision gate. The permitted access tiers are:
+
+| Tier | Description |
+|---|---|
+| Public | Freely accessible subject to licence terms |
+| Researcher-only | Accessible only to verified research users under a research use agreement |
+| Internal-only | Accessible only within AIWA and authorised partner systems |
+| Restricted | Access limited to defined conditions (community consent, government authorization, or similar) |
+| Blocked | No access permitted outside AIWA governance review |
+
+12.7.2. Access tier assignments must be documented in the decision record and enforced in the AIWA system.
+
+### 12.8. Cultural Review Triggers for Modern Corpus Works
+
+12.8.1. Cultural review is triggered for a modern corpus work only if one or more of the following risk indicators is identified during intake, classification, or rights review:
+
+- the work contains reproduced or adapted traditional expressions;
+- the work is community-linked (Class 3 indicators);
+- the work contains sacred, ceremonial, or restricted material;
+- the classification confidence is Medium or Low;
+- a community objection or rights dispute has been received; or
+- any other indicator under AIWA-DOC-01 triggers elevated or restricted classification.
+
+12.8.2. The presence of cultural influence, language style, or cultural reference alone does not trigger cultural review for a modern corpus work. Cultural influence is not folklore (see AIWA-STD-01).
+
+### 12.9. Audit Trail
+
+12.9.1. A complete audit trail must be maintained for every corpus item. The audit trail must record:
+
+- every stage of the 13-stage process through which the work has passed;
+- every decision made, the basis for the decision, and the decision officer;
+- every consent record;
+- every provenance metadata update;
+- every access tier assignment or change;
+- any privacy screen finding and resolution; and
+- any cultural review trigger and outcome.
+
+12.9.2. The audit trail is part of the intake record and must be retained for the life of the work's presence in the AIWA system and for a minimum of seven years after administration ends.
+
+---
+
 **End of AIWA-DOC-03**
 
 ---

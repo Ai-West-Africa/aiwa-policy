@@ -116,7 +116,7 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
 Defines what a work is, what folklore is, the five-class classification model, classification levels (Baseline, Elevated, Extreme Case), AI use and monetization boundaries, ownership boundaries, lexical extraction as a system condition for educational archiving, and the five confirmational statements required from all contributors.
 
 ### AIWA-DOC-02 — Governing Legal Alignment & Structural Reality
-Defines the legal hierarchy with Gambian law as the primary authority, AIWA's role as a collective rights administration and licensing organization and designated local steward, PRIME's role as non-exclusive offshore partner, the offshore ownership structure (Max 35% / Muhammed 35% / AIWA 30%), ministry jurisdiction and overlap, government authorization handling, institutional-positioning boundaries, and the core structural statements.
+Defines the legal hierarchy with Gambian law as the primary authority, AIWA's role as a collective rights administration and licensing organization and designated local steward, the Authorised Publishing Partner model for offshore exploitation, partnership governance protections, publishing partner qualification standards, UNESCO and human rights alignment, ministry jurisdiction and overlap, government authorization handling, institutional-positioning boundaries, and the core structural statements.
 
 ### AIWA-DOC-03 — Process & Procedures for All Works
 Defines the 13-stage controlled process for all works from intake through audit, including lexical extraction, classification, rights review, cultural review, government authorization review, decision gate, implementation, monitoring, appeals, and audit. Also defines system processing rights and contributor breach handling.
@@ -131,7 +131,7 @@ Core concept definitions for Work, Folklore, Cultural Work, Dataset, AI Use, and
 Maps each work type to permitted classifications, monetization eligibility, AI use eligibility, and applicable conditions.
 
 ### AIWA-GOV-01 — Roles and Responsibilities
-Defines all roles in the AIWA governance structure from the Governance Board through Intake Staff to PRIME, including responsibilities and authority boundaries for each role.
+Defines all roles in the AIWA governance structure from the Governance Board through Intake Staff and Authorised Publishing Partners, including responsibilities, authority boundaries, and publishing partner qualification standards for each role.
 
 ### AIWA-GOV-02 — Decision Framework
 Defines decision principles, the six allowed decision states, decision authority by case type, decision logic tables for each review stage, control rules, the escalation path, record requirements, and reclassification rules.
