@@ -344,7 +344,7 @@ The Submitting Party is any individual, group, institution, or authorized repres
 
 ### 15.1. Role Definition
 
-Authorised Publishing Partners are organisations engaged by AIWA on a non-exclusive basis to manage global rights exploitation, international licensing, platform distribution, cross-border monetization, and enforcement in applicable jurisdictions on behalf of rights holders whose works have been approved for offshore distribution.
+Authorised Publishing Partners are organizations engaged by AIWA on a non-exclusive basis to manage global rights exploitation, international licensing, platform distribution, cross-border monetization, and enforcement in applicable jurisdictions on behalf of rights holders whose works have been approved for offshore distribution.
 
 ### 15.2. Responsibilities
 
